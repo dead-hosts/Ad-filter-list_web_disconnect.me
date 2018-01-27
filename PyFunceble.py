@@ -136,6 +136,8 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # HTTP Status code timeout.
     # Consider this as the minimum time in seconds that we need before.
     seconds_before_http_timeout = 3
+    # This allow us to share logs which are used to write PyFunceble updates.
+    share_logs = False
     # Show/hide execution time.
     show_execution_time = False
     # Show/hide the percentage.
@@ -163,6 +165,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     link_to_repo = 'https://github.com/funilrys/PyFunceble'
     # IANA whois Servers.
     iana_server = 'whois.iana.org'
+    # Link to the api where we share logs.
+    link_api_date_format = 'http://pyfunceble.funilrys.com/api/date-format'
+    link_api_no_referer = 'http://pyfunceble.funilrys.com/api/no-referer'
     ##########################################################################
     ################################## Time ##################################
     # Current date & Time.
@@ -525,6 +530,23 @@ class PyFunceble(object):
 
         return
 
+    @classmethod
+    def format_domain(cls, extracted_domain):
+        """
+        Format the extracted domain before passing it to the system.
+
+        :param extracted_domain: A string, the extracted domain from the file.
+        """
+
+        separation = [' ', '\t']
+
+        for string in separation:
+            if string in extracted_domain:
+                result = extracted_domain.split('#')[0]
+                return result.split(string)[-1]
+
+        return extracted_domain
+
     def file(self, file_path):  # pylint: disable=too-many-branches,too-many-statements
         """
         Manage the case that need to test each domain of a given file path.
@@ -589,29 +611,11 @@ class PyFunceble(object):
 
             domain = domain.rstrip('\n')
 
-            regex_ip = r'127\.0\.0\.1'
-            regex_ip2 = r'0\.0\.0\.0'
-
-            space = ' '
-            double_space = space * 2
-
             if domain == '' or True in match_result:
                 i += 1
                 continue
-            elif Helpers.Regex(domain, regex_ip, return_data=False).match() \
-                    or Helpers.Regex(domain, regex_ip2, return_data=False).match():
-                if double_space in domain:
-                    domain = domain.split(double_space)[1]
-                elif space in domain:
-                    domain = domain.split(' ')[1]
-            else:
-                if double_space in domain:
-                    domain = domain.split(double_space)[0]
-                elif space in domain:
-                    domain = domain.split(' ')[0]
 
-            Settings.domain = domain.split('#')[0]
-
+            Settings.domain = self.format_domain(domain)
             status = ExpirationDate().get()
 
             if Settings.inactive_database:
@@ -1056,7 +1060,7 @@ class Prints(object):
         if not Settings.no_files \
             and self.output is not None \
                 and self.output != '' \
-        and not path.isfile(self.output):
+            and not path.isfile(self.output):
             link = ("# File generated with %s\n" % Settings.link_to_repo)
             date_of_generation = (
                 "# Date of generation: %s \n\n" %
@@ -1795,22 +1799,31 @@ class Referer(object):
             '.') + 1:]
 
         self.ignored_extension = [
+            'ad',
             'al',
             'ao',
             'az',
+            'ba',
+            'bb',
             'bd',
             'eg',
             'fm',
             'ge',
+            'gm',
             'gr',
+            'gt',
             'jo',
+            'lb',
             'mil',
             'mt',
+            'ni',
             'np',
+            'nr',
             'pa',
             'ph',
             'pk',
             'py',
+            'tj',
             'tt',
             'vn',
             'zw'
@@ -1870,6 +1883,13 @@ class Referer(object):
             Helpers.File(
                 Settings.no_referer_logs_dir +
                 self.domain_extension).write(logs)
+
+            if Settings.share_logs:
+                data_to_share = {
+                    'extension': self.domain_extension
+                }
+
+                requests.post(Settings.link_api_no_referer, data=data_to_share)
 
 
 class ExpirationDate(object):
@@ -1962,6 +1982,17 @@ class ExpirationDate(object):
             Helpers.File(
                 Settings.date_format_logs_dir +
                 Settings.referer).write(log)
+
+            if Settings.share_logs:
+                date_to_share = {
+                    'domain': Settings.domain,
+                    'expiration_date': self.expiration_date,
+                    'whois_server': Settings.referer
+                }
+
+                requests.post(
+                    Settings.link_api_date_format,
+                    data=date_to_share)
 
     @classmethod
     def cases_management(cls, regex_number, matched_result):
@@ -2583,7 +2614,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.20.23-beta'
+            version='%(prog)s 0.21.0-beta'
         )
 
         ARGS = PARSER.parse_args()
