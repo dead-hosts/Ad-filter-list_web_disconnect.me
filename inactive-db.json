@@ -102,9 +102,8 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "go-clicks.de"
-        ],
-        "to_test": [
+            "go-clicks.de",
+            "idot.cz",
             "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
@@ -114,13 +113,16 @@
             "netflame.cc",
             "network.business.com",
             "ngs.impress.co.jp",
+            "oas.villagevoice.com",
             "oewabox.at",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "rb1.design.ru",
+            "rb1.design.ru"
+        ],
+        "to_test": [
             "reefaquarium.biz",
             "rythmxchange.com",
             "seeq.com.invalid",
