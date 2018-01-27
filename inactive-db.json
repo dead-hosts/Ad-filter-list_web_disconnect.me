@@ -79,9 +79,7 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com"
-        ],
-        "to_test": [
+            "assets.loomia.com",
             "banner.alphacool.de",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
@@ -100,10 +98,13 @@
             "creative.ak.facebook.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
+            "eiv.baidu.com",
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "go-clicks.de",
+            "go-clicks.de"
+        ],
+        "to_test": [
             "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
