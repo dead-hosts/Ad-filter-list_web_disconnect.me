@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "number_of_down": 32,
+        "number_of_down": 80,
         "number_of_invalid": 1,
-        "number_of_tested": 522,
-        "number_of_up": 489
+        "number_of_tested": 1038,
+        "number_of_up": 957
     }
 }
