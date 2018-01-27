@@ -120,9 +120,7 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "rb1.design.ru"
-        ],
-        "to_test": [
+            "rb1.design.ru",
             "reefaquarium.biz",
             "rythmxchange.com",
             "seeq.com.invalid",
@@ -144,8 +142,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
-            "webtraxx.de",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
