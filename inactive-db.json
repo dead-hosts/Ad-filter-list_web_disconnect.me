@@ -31,9 +31,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -85,7 +83,9 @@
             "banner.alphacool.de",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
-            "banner.joylandcasino.com",
+            "banner.joylandcasino.com"
+        ],
+        "to_test": [
             "banner.prestigecasino.com",
             "banners.apnuk.com",
             "banners.ebay.com",
