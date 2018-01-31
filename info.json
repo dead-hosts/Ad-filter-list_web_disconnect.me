@@ -1,13 +1,4 @@
 {
-    "autosave_minutes": "10",
-    "commit_autosave_message": "Test of Ad-filter-list",
-    "currently_under_test": "0",
-    "days_until_next_test": "3",
-    "last_test": "1517088784",
-    "list_name": "Ad-filter-list.list",
-    "name": "Ad-filter-list",
-    "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-    "stable": "0",
     "arguments": [
         "--travis",
         "-a",
@@ -16,5 +7,14 @@
         "--split",
         "-t 2",
         "--share-logs"
-    ]
+    ],
+    "autosave_minutes": "10",
+    "commit_autosave_message": "Test of Ad-filter-list",
+    "currently_under_test": "0",
+    "days_until_next_test": "3",
+    "last_test": "1517431540",
+    "list_name": "Ad-filter-list.list",
+    "name": "Ad-filter-list",
+    "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+    "stable": "0"
 }
