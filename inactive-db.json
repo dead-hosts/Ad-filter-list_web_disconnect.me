@@ -102,9 +102,7 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "idot.cz"
-        ],
-        "to_test": [
+            "idot.cz",
             "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
@@ -114,7 +112,6 @@
             "netflame.cc",
             "network.business.com",
             "ngs.impress.co.jp",
-            "oas.villagevoice.com",
             "oewabox.at",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
@@ -133,7 +130,9 @@
             "stat.tudou.com",
             "stats.cts-bv.nl",
             "stats.suite101.com",
-            "stats.surfaid.ihost.com",
+            "stats.surfaid.ihost.com"
+        ],
+        "to_test": [
             "suavalds.com",
             "textads.opera.com",
             "top66.ro",
