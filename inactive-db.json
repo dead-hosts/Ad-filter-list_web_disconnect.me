@@ -127,12 +127,11 @@
             "sitemerkezi.net",
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
-            "stat.tudou.com"
-        ],
-        "to_test": [
+            "stat.tudou.com",
             "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
+            "suavalds.com",
             "textads.opera.com",
             "top66.ro",
             "touchclarity.natwest.com",
@@ -141,7 +140,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
