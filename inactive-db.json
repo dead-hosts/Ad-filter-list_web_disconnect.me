@@ -82,9 +82,7 @@
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
-            "aylarl.com"
-        ],
-        "to_test": [
+            "aylarl.com",
             "banner.alphacool.de",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
@@ -106,7 +104,9 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "go-clicks.de",
+            "go-clicks.de"
+        ],
+        "to_test": [
             "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
