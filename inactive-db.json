@@ -104,9 +104,7 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "go-clicks.de"
-        ],
-        "to_test": [
+            "go-clicks.de",
             "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
@@ -131,7 +129,9 @@
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
-            "stats.cts-bv.nl",
+            "stats.cts-bv.nl"
+        ],
+        "to_test": [
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
