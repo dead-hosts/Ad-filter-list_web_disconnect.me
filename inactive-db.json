@@ -129,9 +129,7 @@
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
-            "stats.cts-bv.nl"
-        ],
-        "to_test": [
+            "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
@@ -143,7 +141,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
