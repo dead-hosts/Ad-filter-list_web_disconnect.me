@@ -33,9 +33,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -60,6 +58,8 @@
             "ads.trinitymirror.co.uk",
             "ads.wunderground.com",
             "ads1.theglobeandmail.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
             "adserver-live.yoc.mobi",
@@ -84,7 +84,9 @@
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
-            "aylarl.com",
+            "aylarl.com"
+        ],
+        "to_test": [
             "banner.alphacool.de",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
