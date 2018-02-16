@@ -106,9 +106,7 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "idot.cz"
-        ],
-        "to_test": [
+            "idot.cz",
             "iliillliO00OO0.321.cn",
             "kt-g.de",
             "lct.salesforce.com",
@@ -132,7 +130,9 @@
             "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
-            "smartbase.cdnservices.com",
+            "smartbase.cdnservices.com"
+        ],
+        "to_test": [
             "sprinks-clicks.about.com",
             "stat.tudou.com",
             "stats.cts-bv.nl",
