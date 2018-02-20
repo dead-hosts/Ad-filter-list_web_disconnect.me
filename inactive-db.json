@@ -127,9 +127,7 @@
             "reefaquarium.biz",
             "rythmxchange.com",
             "seeq.com.invalid",
-            "sexaddpro.de"
-        ],
-        "to_test": [
+            "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
             "smartbase.cdnservices.com",
@@ -147,7 +145,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
