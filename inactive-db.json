@@ -128,9 +128,7 @@
             "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
-            "smartbase.cdnservices.com"
-        ],
-        "to_test": [
+            "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
             "stats.cts-bv.nl",
@@ -145,7 +143,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
