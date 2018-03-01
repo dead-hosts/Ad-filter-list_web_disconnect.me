@@ -125,9 +125,7 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "ranking-street.de"
-        ],
-        "to_test": [
+            "ranking-street.de",
             "rythmxchange.com",
             "seeq.com.invalid",
             "sexaddpro.de",
@@ -141,14 +139,15 @@
             "stats.surfaid.ihost.com",
             "suavalds.com",
             "textads.opera.com",
-            "top66.ro",
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
