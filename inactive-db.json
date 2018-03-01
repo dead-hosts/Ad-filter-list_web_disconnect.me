@@ -35,9 +35,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -87,7 +85,9 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
             "aylarl.com",
             "banner.alphacool.de",
             "banner.featuredusers.com",
