@@ -1,10 +1,12 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1519505906": [
+        "1519938104": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
             "ad.about.com",
+            "ad.aboutit.de",
+            "ad.directrev.com",
             "ad.pandora.tv",
             "ad.playground.ru",
             "ad.top50.to",
@@ -13,6 +15,7 @@
             "adbutler.de",
             "adi.mainichi.co.jp",
             "adimage.asiaone.com.sg",
+            "adlantic.nl",
             "adlink.de",
             "admob.comadwhirl.com",
             "ads.adultswim.com",
@@ -32,7 +35,9 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com",
+            "ads.groundspeak.com"
+        ],
+        "to_test": [
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -143,9 +148,7 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com"
-        ],
-        "to_test": [
+            "wads.webteh.com",
             "a.collective-media.net"
         ]
     }
