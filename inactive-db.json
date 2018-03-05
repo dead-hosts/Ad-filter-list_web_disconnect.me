@@ -108,9 +108,8 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "go-clicks.de"
-        ],
-        "to_test": [
+            "go-clicks.de",
+            "idot.cz",
             "iliillliO00OO0.321.cn",
             "kt-g.de",
             "lct.salesforce.com",
@@ -129,7 +128,9 @@
             "qwapi.apple.com",
             "rad.msn.com",
             "ranking-street.de",
-            "rythmxchange.com",
+            "rythmxchange.com"
+        ],
+        "to_test": [
             "seeq.com.invalid",
             "sexaddpro.de",
             "sitebrand.geeks.com",
