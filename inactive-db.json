@@ -35,9 +35,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -50,6 +48,7 @@
             "ads.pkr.com",
             "ads.rottentomatoes.com",
             "ads.rpgdot.com",
+            "ads.savannahnow.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.stationplay.com",
@@ -60,6 +59,7 @@
             "ads.timeout.com",
             "ads.tjwi.info",
             "ads.trinitymirror.co.uk",
+            "ads.whi.co.nz",
             "ads.wunderground.com",
             "ads1.theglobeandmail.com",
             "Adsatt.ABCNews.starwave.com",
@@ -87,7 +87,9 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
             "aylarl.com",
             "banner.alphacool.de",
             "banner.featuredusers.com",
