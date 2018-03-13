@@ -112,10 +112,10 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "gpr.hu"
-        ],
-        "to_test": [
+            "gpr.hu",
+            "idot.cz",
             "iliillliO00OO0.321.cn",
+            "interstat.hu",
             "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
@@ -132,7 +132,9 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "ranking-street.de",
+            "ranking-street.de"
+        ],
+        "to_test": [
             "rythmxchange.com",
             "seeq.com.invalid",
             "sexaddpro.de",
