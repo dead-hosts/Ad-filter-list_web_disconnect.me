@@ -129,9 +129,7 @@
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
-            "rad.msn.com"
-        ],
-        "to_test": [
+            "rad.msn.com",
             "rythmxchange.com",
             "seeq.com.invalid",
             "sexaddpro.de",
@@ -152,7 +150,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
