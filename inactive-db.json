@@ -43,7 +43,8 @@
             "ads.movieflix.com",
             "ads.netclusive.de",
             "ads.newsquest.co.uk",
-            "ads.newtention.net"
+            "ads.newtention.net",
+            ""
         ],
         "to_test": [
             "ads.ookla.com",
@@ -153,8 +154,7 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
-            ""
+            "wads.webteh.com"
         ]
     }
 }
