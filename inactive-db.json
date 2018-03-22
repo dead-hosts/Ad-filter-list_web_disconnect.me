@@ -42,7 +42,9 @@
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
-            "ads.netclusive.de"
+            "ads.netclusive.de",
+            "ads.newsquest.co.uk",
+            "ads.newtention.net"
         ],
         "to_test": [
             "ads.pheedo.com",
@@ -152,8 +154,6 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "ads.newsquest.co.uk",
-            "ads.newtention.net",
             "ads.ookla.com"
         ]
     }
