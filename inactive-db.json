@@ -1,6 +1,12 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1521753109": [
+        "1521839549": [
+            "adi.mainichi.co.jp",
+            "adimage.asiaone.com.sg",
+            "adlantic.nl",
+            "adlink.de",
+            "adman.in.gr",
+            "admob.comadwhirl.com",
             "adprojekt.pl",
             "ads.adultswim.com",
             "ads.alwayson-network.com",
@@ -20,31 +26,10 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "",
-            "a.collective-media.net",
-            "accounts.pkr.com.invalid",
-            "ad-images.suntimes.com",
-            "ad.980x.com",
-            "ad.about.com",
-            "ad.aboutit.de",
-            "ad.directrev.com",
-            "ad.pandora.tv",
-            "ad.playground.ru",
-            "ad.top50.to",
-            "ad.watch.impress.co.jp",
-            "ad2.ip.ro",
-            "adi.mainichi.co.jp",
-            "adimage.asiaone.com.sg",
-            "adlantic.nl",
-            "adlink.de",
-            "adman.in.gr",
-            "admob.comadwhirl.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
-            "ads.netclusive.de",
-            "ads.newsquest.co.uk",
-            "ads.newtention.net"
+            "ads.netclusive.de"
         ],
         "to_test": [
             "ads.pheedo.com",
@@ -154,7 +139,22 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "ads.ookla.com"
+            "ads.ookla.com",
+            "",
+            "a.collective-media.net",
+            "accounts.pkr.com.invalid",
+            "ad-images.suntimes.com",
+            "ad.980x.com",
+            "ad.about.com",
+            "ad.aboutit.de",
+            "ad.directrev.com",
+            "ad.pandora.tv",
+            "ad.playground.ru",
+            "ad.top50.to",
+            "ad.watch.impress.co.jp",
+            "ad2.ip.ro",
+            "ads.newsquest.co.uk",
+            "ads.newtention.net"
         ]
     }
 }
