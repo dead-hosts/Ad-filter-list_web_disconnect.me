@@ -29,7 +29,22 @@
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
-            "ads.netclusive.de"
+            "ads.netclusive.de",
+            "",
+            "a.collective-media.net",
+            "accounts.pkr.com.invalid",
+            "ad-images.suntimes.com",
+            "ad.980x.com",
+            "ad.about.com",
+            "ad.aboutit.de",
+            "ad.directrev.com",
+            "ad.pandora.tv",
+            "ad.playground.ru",
+            "ad.top50.to",
+            "ad.watch.impress.co.jp",
+            "ad2.ip.ro",
+            "ads.newsquest.co.uk",
+            "ads.newtention.net"
         ],
         "to_test": [
             "ads.pheedo.com",
@@ -139,22 +154,7 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "ads.ookla.com",
-            "",
-            "a.collective-media.net",
-            "accounts.pkr.com.invalid",
-            "ad-images.suntimes.com",
-            "ad.980x.com",
-            "ad.about.com",
-            "ad.aboutit.de",
-            "ad.directrev.com",
-            "ad.pandora.tv",
-            "ad.playground.ru",
-            "ad.top50.to",
-            "ad.watch.impress.co.jp",
-            "ad2.ip.ro",
-            "ads.newsquest.co.uk",
-            "ads.newtention.net"
+            "ads.ookla.com"
         ]
     }
 }
