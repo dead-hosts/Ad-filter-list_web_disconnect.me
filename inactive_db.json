@@ -118,9 +118,7 @@
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
-            "m.webtrends.com"
-        ],
-        "to_test": [
+            "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
             "netflame.cc",
@@ -154,7 +152,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
