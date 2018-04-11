@@ -74,9 +74,7 @@
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
             "adserver.freenet.de",
-            "adserver.motorpresse.de"
-        ],
-        "to_test": [
+            "adserver.motorpresse.de",
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
@@ -121,7 +119,9 @@
             "go-clicks.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
-            "leanoisgo.com",
+            "leanoisgo.com"
+        ],
+        "to_test": [
             "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
