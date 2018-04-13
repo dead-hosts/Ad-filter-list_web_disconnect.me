@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1523481698": [
+        "to_test": [
+            "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -156,9 +157,6 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com"
-        ],
-        "to_test": [
-            "a.collective-media.net"
         ]
     }
 }
