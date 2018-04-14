@@ -120,9 +120,7 @@
             "go-clicks.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
-            "leanoisgo.com"
-        ],
-        "to_test": [
+            "leanoisgo.com",
             "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
@@ -158,7 +156,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
