@@ -73,12 +73,11 @@
             "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
-            "adserver.dotcommedia.de"
-        ],
-        "to_test": [
+            "adserver.dotcommedia.de",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
-            "adserver.pl",
+            "adserver.ngz-network.de",
+            "adserver.omroepzeeland.nl",
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
@@ -123,7 +122,9 @@
             "go-clicks.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
-            "leanoisgo.com",
+            "leanoisgo.com"
+        ],
+        "to_test": [
             "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
