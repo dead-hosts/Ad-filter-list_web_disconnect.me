@@ -71,9 +71,7 @@
             "adserv.qconline.com",
             "adserv.quality-channel.de",
             "adserver-live.yoc.mobi",
-            "adserver.beggarspromo.com"
-        ],
-        "to_test": [
+            "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
             "adserver.freenet.de",
@@ -122,7 +120,9 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "iliillliO00OO0.321.cn",
+            "iliillliO00OO0.321.cn"
+        ],
+        "to_test": [
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
