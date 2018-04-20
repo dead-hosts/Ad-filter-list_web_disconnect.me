@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1524086658": [
+        "1524259602": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -20,7 +20,6 @@
             "adlink.de",
             "adman.in.gr",
             "admob.comadwhirl.com",
-            "adprojekt.pl",
             "ads.adultswim.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
@@ -39,11 +38,13 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
+            "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
             "ads.netclusive.de",
+            "ads.netmechanic.com",
             "ads.newsquest.co.uk",
             "ads.newtention.net",
             "ads.ookla.com",
@@ -70,7 +71,9 @@
             "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi",
+            "adserver-live.yoc.mobi"
+        ],
+        "to_test": [
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -158,9 +161,7 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com"
-        ],
-        "to_test": [
+            "wads.webteh.com",
             "a.collective-media.net"
         ]
     }
