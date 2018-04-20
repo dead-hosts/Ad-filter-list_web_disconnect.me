@@ -71,9 +71,7 @@
             "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi"
-        ],
-        "to_test": [
+            "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -123,7 +121,9 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "iliillliO00OO0.321.cn",
+            "iliillliO00OO0.321.cn"
+        ],
+        "to_test": [
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
