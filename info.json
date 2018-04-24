@@ -73,6 +73,8 @@
         "--commit-autosave-message \"[Autosave] Test of Ad-filter-list\"",
         "--commit-results-message \"[Results] Test of Ad-filter-list\"",
         "--commit-autosave-message \"[Autosave] Test of Ad-filter-list\"",
+        "--commit-results-message \"[Results] Test of Ad-filter-list\"",
+        "--commit-autosave-message \"[Autosave] Test of Ad-filter-list\"",
         "--commit-results-message \"[Results] Test of Ad-filter-list\""
     ],
     "clean_list_file": "clean.list",
@@ -80,7 +82,7 @@
     "commit_autosave_message": "Test of Ad-filter-list",
     "currently_under_test": "1",
     "days_until_next_test": "1",
-    "last_test": "1524607262",
+    "last_test": "1524608253",
     "list_name": "Ad-filter-list.list",
     "name": "Ad-filter-list",
     "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
