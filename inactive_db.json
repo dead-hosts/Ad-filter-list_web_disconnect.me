@@ -124,9 +124,7 @@
             "euro-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
-            "hit-ranking.de"
-        ],
-        "to_test": [
+            "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
@@ -138,6 +136,7 @@
             "ngs.impress.co.jp",
             "oewabox.at",
             "partner.topcities.com",
+            "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
             "quarterserver.de",
@@ -163,7 +162,9 @@
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
-            "usmsad.tom.com",
+            "usmsad.tom.com"
+        ],
+        "to_test": [
             "wads.webteh.com",
             "a.collective-media.net"
         ]
