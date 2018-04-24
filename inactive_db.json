@@ -72,9 +72,7 @@
             "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi"
-        ],
-        "to_test": [
+            "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -120,10 +118,15 @@
             "depilflash.tv",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
+            "domainsteam.de",
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
+            "gpr.hu",
+            "hit-ranking.de"
+        ],
+        "to_test": [
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
