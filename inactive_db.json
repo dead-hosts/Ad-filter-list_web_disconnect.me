@@ -70,9 +70,7 @@
             "ads.wunderground.com",
             "ads1.theglobeandmail.com",
             "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com"
-        ],
-        "to_test": [
+            "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
             "adserver-live.yoc.mobi",
@@ -127,7 +125,9 @@
             "euro-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
-            "hit-ranking.de",
+            "hit-ranking.de"
+        ],
+        "to_test": [
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
