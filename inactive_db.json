@@ -164,10 +164,10 @@
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
-            "usmsad.tom.com"
+            "usmsad.tom.com",
+            "wads.webteh.com"
         ],
         "to_test": [
-            "wads.webteh.com",
             "a.collective-media.net"
         ]
     }
