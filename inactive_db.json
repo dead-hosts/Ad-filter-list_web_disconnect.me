@@ -73,9 +73,7 @@
             "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi"
-        ],
-        "to_test": [
+            "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -100,7 +98,6 @@
             "as2.advfn.com",
             "assets.loomia.com",
             "aylarl.com",
-            "b4psads.com",
             "banner.alphacool.de",
             "banner.blogranking.net",
             "banner.featuredusers.com",
@@ -127,7 +124,9 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "gpr.hu",
+            "gpr.hu"
+        ],
+        "to_test": [
             "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
