@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1524950998": [
+        "1525123853": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -73,7 +73,9 @@
             "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi",
+            "adserver-live.yoc.mobi"
+        ],
+        "to_test": [
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -166,9 +168,7 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com"
-        ],
-        "to_test": [
+            "wads.webteh.com",
             "a.collective-media.net"
         ]
     }
