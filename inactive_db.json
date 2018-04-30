@@ -124,9 +124,7 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "gpr.hu"
-        ],
-        "to_test": [
+            "gpr.hu",
             "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
@@ -161,7 +159,9 @@
             "suavalds.com",
             "textads.opera.com",
             "top-casting-termine.de",
-            "touchclarity.natwest.com",
+            "touchclarity.natwest.com"
+        ],
+        "to_test": [
             "tracking.yourfilehost.com",
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
