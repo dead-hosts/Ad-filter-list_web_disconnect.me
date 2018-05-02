@@ -79,9 +79,7 @@
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
             "adserver.finditquick.com",
-            "adserver.freenet.de"
-        ],
-        "to_test": [
+            "adserver.freenet.de",
             "adserver.motorpresse.de",
             "adserver.ngz-network.de",
             "adserver.omroepzeeland.nl",
@@ -129,7 +127,9 @@
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
-            "iliillliO00OO0.321.cn",
+            "iliillliO00OO0.321.cn"
+        ],
+        "to_test": [
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
