@@ -78,9 +78,7 @@
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
-            "adserver.finditquick.com"
-        ],
-        "to_test": [
+            "adserver.finditquick.com",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
             "adserver.ngz-network.de",
@@ -122,14 +120,15 @@
             "depilflash.tv",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "domainsteam.de",
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
-            "iliillliO00OO0.321.cn",
+            "iliillliO00OO0.321.cn"
+        ],
+        "to_test": [
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
