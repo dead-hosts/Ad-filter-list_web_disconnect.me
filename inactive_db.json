@@ -77,9 +77,7 @@
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
-            "adserver.finditquick.com"
-        ],
-        "to_test": [
+            "adserver.finditquick.com",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
             "adserver.ngz-network.de",
@@ -127,7 +125,9 @@
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
-            "iliillliO00OO0.321.cn",
+            "iliillliO00OO0.321.cn"
+        ],
+        "to_test": [
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
