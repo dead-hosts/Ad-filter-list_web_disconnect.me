@@ -125,9 +125,7 @@
             "euro-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
-            "hit-ranking.de"
-        ],
-        "to_test": [
+            "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
@@ -164,7 +162,9 @@
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
-            "usmsad.tom.com",
+            "usmsad.tom.com"
+        ],
+        "to_test": [
             "wads.webteh.com",
             "zde-affinity.edgecaching.net",
             "a.collective-media.net"
