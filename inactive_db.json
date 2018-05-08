@@ -73,9 +73,7 @@
             "Adsatt.go.starwave.com",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi"
-        ],
-        "to_test": [
+            "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -89,6 +87,7 @@
             "adserver2.popdata.de",
             "adsrv.eacdn.com",
             "adtrading.de",
+            "advertising.guildlaunch.net",
             "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
@@ -126,7 +125,9 @@
             "euro-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
-            "hit-ranking.de",
+            "hit-ranking.de"
+        ],
+        "to_test": [
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
