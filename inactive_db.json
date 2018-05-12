@@ -129,9 +129,7 @@
             "gpr.hu",
             "hit-ranking.de",
             "iliillliO00OO0.321.cn",
-            "lct.salesforce.com"
-        ],
-        "to_test": [
+            "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
             "memorix.sdv.fr",
@@ -167,7 +165,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "zde-affinity.edgecaching.net",
             "a.collective-media.net"
         ]
