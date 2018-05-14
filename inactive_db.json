@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1526160985": [
+        "1526333869": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -33,7 +33,6 @@
             "ads.einmedia.com",
             "ads.esmas.com",
             "ads.ezboard.com",
-            "ads.fool.com",
             "ads.foxkidseurope.net",
             "ads.futurenet.com",
             "ads.gameforgeads.de",
@@ -75,7 +74,9 @@
             "adserv.quality-channel.de",
             "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
-            "adserver.clashmusic.com",
+            "adserver.clashmusic.com"
+        ],
+        "to_test": [
             "adserver.dotcommedia.de",
             "adserver.finditquick.com",
             "adserver.freenet.de",
@@ -166,9 +167,7 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "a.collective-media.net"
         ]
     }
