@@ -74,9 +74,7 @@
             "adserv.quality-channel.de",
             "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
-            "adserver.clashmusic.com"
-        ],
-        "to_test": [
+            "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
             "adserver.finditquick.com",
             "adserver.freenet.de",
@@ -112,7 +110,6 @@
             "bigads.guj.de",
             "bravenet.com.invalid",
             "c.compete.com",
-            "click.fool.com",
             "clients.tbo.com",
             "coretalk.co",
             "count6.rbc.ru",
@@ -128,7 +125,9 @@
             "fonecta.leiki.com",
             "go-clicks.de",
             "gpr.hu",
-            "hit-ranking.de",
+            "hit-ranking.de"
+        ],
+        "to_test": [
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
