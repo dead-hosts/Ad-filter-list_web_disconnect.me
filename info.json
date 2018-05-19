@@ -5,10 +5,10 @@
     "commit_autosave_message": "Test of Ad-filter-list",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1526509688",
+    "last_test": "1526749959",
     "list_name": "Ad-filter-list.list",
     "name": "Ad-filter-list",
+    "ping": [],
     "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-    "stable": "0",
-    "ping": []
+    "stable": "0"
 }
