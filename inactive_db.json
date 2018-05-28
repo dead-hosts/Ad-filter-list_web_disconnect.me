@@ -98,11 +98,8 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com"
-        ],
-        "to_test": [
+            "assets.loomia.com",
             "aylarl.com",
-            "banner.alphacool.de",
             "banner.blogranking.net",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
@@ -128,7 +125,9 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "fonecta.leiki.com",
+            "fonecta.leiki.com"
+        ],
+        "to_test": [
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
