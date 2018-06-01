@@ -147,9 +147,7 @@
             "qwapi.apple.com",
             "rad.msn.com",
             "rythmxchange.com",
-            "seeq.com.invalid"
-        ],
-        "to_test": [
+            "seeq.com.invalid",
             "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
@@ -169,7 +167,9 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
