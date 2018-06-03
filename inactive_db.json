@@ -146,9 +146,7 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "rythmxchange.com"
-        ],
-        "to_test": [
+            "rythmxchange.com",
             "seeq.com.invalid",
             "sexaddpro.de",
             "sitebrand.geeks.com",
@@ -169,7 +167,9 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
