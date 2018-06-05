@@ -95,9 +95,7 @@
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
-            "aidu-ads.de"
-        ],
-        "to_test": [
+            "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
@@ -127,7 +125,9 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "fonecta.leiki.com",
+            "fonecta.leiki.com"
+        ],
+        "to_test": [
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
