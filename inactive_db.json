@@ -144,9 +144,7 @@
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
-            "rad.msn.com"
-        ],
-        "to_test": [
+            "rad.msn.com",
             "rythmxchange.com",
             "seeq.com.invalid",
             "sexaddpro.de",
@@ -168,7 +166,10 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "www1.gto-media.com",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
