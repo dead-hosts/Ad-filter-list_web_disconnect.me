@@ -31,9 +31,7 @@
             "ads.discovery.com",
             "ads.einmedia.com",
             "ads.esmas.com",
-            "ads.ezboard.com"
-        ],
-        "to_test": [
+            "ads.ezboard.com",
             "ads.foxkidseurope.net",
             "ads.futurenet.com",
             "ads.gameforgeads.de",
@@ -95,7 +93,9 @@
             "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
-            "affiliates.jlist.com",
+            "affiliates.jlist.com"
+        ],
+        "to_test": [
             "aidu-ads.de",
             "alclick.com",
             "arc1.msn.com",
