@@ -124,9 +124,7 @@
             "dmtracking2.alibaba.com",
             "emonitor.takeit.cz",
             "engine.awaps.net",
-            "euro-linkindex.de"
-        ],
-        "to_test": [
+            "euro-linkindex.de",
             "fonecta.leiki.com",
             "go-clicks.de",
             "gpr.hu",
@@ -141,7 +139,9 @@
             "network.business.com",
             "ngs.impress.co.jp",
             "oewabox.at",
-            "partner.topcities.com",
+            "partner.topcities.com"
+        ],
+        "to_test": [
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
