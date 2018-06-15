@@ -139,9 +139,7 @@
             "network.business.com",
             "ngs.impress.co.jp",
             "oewabox.at",
-            "partner.topcities.com"
-        ],
-        "to_test": [
+            "partner.topcities.com",
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
@@ -169,7 +167,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "tvas-c.pw",
-            "usmsad.tom.com",
+            "usmsad.tom.com"
+        ],
+        "to_test": [
             "wads.webteh.com",
             "www1.gto-media.com",
             "zde-affinity.edgecaching.net",
