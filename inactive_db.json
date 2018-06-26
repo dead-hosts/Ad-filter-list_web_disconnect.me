@@ -38,9 +38,7 @@
             "ads.futurenet.com",
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
-            "ads.godlikeproductions.com"
-        ],
-        "to_test": [
+            "ads.godlikeproductions.com",
             "ads.groundspeak.com",
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
@@ -97,7 +95,9 @@
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
-            "aidu-ads.de",
+            "aidu-ads.de"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
