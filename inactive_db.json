@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1529877398": [
+        "1530050221": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -21,6 +21,7 @@
             "adman.in.gr",
             "admob.comadwhirl.com",
             "ads.adultswim.com",
+            "ads.allvatar.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
             "ads.asia1.com.sg",
@@ -37,7 +38,9 @@
             "ads.futurenet.com",
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
-            "ads.godlikeproductions.com",
+            "ads.godlikeproductions.com"
+        ],
+        "to_test": [
             "ads.groundspeak.com",
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
@@ -171,9 +174,7 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "www1.gto-media.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "a.collective-media.net"
         ]
     }
