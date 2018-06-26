@@ -95,13 +95,13 @@
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
-            "aidu-ads.de"
-        ],
-        "to_test": [
+            "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
             "aylarl.com",
+            "b.aol.com",
+            "b.engadget.com",
             "banner.alphacool.de",
             "banner.blogranking.net",
             "banner.featuredusers.com",
@@ -127,7 +127,9 @@
             "dmtracking2.alibaba.com",
             "emonitor.takeit.cz",
             "engine.awaps.net",
-            "euro-linkindex.de",
+            "euro-linkindex.de"
+        ],
+        "to_test": [
             "fonecta.leiki.com",
             "go-clicks.de",
             "gpr.hu",
