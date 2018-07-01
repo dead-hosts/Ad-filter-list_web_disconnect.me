@@ -150,9 +150,7 @@
             "qwapi.apple.com",
             "rad.msn.com",
             "rythmxchange.com",
-            "seeq.com.invalid"
-        ],
-        "to_test": [
+            "seeq.com.invalid",
             "service1.adten.de",
             "sexaddpro.de",
             "sitebrand.geeks.com",
@@ -175,7 +173,9 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "www1.gto-media.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
