@@ -129,9 +129,7 @@
             "euro-linkindex.de",
             "fonecta.leiki.com",
             "go-clicks.de",
-            "gpr.hu"
-        ],
-        "to_test": [
+            "gpr.hu",
             "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
@@ -139,7 +137,6 @@
             "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
-            "moversa.com",
             "netflame.cc",
             "network.business.com",
             "ngs.impress.co.jp",
@@ -151,7 +148,9 @@
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
-            "rad.msn.com",
+            "rad.msn.com"
+        ],
+        "to_test": [
             "ranking-charts.de",
             "rythmxchange.com",
             "seeq.com.invalid",
