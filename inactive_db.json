@@ -129,9 +129,7 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "fonecta.leiki.com"
-        ],
-        "to_test": [
+            "fonecta.leiki.com",
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
@@ -152,7 +150,9 @@
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
-            "rad.msn.com",
+            "rad.msn.com"
+        ],
+        "to_test": [
             "ranking-charts.de",
             "rythmxchange.com",
             "seeq.com.invalid",
