@@ -40,9 +40,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
@@ -100,7 +98,9 @@
             "affiliates.jlist.com",
             "aidu-ads.de",
             "arc1.msn.com",
-            "as2.advfn.com",
+            "as2.advfn.com"
+        ],
+        "to_test": [
             "assets.loomia.com",
             "aylarl.com",
             "b.aol.com",
