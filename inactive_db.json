@@ -149,9 +149,7 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "ranking-charts.de"
-        ],
-        "to_test": [
+            "ranking-charts.de",
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
@@ -172,11 +170,12 @@
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
-            "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
             "www1.gto-media.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
