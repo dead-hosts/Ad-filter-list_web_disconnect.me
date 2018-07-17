@@ -127,15 +127,12 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "fonecta.leiki.com",
-            "go-clicks.de"
-        ],
-        "to_test": [
+            "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
-            "linkstorms.com",
             "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
@@ -151,7 +148,9 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "ranking-charts.de",
+            "ranking-charts.de"
+        ],
+        "to_test": [
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
