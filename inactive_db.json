@@ -145,9 +145,7 @@
             "partner.topcities.com",
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
-            "promo1.webcams.nl"
-        ],
-        "to_test": [
+            "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
@@ -162,12 +160,12 @@
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
+            "stat24.meta.ua",
             "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
             "textads.opera.com",
-            "topmmorpgsites.com",
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
             "traffic.liveuniversenetwork.com",
@@ -176,7 +174,9 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "www1.gto-media.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
