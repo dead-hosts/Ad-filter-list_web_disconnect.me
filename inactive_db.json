@@ -149,9 +149,7 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "ranking-charts.de"
-        ],
-        "to_test": [
+            "ranking-charts.de",
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
@@ -162,7 +160,6 @@
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
-            "stat24.meta.ua",
             "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
@@ -175,8 +172,9 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "www1.gto-media.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
