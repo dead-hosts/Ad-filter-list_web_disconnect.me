@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 """Update Me !
@@ -29,7 +30,7 @@ from time import ctime, strftime
 from requests import get
 
 
-class Settings(object):  # pylint: disable=too-few-public-methods
+class Settings:  # pylint: disable=too-few-public-methods
     """
     This class will save all data that can be called from anywhere in the code.
     """
@@ -164,7 +165,7 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     ping = []
 
 
-class Initiate(object):
+class Initiate:
     """
     Initiate several actions.
     """
@@ -173,9 +174,46 @@ class Initiate(object):
         self.travis()
         self.travis_permissions()
 
+        self._fix_cross_repo_config()
+
         if not Settings.custom_pyfunceble_config:
             Helpers.Download(Settings.permanent_config_link, ".PyFunceble.yaml").link()
         self.stucture()
+
+    @classmethod
+    def _fix_cross_repo_config(cls):
+        """
+        This method will fix the cross repositories configuration.
+        """
+
+        to_download = Settings.PyFunceble[".PyFunceble_production.yaml"]
+        destination = Settings.permanent_config_link.split("/")[-1]
+
+        if path.isfile(destination):
+            Helpers.Download(to_download, destination).link()
+
+            to_replace = {
+                r"less:.*": "less: True",
+                r"logs:.*": "logs: True",
+                r"seconds_before_http_timeout:.*": "seconds_before_http_timeout: 6",
+                r"share_logs:.*": "share_logs: True",
+                r"split:.*": "split: True",
+                r"travis:.*": "travis: True",
+                r"travis_branch:.*": "travis_branch: master",
+                r"travis_autosave_minutes:.*": "travis_autosave_minutes: 10",
+            }
+
+            content = Helpers.File(destination).read()
+
+            for regex, replacement in to_replace.items():
+                content = Helpers.Regex(
+                    content,
+                    regex,
+                    replace_with=replacement + " # Programmatically updated",
+                    return_data=True,
+                ).replace()
+
+            Helpers.File(destination).write(content, overwrite=True)
 
     @classmethod
     def travis(cls):
@@ -581,12 +619,12 @@ class Initiate(object):
             exit(0)
 
 
-class Helpers(object):  # pylint: disable=too-few-public-methods
+class Helpers:  # pylint: disable=too-few-public-methods
     """
     Well thanks to those helpers I wrote :)
     """
 
-    class List(object):  # pylint: disable=too-few-public-methods
+    class List:  # pylint: disable=too-few-public-methods
         """
         List manipulation.
         """
@@ -608,7 +646,7 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
             except TypeError:
                 return self.main_list
 
-    class Dict(object):
+    class Dict:
         """
         Dictionary manipulations.
 
@@ -656,7 +694,7 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
             except decoder.JSONDecodeError:
                 return {}
 
-    class File(object):  # pylint: disable=too-few-public-methods
+    class File:  # pylint: disable=too-few-public-methods
         """
         File treatment/manipulations.
 
@@ -716,7 +754,7 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
             except OSError:
                 pass
 
-    class Download(object):  # pylint: disable=too-few-public-methods
+    class Download:  # pylint: disable=too-few-public-methods
         """
         This class will initiate a download of the desired link.
 
@@ -745,7 +783,7 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
 
             return False
 
-    class Command(object):
+    class Command:
         """
         Shell command execution.
 
@@ -795,7 +833,7 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
 
             return self.decode_output(output)
 
-    class Regex(object):  # pylint: disable=too-few-public-methods
+    class Regex:  # pylint: disable=too-few-public-methods
 
         """A simple implementation ot the python.re package
 
