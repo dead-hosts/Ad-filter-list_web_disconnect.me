@@ -105,7 +105,7 @@ class Settings:  # pylint: disable=too-few-public-methods
     #
     # Note: DO NOT TOUCH UNLESS YOU KNOW WHAT IT MEANS!
     PyFunceble = {
-        ".PyFunceble_production.yaml": "https://raw.githubusercontent.com/funilrys/PyFunceble/master/.PyFunceble_production.yaml"  # pylint: disable=line-too-long
+        ".PyFunceble_production.yaml": "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"  # pylint: disable=line-too-long
     }
 
     # This variable is used to match [ci skip] from the git log.
@@ -186,7 +186,15 @@ class Initiate:
         This method will fix the cross repositories configuration.
         """
 
-        to_download = Settings.PyFunceble[".PyFunceble_production.yaml"]
+        if not Settings.stable:
+            to_download = Settings.PyFunceble[".PyFunceble_production.yaml"].replace(
+                "master", "dev"
+            )
+        else:
+            to_download = Settings.PyFunceble[".PyFunceble_production.yaml"].replace(
+                "dev", "master"
+            )
+
         destination = Settings.permanent_config_link.split("/")[-1]
 
         if path.isfile(destination):
@@ -194,7 +202,6 @@ class Initiate:
 
             to_replace = {
                 r"less:.*": "less: True",
-                r"logs:.*": "logs: True",
                 r"seconds_before_http_timeout:.*": "seconds_before_http_timeout: 6",
                 r"share_logs:.*": "share_logs: True",
                 r"split:.*": "split: True",
@@ -207,10 +214,7 @@ class Initiate:
 
             for regex, replacement in to_replace.items():
                 content = Helpers.Regex(
-                    content,
-                    regex,
-                    replace_with=replacement + " # Programmatically updated",
-                    return_data=True,
+                    content, regex, replace_with=replacement, return_data=True
                 ).replace()
 
             Helpers.File(destination).write(content, overwrite=True)
@@ -605,7 +609,7 @@ class Initiate:
                 Helpers.Command(
                     "git add --all && git commit -a -m '%s' && git push origin %s"
                     % (commit_message, environ["GIT_BRANCH"]),
-                    True,
+                    False,
                 ).execute()
             except KeyError:
                 pass
