@@ -148,12 +148,9 @@
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
-            "quarterserver.de"
-        ],
-        "to_test": [
+            "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "ranking-charts.de",
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
@@ -174,9 +171,12 @@
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
+            "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
