@@ -151,9 +151,7 @@
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
-            "rad.msn.com"
-        ],
-        "to_test": [
+            "rad.msn.com",
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
@@ -169,6 +167,7 @@
             "stats.surfaid.ihost.com",
             "suavalds.com",
             "textads.opera.com",
+            "thebugs.ws",
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
             "traffic.liveuniversenetwork.com",
@@ -177,7 +176,9 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
