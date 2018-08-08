@@ -128,9 +128,7 @@
             "emonitor.takeit.cz",
             "engine.awaps.net",
             "euro-linkindex.de",
-            "fonecta.leiki.com"
-        ],
-        "to_test": [
+            "fonecta.leiki.com",
             "german-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
@@ -151,7 +149,9 @@
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
-            "quarterserver.de",
+            "quarterserver.de"
+        ],
+        "to_test": [
             "qwapi.apple.com",
             "rad.msn.com",
             "rythmxchange.com",
