@@ -73,9 +73,7 @@
             "ads.wunderground.com",
             "ads1.theglobeandmail.com",
             "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com"
-        ],
-        "to_test": [
+            "Adsatt.go.starwave.com",
             "adserv.evo-x.de",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
@@ -90,6 +88,8 @@
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
+            "adskape.ru",
+            "adsmobi.com",
             "adsrv.eacdn.com",
             "adtrading.de",
             "advertising.guildlaunch.net",
@@ -99,7 +99,9 @@
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
-            "aidu-ads.de",
+            "aidu-ads.de"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
