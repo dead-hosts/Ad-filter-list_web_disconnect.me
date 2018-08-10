@@ -135,9 +135,7 @@
             "dmtracking2.alibaba.com",
             "emonitor.takeit.cz",
             "engine.awaps.net",
-            "euro-linkindex.de"
-        ],
-        "to_test": [
+            "euro-linkindex.de",
             "fonecta.leiki.com",
             "german-linkindex.de",
             "go-clicks.de",
@@ -158,7 +156,9 @@
             "partner.topcities.com",
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
-            "promo1.webcams.nl",
+            "promo1.webcams.nl"
+        ],
+        "to_test": [
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
