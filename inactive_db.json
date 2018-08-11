@@ -178,9 +178,7 @@
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
-            "suptullog.com"
-        ],
-        "to_test": [
+            "suptullog.com",
             "textads.opera.com",
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
@@ -190,8 +188,9 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "webtraffic.se",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
