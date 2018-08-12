@@ -36,9 +36,7 @@
             "ads.ezboard.com",
             "ads.foxkidseurope.net",
             "ads.futurenet.com",
-            "ads.gameforgeads.de"
-        ],
-        "to_test": [
+            "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
@@ -90,8 +88,6 @@
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
-            "adskape.ru",
-            "adsmobi.com",
             "adsrv.eacdn.com",
             "adtrading.de",
             "advertising.guildlaunch.net",
@@ -101,7 +97,9 @@
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
-            "aidu-ads.de",
+            "aidu-ads.de"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
