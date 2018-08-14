@@ -49,10 +49,7 @@
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
-            "sx.trhnt.com"
-        ],
-        "to_test": [
-            "textads.opera.com",
+            "sx.trhnt.com",
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
             "traffic.liveuniversenetwork.com",
@@ -61,7 +58,10 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "textads.opera.com",
             "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
