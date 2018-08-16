@@ -38,12 +38,7 @@
             "ads.futurenet.com",
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
-            "ads.godlikeproductions.com"
-        ],
-        "to_test": [
-            "textads.opera.com",
-            "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
+            "ads.godlikeproductions.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
@@ -101,11 +96,14 @@
             "affiliates.ige.com",
             "affiliates.jlist.com",
             "aidu-ads.de",
-            "appsfire.net",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
-            "atwola.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
+            "textads.opera.com",
+            "ads.groundspeak.com",
+            "ads.hardwaresecrets.com",
             "aylarl.com",
             "b.aol.com",
             "b.engadget.com",
