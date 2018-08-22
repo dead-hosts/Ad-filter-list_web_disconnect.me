@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1534803963": [
+        "1534976809": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -34,6 +34,27 @@
             "ads.einmedia.com",
             "ads.esmas.com",
             "ads.ezboard.com",
+            "ads.foxkidseurope.net",
+            "ads.futurenet.com",
+            "ads.gameforgeads.de",
+            "ads.globeandmail.com",
+            "ads.godlikeproductions.com",
+            "ads.groundspeak.com",
+            "ads.hardwaresecrets.com"
+        ],
+        "to_test": [
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "as2.advfn.com",
+            "assets.loomia.com",
+            "aylarl.com",
+            "b.aol.com",
+            "b.engadget.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "iliillliO00OO0.321.cn",
+            "sprinks-clicks.about.com",
+            "stat.tudou.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
@@ -158,28 +179,7 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "ads.foxkidseurope.net",
-            "ads.futurenet.com",
-            "ads.gameforgeads.de",
-            "ads.globeandmail.com",
-            "ads.godlikeproductions.com",
-            "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
-            "as2.advfn.com",
-            "assets.loomia.com",
-            "aylarl.com",
-            "b.aol.com",
-            "b.engadget.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "iliillliO00OO0.321.cn",
-            "sprinks-clicks.about.com",
-            "stat.tudou.com",
+            "zde-affinity.edgecaching.net",
             "a.collective-media.net"
         ]
     }
