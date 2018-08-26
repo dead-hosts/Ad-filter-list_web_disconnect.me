@@ -41,12 +41,7 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "ads.hardwaresecrets.com"
-        ],
-        "to_test": [
-            "ads.linuxjournal.com",
-            "ads.mdotm.com",
-            "ads.moceanads.com",
+            "ads.hardwaresecrets.com",
             "ads.movieflix.com",
             "ads.netclusive.de",
             "ads.netmechanic.com",
@@ -102,9 +97,13 @@
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
-            "aylarl.com",
             "b.aol.com",
-            "b.engadget.com",
+            "b.engadget.com"
+        ],
+        "to_test": [
+            "ads.linuxjournal.com",
+            "ads.mdotm.com",
+            "ads.moceanads.com",
             "banner.alphacool.de",
             "banner.blogranking.net",
             "banner.featuredusers.com",
