@@ -149,22 +149,7 @@
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
-            "sexaddpro.de"
-        ],
-        "to_test": [
-            "ads.linuxjournal.com",
-            "ads.mdotm.com",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "banners.apnuk.com",
-            "banners.audioholics.com",
-            "sitebrand.geeks.com",
-            "sitemerkezi.net",
-            "sma.punto.net",
-            "smartbase.cdnservices.com",
+            "sexaddpro.de",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
             "stats.cts-bv.nl",
@@ -182,6 +167,21 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "ads.linuxjournal.com",
+            "ads.mdotm.com",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
+            "banners.apnuk.com",
+            "banners.audioholics.com",
+            "sitebrand.geeks.com",
+            "sitemerkezi.net",
+            "sma.punto.net",
+            "smartbase.cdnservices.com"
         ]
     }
 }
