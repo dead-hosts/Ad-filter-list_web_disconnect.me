@@ -42,11 +42,7 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "ads.hardwaresecrets.com"
-        ],
-        "to_test": [
-            "ads.linuxjournal.com",
-            "ads.mdotm.com",
+            "ads.hardwaresecrets.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
             "ads.netclusive.de",
@@ -90,7 +86,6 @@
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
-            "adshost1.com",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -107,7 +102,11 @@
             "assets.loomia.com",
             "b.aol.com",
             "b.engadget.com",
-            "banner.alphacool.de",
+            "banner.alphacool.de"
+        ],
+        "to_test": [
+            "ads.linuxjournal.com",
+            "ads.mdotm.com",
             "banner.blogranking.net",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
