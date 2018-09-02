@@ -41,11 +41,7 @@
             "ads.futurenet.com",
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
-            "ads.godlikeproductions.com"
-        ],
-        "to_test": [
-            "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
+            "ads.godlikeproductions.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
@@ -91,6 +87,7 @@
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
+            "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -104,7 +101,11 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
+            "ads.groundspeak.com",
+            "ads.hardwaresecrets.com",
             "b.aol.com",
             "b.engadget.com",
             "banner.alphacool.de",
