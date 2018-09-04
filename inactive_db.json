@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1535927601": [
+        "1536100473": [
             "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
@@ -23,6 +23,7 @@
             "adimages.omroepzeeland.nl",
             "adlink.de",
             "adman.in.gr",
+            "admedia.ro",
             "admob.comadwhirl.com",
             "ads.adultswim.com",
             "ads.allvatar.com",
@@ -42,6 +43,10 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
+            "ads.groundspeak.com"
+        ],
+        "to_test": [
+            "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
@@ -102,6 +107,14 @@
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
+            "b.aol.com",
+            "b.engadget.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
             "banners.apnuk.com",
             "banners.audioholics.com",
             "banners.ebay.com",
@@ -125,6 +138,7 @@
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
+            "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
@@ -149,6 +163,10 @@
             "seeq.com.invalid",
             "service1.adten.de",
             "sexaddpro.de",
+            "sitebrand.geeks.com",
+            "sitemerkezi.net",
+            "sma.punto.net",
+            "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
             "stats.cts-bv.nl",
@@ -167,23 +185,6 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
-            "b.aol.com",
-            "b.engadget.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "iliillliO00OO0.321.cn",
-            "sitebrand.geeks.com",
-            "sitemerkezi.net",
-            "sma.punto.net",
-            "smartbase.cdnservices.com"
         ]
     }
 }
