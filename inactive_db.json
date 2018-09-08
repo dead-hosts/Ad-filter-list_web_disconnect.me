@@ -144,22 +144,7 @@
             "qwapi.apple.com",
             "rad.msn.com",
             "ranking-street.de",
-            "rythmxchange.com"
-        ],
-        "to_test": [
-            "ads.hardwaresecrets.com",
-            "b.aol.com",
-            "b.engadget.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "iliillliO00OO0.321.cn",
-            "seeq.com.invalid",
-            "service1.adten.de",
-            "sexaddpro.de",
+            "rythmxchange.com",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
             "sma.punto.net",
@@ -180,7 +165,23 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
+            "www-banner.chat.ru",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "ads.hardwaresecrets.com",
+            "b.aol.com",
+            "b.engadget.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
+            "iliillliO00OO0.321.cn",
+            "seeq.com.invalid",
+            "service1.adten.de",
+            "sexaddpro.de"
         ]
     }
 }
