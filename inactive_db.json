@@ -169,7 +169,8 @@
             "tsms-ad.tsms.com",
             "tvas-c.pw",
             "usmsad.tom.com",
-            "wads.webteh.com"
+            "wads.webteh.com",
+            "zde-affinity.edgecaching.net"
         ],
         "to_test": [
             "adserver.freenet.de",
@@ -181,8 +182,7 @@
             "banner.featuredusers.com",
             "banner.jobsahead.com",
             "banner.joylandcasino.com",
-            "quarterserver.de",
-            "zde-affinity.edgecaching.net"
+            "quarterserver.de"
         ]
     }
 }
