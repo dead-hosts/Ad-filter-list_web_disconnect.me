@@ -5873,7 +5873,7 @@
         "socialspark.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "spacash.com": {
             "epoch": "1563062400",
@@ -6768,6 +6768,11 @@
         "webangel.ru": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "webcounter.cz": {
+            "epoch": "1774310400",
+            "expiration_date": "24-mar-2026",
             "state": "future"
         },
         "webgains.com": {
