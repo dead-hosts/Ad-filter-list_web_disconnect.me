@@ -875,6 +875,11 @@
             "expiration_date": "04-sep-2019",
             "state": "future"
         },
+        "adsfac.us": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
         "adshost1.com": {
             "epoch": "1568505600",
             "expiration_date": "15-sep-2019",
