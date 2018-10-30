@@ -1800,6 +1800,176 @@
             "expiration_date": "01-dec-2018",
             "state": "future"
         },
+        "boldchat.com": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "boom.ro": {
+            "epoch": "1533686400",
+            "expiration_date": "08-aug-2018",
+            "state": "past"
+        },
+        "boomads.com": {
+            "epoch": "1594512000",
+            "expiration_date": "12-jul-2020",
+            "state": "future"
+        },
+        "bpath.com": {
+            "epoch": "1612915200",
+            "expiration_date": "10-feb-2021",
+            "state": "future"
+        },
+        "braincash.com": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "brandreachsys.com": {
+            "epoch": "1633132800",
+            "expiration_date": "02-oct-2021",
+            "state": "future"
+        },
+        "branovate.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "brickandmobile.com": {
+            "epoch": "1765843200",
+            "expiration_date": "16-dec-2025",
+            "state": "future"
+        },
+        "bridgetrack.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "brightinfo.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "british-banners.com": {
+            "epoch": "1597536000",
+            "expiration_date": "16-aug-2020",
+            "state": "future"
+        },
+        "btrll.com": {
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "budsinc.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "burstmedia.com": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "buyhitscheap.com": {
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
+        "buysellads.com": {
+            "epoch": "1825113600",
+            "expiration_date": "02-nov-2027",
+            "state": "future"
+        },
+        "buzzonclick.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "bvalphaserver.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "callfire.com": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "callloop.com": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "caniamedia.com": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "carbonads.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "carbonads.net": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "casalemedia.com": {
+            "epoch": "1697673600",
+            "expiration_date": "19-oct-2023",
+            "state": "future"
+        },
+        "casalmedia.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "cash4members.com": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "cashcrate.com": {
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "cashengines.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "cashfiesta.com": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "cashlayer.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "cashpartner.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "casinogames.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "casinopays.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "casinorewards.com": {
+            "epoch": "1615852800",
+            "expiration_date": "16-mar-2021",
+            "state": "future"
+        },
         "casinotraffic.com": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
@@ -1874,6 +2044,11 @@
             "epoch": "1562112000",
             "expiration_date": "03-jul-2019",
             "state": "future"
+        },
+        "chestionar.ro": {
+            "epoch": "1538611200",
+            "expiration_date": "04-oct-2018",
+            "state": "past"
         },
         "chitika.com": {
             "epoch": "1580256000",
