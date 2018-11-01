@@ -3685,6 +3685,11 @@
             "expiration_date": "15-sep-2019",
             "state": "future"
         },
+        "ip.ro": {
+            "epoch": "1625529600",
+            "expiration_date": "06-jul-2021",
+            "state": "future"
+        },
         "ip193.cn": {
             "epoch": "1585008000",
             "expiration_date": "24-mar-2020",
@@ -3708,6 +3713,11 @@
         "itfarm.com": {
             "epoch": "1570060800",
             "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "itop.cz": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
             "state": "future"
         },
         "its-that-easy.com": {
@@ -3833,7 +3843,7 @@
         "leadboltads.net": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "leadclick.com": {
             "epoch": "1564012800",
