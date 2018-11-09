@@ -5668,7 +5668,7 @@
         "searchramp.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sedoparking.com": {
             "epoch": "1568764800",
@@ -6141,9 +6141,9 @@
             "state": "future"
         },
         "targetpoint.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
-            "state": "past"
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
         },
         "targetspot.com": {
             "epoch": "1564099200",
