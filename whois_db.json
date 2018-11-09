@@ -2763,7 +2763,7 @@
         "enquisite.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "entercasino.com": {
             "epoch": "1563926400",
@@ -4516,8 +4516,8 @@
             "state": "future"
         },
         "muwmedia.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "myaffiliateprogram.com": {
