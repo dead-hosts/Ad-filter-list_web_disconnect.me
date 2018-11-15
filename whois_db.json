@@ -983,7 +983,7 @@
         "adswitcher.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adsymptotic.com": {
             "epoch": "1631145600",
@@ -1173,7 +1173,7 @@
         "adwareremovergold.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adwhirl.com": {
             "epoch": "1555632000",
