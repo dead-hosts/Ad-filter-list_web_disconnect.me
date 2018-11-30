@@ -421,8 +421,8 @@
             "state": "future"
         },
         "adecn.com": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "ademails.com": {
@@ -641,8 +641,8 @@
             "state": "future"
         },
         "admized.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "admob.com": {
@@ -1726,9 +1726,9 @@
             "state": "future"
         },
         "bimlocal.com": {
-            "epoch": "1536537600",
-            "expiration_date": "10-sep-2018",
-            "state": "past"
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
         },
         "bitads.net": {
             "epoch": "1563408000",
@@ -2361,8 +2361,8 @@
             "state": "future"
         },
         "cpmaffiliation.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "cpmstar.com": {
@@ -2451,8 +2451,8 @@
             "state": "future"
         },
         "crwdcntrl.net": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1605916800",
+            "expiration_date": "21-nov-2020",
             "state": "future"
         },
         "cubics.com": {
@@ -3176,8 +3176,8 @@
             "state": "future"
         },
         "getclicky.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "globalismedia.com": {
@@ -4496,8 +4496,8 @@
             "state": "future"
         },
         "mpstat.us": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "mrskincash.com": {
@@ -5178,7 +5178,7 @@
         "pr5dir.com": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "prchecker.info": {
             "epoch": "1567900800",
