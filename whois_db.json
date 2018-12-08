@@ -1538,7 +1538,7 @@
         "azfront.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "b-1st.com": {
             "epoch": "1561766400",
@@ -2206,8 +2206,8 @@
             "state": "future"
         },
         "clicktracks.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "clicktrade.com": {
