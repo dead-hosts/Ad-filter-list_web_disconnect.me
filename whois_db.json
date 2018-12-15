@@ -6558,7 +6558,7 @@
         "txtimpact.com": {
             "epoch": "1544745600",
             "expiration_date": "14-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "tyroo.com": {
             "epoch": "1663718400",
@@ -6943,7 +6943,7 @@
         "xad.com": {
             "epoch": "1544745600",
             "expiration_date": "14-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "xchange.ro": {
             "epoch": "1570492800",
