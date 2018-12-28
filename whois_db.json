@@ -5761,8 +5761,8 @@
             "state": "future"
         },
         "shareadspace.com": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
             "state": "future"
         },
         "shareasale.com": {
@@ -6241,8 +6241,8 @@
             "state": "future"
         },
         "tinybar.com": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
             "state": "future"
         },
         "tizers.net": {
@@ -6471,9 +6471,9 @@
             "state": "future"
         },
         "trafficz.net": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
-            "state": "past"
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
         },
         "traffiq.com": {
             "epoch": "1557964800",
@@ -6863,7 +6863,7 @@
         "wetrack.it": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "whaleads.com": {
             "epoch": "1571961600",
