@@ -5976,8 +5976,8 @@
             "state": "future"
         },
         "statcounter.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "statistik-gallup.net": {
@@ -6281,9 +6281,9 @@
             "state": "future"
         },
         "top66.ro": {
-            "epoch": "1538352000",
-            "expiration_date": "01-oct-2018",
-            "state": "past"
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
         },
         "top90.ro": {
             "epoch": "1571011200",
@@ -6571,9 +6571,9 @@
             "state": "future"
         },
         "ubermedia.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
-            "state": "past"
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
         },
         "ukbanners.com": {
             "epoch": "1572825600",
@@ -6953,7 +6953,7 @@
         "xclicks.net": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "xertive.com": {
             "epoch": "1555459200",
