@@ -3916,8 +3916,8 @@
             "state": "future"
         },
         "linkexchange.com": {
-            "epoch": "1546819200",
-            "expiration_date": "07-jan-2019",
+            "epoch": "1609977600",
+            "expiration_date": "07-jan-2021",
             "state": "future"
         },
         "linkexchange.ru": {
@@ -4013,7 +4013,7 @@
         "lunarads.com": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "lzjl.com": {
             "epoch": "1557878400",
@@ -5118,7 +5118,7 @@
         "pontiflex.com": {
             "epoch": "1546732800",
             "expiration_date": "06-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "pop-under.ru": {
             "epoch": "1556841600",
