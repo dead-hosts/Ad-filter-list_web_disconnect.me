@@ -386,8 +386,8 @@
             "state": "future"
         },
         "adconion.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "adcycle.com": {
@@ -543,7 +543,7 @@
         "adk2.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adland.ru": {
             "epoch": "1558396800",
