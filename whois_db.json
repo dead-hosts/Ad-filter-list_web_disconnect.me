@@ -3126,8 +3126,8 @@
             "state": "future"
         },
         "galaxien.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "game-advertising-online.com": {
@@ -3646,8 +3646,8 @@
             "state": "future"
         },
         "insightexpressai.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "inspectorclick.com": {
@@ -3888,7 +3888,7 @@
         "ligatus.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "lightningcast.net": {
             "epoch": "1559001600",
@@ -4408,6 +4408,11 @@
         "mobiletheory.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "mobilewithsms.net": {
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "mobivity.com": {
