@@ -2911,8 +2911,8 @@
             "state": "future"
         },
         "extremetracking.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "eyeblaster.com": {
@@ -3051,8 +3051,8 @@
             "state": "future"
         },
         "freebanner.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "freelogs.com": {
@@ -3886,9 +3886,9 @@
             "state": "future"
         },
         "ligatus.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
-            "state": "past"
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
         },
         "lightningcast.net": {
             "epoch": "1559001600",
@@ -4528,7 +4528,7 @@
         "myaffiliateprogram.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "mybloglog.com": {
             "epoch": "1578528000",
@@ -5083,7 +5083,7 @@
         "planetactive.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "play4traffic.com": {
             "epoch": "1562544000",
