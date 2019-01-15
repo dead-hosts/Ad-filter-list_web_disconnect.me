@@ -5971,8 +5971,8 @@
             "state": "future"
         },
         "stat.su": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "stat24.com": {
@@ -5988,7 +5988,7 @@
         "statistik-gallup.net": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "stats4all.com": {
             "epoch": "1564358400",
