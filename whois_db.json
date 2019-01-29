@@ -5596,8 +5596,8 @@
             "state": "future"
         },
         "rtbidder.net": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "rtbpop.com": {
@@ -5688,7 +5688,7 @@
         "senddroid.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sensenetworks.com": {
             "epoch": "1570838400",
@@ -5738,7 +5738,7 @@
         "sexcounter.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexinyourcity.com": {
             "epoch": "1561680000",
