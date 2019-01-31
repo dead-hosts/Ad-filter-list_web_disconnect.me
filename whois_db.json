@@ -923,7 +923,7 @@
         "adsmobi.com": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adsmogo.com": {
             "epoch": "1585785600",
@@ -1501,8 +1501,8 @@
             "state": "future"
         },
         "autohits.dk": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "avenuea.com": {
@@ -1516,9 +1516,9 @@
             "state": "future"
         },
         "avsads.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
         },
         "awempire.com": {
             "epoch": "1575158400",
@@ -1666,9 +1666,9 @@
             "state": "future"
         },
         "best-pr.info": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
         },
         "best-top.ro": {
             "epoch": "1569801600",
