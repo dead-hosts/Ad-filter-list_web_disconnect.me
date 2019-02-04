@@ -3071,8 +3071,8 @@
             "state": "future"
         },
         "freepay.com": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "freestats.com": {
@@ -5058,7 +5058,7 @@
         "phunware.com": {
             "epoch": "1549238400",
             "expiration_date": "04-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "picadmedia.com": {
             "epoch": "1568160000",
