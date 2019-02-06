@@ -3241,9 +3241,9 @@
             "state": "future"
         },
         "grafstat.ro": {
-            "epoch": "1538092800",
-            "expiration_date": "28-sep-2018",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "greystripe.com": {
             "epoch": "1572566400",
@@ -4743,7 +4743,7 @@
         "nuggad.net": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "nuseek.com": {
             "epoch": "1566777600",
@@ -5056,9 +5056,9 @@
             "state": "future"
         },
         "phunware.com": {
-            "epoch": "1549238400",
-            "expiration_date": "04-feb-2019",
-            "state": "past"
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
         },
         "picadmedia.com": {
             "epoch": "1568160000",
