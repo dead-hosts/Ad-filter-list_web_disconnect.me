@@ -1608,7 +1608,7 @@
         "bannersgomlm.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "bannerspace.com": {
             "epoch": "1591488000",
@@ -2176,14 +2176,14 @@
             "state": "future"
         },
         "clickhype.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "clickmedia.ro": {
-            "epoch": "1539820800",
-            "expiration_date": "18-oct-2018",
-            "state": "past"
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
         },
         "clicksor.com": {
             "epoch": "1580083200",
