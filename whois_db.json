@@ -2706,8 +2706,8 @@
             "state": "future"
         },
         "edgeio.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "effectivemeasure.com": {
@@ -3473,7 +3473,7 @@
         "iconadserver.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "icptrack.com": {
             "epoch": "1718668800",
@@ -3756,8 +3756,8 @@
             "state": "future"
         },
         "jokedollars.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1612656000",
+            "expiration_date": "07-feb-2021",
             "state": "future"
         },
         "juicyads.com": {
@@ -4556,8 +4556,8 @@
             "state": "future"
         },
         "mypowermall.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "myscreen.com": {
@@ -4741,9 +4741,9 @@
             "state": "future"
         },
         "nuggad.net": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "nuseek.com": {
             "epoch": "1566777600",
@@ -4946,8 +4946,8 @@
             "state": "future"
         },
         "passion-4.net": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "pay-ads.com": {
@@ -5226,8 +5226,8 @@
             "state": "future"
         },
         "proext.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1612569600",
+            "expiration_date": "06-feb-2021",
             "state": "future"
         },
         "profero.com": {
@@ -5358,7 +5358,7 @@
         "radarurl.com": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "radiate.com": {
             "epoch": "1596758400",
