@@ -186,8 +186,8 @@
             "state": "future"
         },
         "abz.com": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "acento.com": {
@@ -746,9 +746,9 @@
             "state": "future"
         },
         "adperium.com": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
-            "state": "past"
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "adplxmd.com": {
             "epoch": "1588982400",
@@ -803,7 +803,7 @@
         "adrotator.se": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "ads-click.com": {
             "epoch": "1576713600",
