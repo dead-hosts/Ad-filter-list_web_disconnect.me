@@ -57,11 +57,7 @@
             "adserv.quality-channel.de",
             "ads.esmas.com",
             "ads.expedia.com",
-            "ads.ezboard.com"
-        ],
-        "to_test": [
-            "ad.top50.to",
-            "ad.watch.impress.co.jp",
+            "ads.ezboard.com",
             "ads.foxkidseurope.net",
             "ads.futurenet.com",
             "ads.gameforgeads.de",
@@ -73,7 +69,11 @@
             "ads.hideyourarms.com",
             "ads.iafrica.com",
             "ads.linuxjournal.com",
-            "ads.linuxsecurity.com",
+            "ads.linuxsecurity.com"
+        ],
+        "to_test": [
+            "ad.top50.to",
+            "ad.watch.impress.co.jp",
             "ads.mdotm.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
