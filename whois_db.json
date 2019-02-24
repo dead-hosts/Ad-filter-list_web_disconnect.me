@@ -6916,8 +6916,8 @@
             "state": "future"
         },
         "wmirk.ru": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "wonderlandads.com": {
@@ -6926,8 +6926,8 @@
             "state": "future"
         },
         "woopra.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1708646400",
+            "expiration_date": "23-feb-2024",
             "state": "future"
         },
         "worldwide-cash.net": {
@@ -7043,7 +7043,7 @@
         "ydworld.com": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "yesads.com": {
             "epoch": "1567641600",
