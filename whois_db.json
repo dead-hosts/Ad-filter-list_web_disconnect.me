@@ -155,6 +155,11 @@
             "expiration_date": "07-jul-2019",
             "state": "future"
         },
+        "a-counter.kiev.ua": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
         "a9.com": {
             "epoch": "1567814400",
             "expiration_date": "07-sep-2019",
@@ -660,6 +665,11 @@
             "expiration_date": "09-sep-2019",
             "state": "future"
         },
+        "admotion.com.ar": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
         "admtpmp123.com": {
             "epoch": "1560297600",
             "expiration_date": "12-jun-2019",
@@ -748,6 +758,11 @@
         "adperium.com": {
             "epoch": "1581897600",
             "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "adplus.co.id": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
             "state": "future"
         },
         "adplxmd.com": {
