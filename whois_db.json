@@ -3450,6 +3450,11 @@
             "expiration_date": "31-dec-2019",
             "state": "future"
         },
+        "hotrank.com.tw": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
         "httpool.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
@@ -3603,6 +3608,11 @@
         "impressionmedia.cz": {
             "epoch": "1563840000",
             "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "impressionz.co.uk": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
             "state": "future"
         },
         "imrworldwide.com": {
@@ -4135,6 +4145,11 @@
             "expiration_date": "26-oct-2021",
             "state": "future"
         },
+        "mbn.com.ua": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
         "mdotm.com": {
             "epoch": "1599955200",
             "expiration_date": "13-sep-2020",
@@ -4511,8 +4526,8 @@
             "state": "future"
         },
         "mopub.com": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
             "state": "future"
         },
         "motricity.com": {
@@ -4706,8 +4721,8 @@
             "state": "future"
         },
         "netcommunities.com": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
             "state": "future"
         },
         "netflame.cc": {
