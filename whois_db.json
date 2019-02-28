@@ -168,7 +168,7 @@
         "aaddzz.com": {
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "aarki.com": {
             "epoch": "1592956800",
@@ -493,7 +493,7 @@
         "adinch.com": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "adinjector.net": {
             "epoch": "1568073600",
