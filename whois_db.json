@@ -166,9 +166,9 @@
             "state": "future"
         },
         "aaddzz.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "aarki.com": {
             "epoch": "1592956800",
@@ -211,8 +211,8 @@
             "state": "future"
         },
         "actualdeals.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "acuityads.com": {
@@ -446,8 +446,8 @@
             "state": "future"
         },
         "adflight.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "adforce.com": {
@@ -491,9 +491,9 @@
             "state": "future"
         },
         "adinch.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
         },
         "adinjector.net": {
             "epoch": "1568073600",
