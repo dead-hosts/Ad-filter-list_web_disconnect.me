@@ -201,9 +201,7 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "www.banner-link.com.br",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "ads.foxkidseurope.net",
             "ads.futurenet.com",
             "ads.gameforgeads.de",
@@ -213,7 +211,9 @@
             "ads.hardwaresecrets.com",
             "ads.heias.com",
             "ads.hideyourarms.com",
-            "ads.iafrica.com",
+            "ads.iafrica.com"
+        ],
+        "to_test": [
             "click.absoluteagency.com",
             "clickthrucash.com",
             "contaxe.de",
