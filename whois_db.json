@@ -2443,7 +2443,7 @@
         "crawlability.com": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "crazypopups.com": {
             "epoch": "1579132800",
@@ -3341,9 +3341,9 @@
             "state": "future"
         },
         "herbalaffiliateprogram.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "here.com": {
             "epoch": "1560124800",
@@ -4978,7 +4978,7 @@
         "pagerank4you.com": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "pageranktop.com": {
             "epoch": "1577836800",
