@@ -3193,7 +3193,7 @@
         "gamesitestop100.com": {
             "epoch": "1551744000",
             "expiration_date": "05-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "gator.com": {
             "epoch": "1647734400",
@@ -4686,9 +4686,9 @@
             "state": "future"
         },
         "nedstatbasic.net": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
-            "state": "past"
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
         },
         "nedstatpro.net": {
             "epoch": "1583280000",
@@ -5036,8 +5036,8 @@
             "state": "future"
         },
         "pennyweb.com": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "pepperjamnetwork.com": {
