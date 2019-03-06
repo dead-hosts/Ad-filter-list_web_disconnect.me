@@ -5813,7 +5813,7 @@
         "sextracker.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexystat.com": {
             "epoch": "1552694400",
@@ -7173,7 +7173,7 @@
         "yieldtraffic.com": {
             "epoch": "1551744000",
             "expiration_date": "05-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "yoc-performance.com": {
             "epoch": "1556755200",
