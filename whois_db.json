@@ -2196,8 +2196,8 @@
             "state": "future"
         },
         "clickdensity.com": {
-            "epoch": "1551916800",
-            "expiration_date": "07-mar-2019",
+            "epoch": "1615075200",
+            "expiration_date": "07-mar-2021",
             "state": "future"
         },
         "clickedyclick.com": {
@@ -2343,7 +2343,7 @@
         "comprabanner.it": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "connextra.com": {
             "epoch": "1754956800",
@@ -3191,9 +3191,9 @@
             "state": "future"
         },
         "gamesitestop100.com": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
-            "state": "past"
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
         },
         "gator.com": {
             "epoch": "1647734400",
