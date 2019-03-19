@@ -3001,8 +3001,8 @@
             "state": "future"
         },
         "fastclick.net": {
-            "epoch": "1552867200",
-            "expiration_date": "18-mar-2019",
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "fb-promotions.com": {
@@ -4183,7 +4183,7 @@
         "mediaarmor.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediabrix.com": {
             "epoch": "1555632000",
@@ -4618,7 +4618,7 @@
         "myscreen.com": {
             "epoch": "1552953600",
             "expiration_date": "19-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mystat-in.net": {
             "epoch": "1557792000",
