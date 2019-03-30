@@ -2723,7 +2723,7 @@
         "ebocornac.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "ebuzzing.com": {
             "epoch": "1558483200",
@@ -3461,8 +3461,8 @@
             "state": "future"
         },
         "httpool.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1711670400",
+            "expiration_date": "29-mar-2024",
             "state": "future"
         },
         "humandemand.com": {
@@ -3546,8 +3546,8 @@
             "state": "future"
         },
         "idregie.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "idtargeting.com": {
@@ -4193,7 +4193,7 @@
         "mediacharger.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediadvertising.ro": {
             "epoch": "1565568000",
@@ -4463,7 +4463,7 @@
         "mobiletheory.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mobilewithsms.net": {
             "epoch": "1578614400",
@@ -4826,8 +4826,8 @@
             "state": "future"
         },
         "omniture.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "on-mobi.com": {
@@ -4856,9 +4856,9 @@
             "state": "future"
         },
         "onestat.com": {
-            "epoch": "1553644800",
-            "expiration_date": "27-mar-2019",
-            "state": "past"
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
         },
         "onestatfree.com": {
             "epoch": "1566086400",
