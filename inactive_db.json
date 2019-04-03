@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1554077993": [
+        "1554250892": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -36,6 +36,7 @@
             "ads.asia1.com.sg",
             "ads.beenetworks.net",
             "ads.billiton.de",
+            "ads.canalblog.com",
             "ads.cgnetworks.com",
             "ads.cimedia.com",
             "ads.datinggold.com",
@@ -58,6 +59,7 @@
             "ads.linuxjournal.com",
             "ads.linuxsecurity.com",
             "ads.mdotm.com",
+            "ads.mediaturf.net",
             "ads.moceanads.com",
             "ads.movieflix.com",
             "ads.netclusive.de",
@@ -65,7 +67,9 @@
             "ads.newdream.net",
             "ads.newsquest.co.uk",
             "ads.newtention.net",
-            "ads.ookla.com",
+            "ads.ookla.com"
+        ],
+        "to_test": [
             "ads.penny-arcade.com",
             "ads.pheedo.com",
             "ads.pickmeup-ltd.com",
@@ -93,6 +97,24 @@
             "ads.web.cs.com",
             "ads.whi.co.nz",
             "ads.wunderground.com",
+            "ads1.theglobeandmail.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.evo-x.de",
+            "adserv.iafrica.com",
+            "adserv.qconline.com",
+            "adserv.quality-channel.de",
+            "adserver-live.yoc.mobi",
+            "adserver.beggarspromo.com",
+            "adserver.clashmusic.com",
+            "adserver.dotcommedia.de",
+            "adserver.finditquick.com",
+            "adserver.freenet.de",
+            "adserver.motorpresse.de",
+            "adserver.omroepzeeland.nl",
+            "adserver.startnow.com",
+            "adserver1.mokono.com",
+            "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
@@ -198,26 +220,6 @@
             "wads.webteh.com",
             "www.banner-link.com.br",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads1.theglobeandmail.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.evo-x.de",
-            "adserv.iafrica.com",
-            "adserv.qconline.com",
-            "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi",
-            "adserver.beggarspromo.com",
-            "adserver.clashmusic.com",
-            "adserver.dotcommedia.de",
-            "adserver.finditquick.com",
-            "adserver.freenet.de",
-            "adserver.motorpresse.de",
-            "adserver.omroepzeeland.nl",
-            "adserver.startnow.com",
-            "adserver1.mokono.com",
-            "adserver2.popdata.de"
         ]
     }
 }
