@@ -5601,8 +5601,8 @@
             "state": "future"
         },
         "richmails.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "richwebmaster.com": {
@@ -5888,7 +5888,7 @@
         "sitemeter.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sitestat.com": {
             "epoch": "1563062400",
@@ -6466,8 +6466,8 @@
             "state": "future"
         },
         "trackalyzer.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "tracking101.com": {
@@ -6638,6 +6638,11 @@
         "turn.com": {
             "epoch": "1711929600",
             "expiration_date": "01-apr-2024",
+            "state": "future"
+        },
+        "tvas-a.pw": {
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "tvmtracker.com": {
@@ -7226,9 +7231,9 @@
             "state": "future"
         },
         "zeepmedia.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
-            "state": "past"
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
         },
         "zencudo.co.uk": {
             "epoch": "1577923200",
