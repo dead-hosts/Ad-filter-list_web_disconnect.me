@@ -1266,14 +1266,14 @@
             "state": "future"
         },
         "affiliatetracking.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1649548800",
+            "expiration_date": "10-apr-2022",
             "state": "future"
         },
         "affiliatetracking.net": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1649462400",
+            "expiration_date": "09-apr-2022",
+            "state": "future"
         },
         "affiliatetrading.net": {
             "epoch": "1573257600",
@@ -2023,7 +2023,7 @@
         "cben1.net": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "cbmall.com": {
             "epoch": "1569542400",
