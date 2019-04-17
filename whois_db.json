@@ -5021,8 +5021,8 @@
             "state": "future"
         },
         "paypopup.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "payserve.com": {
@@ -6138,7 +6138,7 @@
         "switchadhub.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "switchads.com": {
             "epoch": "1564531200",
@@ -6276,8 +6276,8 @@
             "state": "future"
         },
         "theads.me": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "thebugs.ws": {
@@ -6393,7 +6393,7 @@
         "topgamesites.net": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "toplist.cz": {
             "epoch": "1571616000",
@@ -7068,7 +7068,7 @@
         "xertive.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "xg4ken.com": {
             "epoch": "1713916800",
