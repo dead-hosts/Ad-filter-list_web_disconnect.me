@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1555460965": [
+        "1555633779": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -17,6 +17,7 @@
             "ad.onad.eu",
             "ad.pandora.tv",
             "ad.playground.ru",
+            "ad.slutload.com",
             "ad.top50.to",
             "ad.watch.impress.co.jp",
             "ad2.ip.ro",
@@ -72,7 +73,9 @@
             "ads.penny-arcade.com",
             "ads.pheedo.com",
             "ads.pickmeup-ltd.com",
-            "ads.pkr.com",
+            "ads.pkr.com"
+        ],
+        "to_test": [
             "ads.returnpath.net",
             "ads.s3.sitepoint.com",
             "ads.savannahnow.com",
@@ -96,6 +99,24 @@
             "ads.web.cs.com",
             "ads.whi.co.nz",
             "ads.wunderground.com",
+            "ads1.theglobeandmail.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.evo-x.de",
+            "adserv.iafrica.com",
+            "adserv.qconline.com",
+            "adserv.quality-channel.de",
+            "adserver-live.yoc.mobi",
+            "adserver.beggarspromo.com",
+            "adserver.clashmusic.com",
+            "adserver.dotcommedia.de",
+            "adserver.finditquick.com",
+            "adserver.freenet.de",
+            "adserver.motorpresse.de",
+            "adserver.omroepzeeland.nl",
+            "adserver.startnow.com",
+            "adserver1.mokono.com",
+            "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
@@ -202,26 +223,6 @@
             "wads.webteh.com",
             "www.banner-link.com.br",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads1.theglobeandmail.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.evo-x.de",
-            "adserv.iafrica.com",
-            "adserv.qconline.com",
-            "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi",
-            "adserver.beggarspromo.com",
-            "adserver.clashmusic.com",
-            "adserver.dotcommedia.de",
-            "adserver.finditquick.com",
-            "adserver.freenet.de",
-            "adserver.motorpresse.de",
-            "adserver.omroepzeeland.nl",
-            "adserver.startnow.com",
-            "adserver1.mokono.com",
-            "adserver2.popdata.de"
         ]
     }
 }
