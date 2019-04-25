@@ -308,7 +308,7 @@
         "adboost.net": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "adbooth.net": {
             "epoch": "1679529600",
@@ -731,8 +731,8 @@
             "state": "future"
         },
         "adonspot.com": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "adoperator.com": {
@@ -761,8 +761,8 @@
             "state": "future"
         },
         "adplus.co.id": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1619308800",
+            "expiration_date": "25-apr-2021",
             "state": "future"
         },
         "adplxmd.com": {
