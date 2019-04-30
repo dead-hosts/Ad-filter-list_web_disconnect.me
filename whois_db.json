@@ -1571,8 +1571,8 @@
             "state": "future"
         },
         "b4psads.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "backbeatmedia.com": {
@@ -1921,9 +1921,9 @@
             "state": "future"
         },
         "buzzonclick.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "bvalphaserver.com": {
             "epoch": "1567123200",
