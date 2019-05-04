@@ -2251,8 +2251,8 @@
             "state": "future"
         },
         "clicktrade.com": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "clickxchange.com": {
@@ -3201,8 +3201,8 @@
             "state": "future"
         },
         "gayadnetwork.com": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "gemius.pl": {
@@ -3386,8 +3386,8 @@
             "state": "future"
         },
         "hitbox.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "hitcents.com": {
@@ -3408,7 +3408,7 @@
         "hitiz.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hitlist.ru": {
             "epoch": "1562371200",
@@ -3543,7 +3543,7 @@
         "identads.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "idot.cz": {
             "epoch": "1562976000",
@@ -3881,8 +3881,8 @@
             "state": "future"
         },
         "lbn.ru": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "leadaffiliates.com": {
@@ -4246,8 +4246,8 @@
             "state": "future"
         },
         "mediatext.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "medio.com": {
@@ -4726,8 +4726,8 @@
             "state": "future"
         },
         "netclickstats.com": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "netcommunities.com": {
