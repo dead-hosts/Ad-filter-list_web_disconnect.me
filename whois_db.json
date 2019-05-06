@@ -5503,7 +5503,7 @@
         "realtracker.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "redmas.com": {
             "epoch": "1558224000",
@@ -7266,8 +7266,8 @@
             "state": "future"
         },
         "zumobi.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         }
     }
