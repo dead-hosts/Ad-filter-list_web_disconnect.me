@@ -1661,8 +1661,8 @@
             "state": "future"
         },
         "bannery.cz": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1620432000",
+            "expiration_date": "08-may-2021",
             "state": "future"
         },
         "baypops.com": {
@@ -1963,7 +1963,7 @@
         "casalmedia.com": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cash4members.com": {
             "epoch": "1565049600",
