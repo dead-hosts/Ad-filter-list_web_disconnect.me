@@ -2933,7 +2933,7 @@
         "experteerads.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "exponential.com": {
             "epoch": "1854748800",
@@ -4436,8 +4436,8 @@
             "state": "future"
         },
         "mobileactive.com": {
-            "epoch": "1557446400",
-            "expiration_date": "10-may-2019",
+            "epoch": "1589068800",
+            "expiration_date": "10-may-2020",
             "state": "future"
         },
         "mobileadvertisinghub.com": {
