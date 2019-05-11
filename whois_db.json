@@ -7108,7 +7108,7 @@
         "xtendmedia.com": {
             "epoch": "1557532800",
             "expiration_date": "11-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "xtremetop100.com": {
             "epoch": "1687478400",
@@ -7221,8 +7221,8 @@
             "state": "future"
         },
         "zantracker.com": {
-            "epoch": "1557532800",
-            "expiration_date": "11-may-2019",
+            "epoch": "1589155200",
+            "expiration_date": "11-may-2020",
             "state": "future"
         },
         "zedo.com": {
