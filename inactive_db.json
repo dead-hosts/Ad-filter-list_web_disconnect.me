@@ -203,7 +203,9 @@
             "tsms-ad.tsms.com",
             "tvas-c.pw",
             "usmsad.tom.com",
-            "wads.webteh.com"
+            "wads.webteh.com",
+            "www.banner-link.com.br",
+            "zde-affinity.edgecaching.net"
         ],
         "to_test": [
             "ads1.theglobeandmail.com",
@@ -223,9 +225,7 @@
             "adserver.omroepzeeland.nl",
             "adserver.startnow.com",
             "adserver1.mokono.com",
-            "adserver2.popdata.de",
-            "www.banner-link.com.br",
-            "zde-affinity.edgecaching.net"
+            "adserver2.popdata.de"
         ]
     }
 }
