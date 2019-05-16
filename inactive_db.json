@@ -1,6 +1,121 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1557794570": [
+        "1557967488": [
+            "a.0day.kiev.ua"
+        ],
+        "1557967489": [
+            "accounts.pkr.com.invalid",
+            "a.collective-media.net",
+            "a32.g.a.yimg.com",
+            "ad.aboutit.de",
+            "ad2.ip.ro",
+            "ad.afy11.net",
+            "ad2.linxcz.cz",
+            "ad.directrev.com",
+            "adboost.de.vu",
+            "ad-images.suntimes.com",
+            "adimage.asiaone.com.sg",
+            "ad.globe7.com",
+            "ad.e-kolay.net",
+            "ad.f1cd.ru",
+            "ad.m5prod.net",
+            "adman.in.gr",
+            "adlink.de",
+            "admob.comadwhirl.com"
+        ],
+        "1557967638": [
+            "adi.mainichi.co.jp"
+        ],
+        "1557967657": [
+            "ad.onad.eu",
+            "ad.playground.ru",
+            "adq.nextag.com",
+            "ads.adultswim.com"
+        ],
+        "1557967689": [
+            "ads1.theglobeandmail.com"
+        ],
+        "1557967723": [
+            "ads.asia1.com.sg",
+            "ads.ak.facebook.com.edgesuite.net",
+            "ads.aol.com",
+            "ads.alwayson-network.com",
+            "ads.beenetworks.net",
+            "ads.billiton.de",
+            "ads.cimedia.com",
+            "ads.discovery.com",
+            "ads.datinggold.com"
+        ],
+        "1557967748": [
+            "ads.canalblog.com",
+            "ads.cgnetworks.com",
+            "adserver-live.yoc.mobi",
+            "adserver.motorpresse.de",
+            "adserv.quality-channel.de",
+            "adserv.evo-x.de",
+            "ads.expedia.com",
+            "adserv.qconline.com",
+            "ads.ezboard.com",
+            "ads.esmas.com",
+            "adserv.iafrica.com",
+            "ads.groundspeak.com",
+            "ads.futurenet.com",
+            "ads.hardwaresecrets.com",
+            "ads.gameforgeads.de",
+            "ads.foxkidseurope.net",
+            "ads.hideyourarms.com",
+            "ads.iafrica.com",
+            "ads.linuxjournal.com",
+            "ads.mdotm.com",
+            "ads.moceanads.com",
+            "ads.linuxsecurity.com",
+            "ads.mediaturf.net"
+        ],
+        "1557967753": [
+            "adserver1.mokono.com",
+            "adserver.clashmusic.com",
+            "ads.eatinparis.com",
+            "adserver.43plc.com",
+            "adserver.freenet.de",
+            "adserver.dotcommedia.de",
+            "adserver2.popdata.de"
+        ],
+        "1557967816": [
+            "adserver.startnow.com"
+        ],
+        "1557967847": [
+            "ads.globeandmail.com",
+            "ads.godlikeproductions.com"
+        ],
+        "1557967865": [
+            "ad.slutload.com"
+        ],
+        "1557967898": [
+            "ads.netmechanic.com",
+            "ads.newdream.net",
+            "ads.ookla.com",
+            "ads.pheedo.com",
+            "ads.penny-arcade.com",
+            "ads.pickmeup-ltd.com",
+            "ads.newtention.net",
+            "ads.netclusive.de",
+            "adspace.ro",
+            "ads.movieflix.com",
+            "ads.returnpath.net",
+            "ads.pkr.com",
+            "ads.savannahnow.com",
+            "ads.s3.sitepoint.com",
+            "ads.sptimes.com",
+            "ads.stationplay.com",
+            "ads.spoonfeduk.com",
+            "ads.slim.com",
+            "ads.struq.com",
+            "adsremote.scrippsnetworks.com"
+        ],
+        "1557968069": [
+            "adsrv.eacdn.com"
+        ],
+        "to_test": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -97,6 +212,24 @@
             "ads.web.cs.com",
             "ads.whi.co.nz",
             "ads.wunderground.com",
+            "ads1.theglobeandmail.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.evo-x.de",
+            "adserv.iafrica.com",
+            "adserv.qconline.com",
+            "adserv.quality-channel.de",
+            "adserver-live.yoc.mobi",
+            "adserver.beggarspromo.com",
+            "adserver.clashmusic.com",
+            "adserver.dotcommedia.de",
+            "adserver.finditquick.com",
+            "adserver.freenet.de",
+            "adserver.motorpresse.de",
+            "adserver.omroepzeeland.nl",
+            "adserver.startnow.com",
+            "adserver1.mokono.com",
+            "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
@@ -206,26 +339,6 @@
             "wads.webteh.com",
             "www.banner-link.com.br",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads1.theglobeandmail.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.evo-x.de",
-            "adserv.iafrica.com",
-            "adserv.qconline.com",
-            "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi",
-            "adserver.beggarspromo.com",
-            "adserver.clashmusic.com",
-            "adserver.dotcommedia.de",
-            "adserver.finditquick.com",
-            "adserver.freenet.de",
-            "adserver.motorpresse.de",
-            "adserver.omroepzeeland.nl",
-            "adserver.startnow.com",
-            "adserver1.mokono.com",
-            "adserver2.popdata.de"
         ]
     }
 }
