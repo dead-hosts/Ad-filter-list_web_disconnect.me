@@ -1,326 +1,283 @@
 {
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/Ad-filter-list.list": {
-        "1558140332": [
-            "a.0day.kiev.ua",
+        "1558313145": [
             "accounts.pkr.com.invalid",
-            "a.collective-media.net"
+            "a.collective-media.net",
+            "a.0day.kiev.ua",
+            "a32.g.a.yimg.com"
         ],
-        "1558140333": [
-            "a32.g.a.yimg.com",
-            "ad.aboutit.de",
+        "1558313149": [
+            "ad.aboutit.de"
+        ],
+        "1558313150": [
             "ad2.linxcz.cz",
-            "ad2.ip.ro",
+            "ad2.ip.ro"
+        ],
+        "1558313167": [
             "ad.afy11.net",
             "ad.directrev.com",
-            "adboost.de.vu"
-        ],
-        "1558140391": [
-            "adimage.asiaone.com.sg",
+            "adboost.de.vu",
             "ad-images.suntimes.com",
             "adi.mainichi.co.jp",
             "ad.globe7.com",
             "ad.e-kolay.net",
-            "ad.f1cd.ru",
-            "ad.m5prod.net",
+            "ad.f1cd.ru"
+        ],
+        "1558313181": [
+            "adimage.asiaone.com.sg",
             "adman.in.gr",
-            "adlink.de",
-            "ad.onad.eu",
+            "adlink.de"
+        ],
+        "1558313188": [
+            "ad.m5prod.net",
             "admob.comadwhirl.com",
+            "ad.onad.eu",
             "ad.playground.ru",
             "adq.nextag.com",
             "ads1.theglobeandmail.com",
-            "ads.adultswim.com",
             "ads.asia1.com.sg",
-            "ads.alwayson-network.com",
+            "ads.aol.com",
             "ads.beenetworks.net",
             "ads.ak.facebook.com.edgesuite.net",
             "ads.billiton.de"
         ],
-        "1558140420": [
-            "ads.aol.com"
-        ],
-        "1558140426": [
-            "ads.cimedia.com",
-            "ads.datinggold.com",
-            "ads.canalblog.com",
-            "ads.discovery.com"
-        ],
-        "1558140428": [
+        "1558313210": [
+            "ads.adultswim.com",
+            "ads.alwayson-network.com",
             "ads.cgnetworks.com"
         ],
-        "1558140431": [
-            "adserver1.mokono.com",
+        "1558313218": [
+            "ads.cimedia.com"
+        ],
+        "1558313219": [
+            "ads.canalblog.com",
+            "ads.datinggold.com",
+            "ads.discovery.com"
+        ],
+        "1558313225": [
             "adserver.clashmusic.com",
+            "adserver1.mokono.com",
             "ads.eatinparis.com",
-            "adserver.43plc.com",
-            "adserver.freenet.de",
+            "adserver.43plc.com"
+        ],
+        "1558313227": [
             "adserver2.popdata.de",
             "adserver.dotcommedia.de",
+            "adserver.freenet.de"
+        ],
+        "1558313234": [
             "adserver.finditquick.com",
             "adserver-live.yoc.mobi",
-            "adserv.quality-channel.de"
+            "adserver.motorpresse.de",
+            "adserv.iafrica.com"
         ],
-        "1558140469": [
+        "1558313263": [
             "adserv.evo-x.de",
             "adserv.qconline.com",
-            "ads.ezboard.com",
-            "ads.esmas.com",
             "ads.expedia.com",
-            "adserver.motorpresse.de"
-        ],
-        "1558140470": [
+            "adserv.quality-channel.de",
+            "ads.ezboard.com",
             "adserver.startnow.com",
-            "adserv.iafrica.com",
+            "ads.esmas.com",
             "ads.groundspeak.com",
             "ads.futurenet.com",
-            "ads.gameforgeads.de",
-            "ads.foxkidseurope.net"
-        ],
-        "1558140474": [
-            "ads.globeandmail.com",
-            "ads.godlikeproductions.com"
-        ],
-        "1558140475": [
             "ads.hardwaresecrets.com",
+            "ads.foxkidseurope.net",
             "ads.hideyourarms.com",
-            "ads.iafrica.com",
+            "ads.iafrica.com"
+        ],
+        "1558313268": [
+            "ads.globeandmail.com",
+            "ads.godlikeproductions.com",
+            "ads.gameforgeads.de",
+            "ads.moceanads.com",
+            "ads.mediaturf.net"
+        ],
+        "1558313287": [
             "ad.slutload.com",
             "ads.linuxjournal.com",
-            "ads.linuxsecurity.com",
             "ads.mdotm.com",
-            "ads.moceanads.com",
-            "ads.mediaturf.net",
-            "ads.newdream.net",
-            "ads.ookla.com"
-        ],
-        "1558140498": [
+            "ads.linuxsecurity.com",
             "ads.netmechanic.com",
+            "ads.newdream.net",
+            "ads.ookla.com",
             "ads.pheedo.com",
-            "ads.penny-arcade.com",
             "ads.pickmeup-ltd.com",
             "ads.newtention.net",
             "ads.netclusive.de",
             "adspace.ro",
-            "ads.movieflix.com",
+            "ads.movieflix.com"
+        ],
+        "1558313292": [
+            "ads.penny-arcade.com"
+        ],
+        "1558313319": [
             "ads.pkr.com",
+            "ads.returnpath.net",
+            "adsrv.eacdn.com",
+            "ads.s3.sitepoint.com",
+            "ads.savannahnow.com",
             "ads.sptimes.com",
-            "ads.stationplay.com",
+            "ads.stationplay.com"
+        ],
+        "1558313320": [
             "ads.spoonfeduk.com",
             "ads.slim.com",
             "ads.struq.com",
-            "adsremote.scrippsnetworks.com"
-        ],
-        "1558140526": [
-            "ads.returnpath.net",
-            "ads.savannahnow.com",
-            "adsrv.eacdn.com",
-            "ads.s3.sitepoint.com"
-        ],
-        "1558140553": [
+            "adsremote.scrippsnetworks.com",
             "ads.techweb.com",
             "ads.theglobeandmail.com",
-            "ads.tjwi.info",
             "ads.timeout.com",
+            "ads.tjwi.info",
             "ads.tripod.spray.se",
-            "ads.v3.com",
             "ads.thewebfreaks.com",
-            "ads.virtualcountries.com",
-            "ads.t-online.de",
+            "ads.v3.com",
+            "ads.telegraph.co.uk",
+            "ads.virtualcountries.com"
+        ],
+        "1558313348": [
             "ads.whi.co.nz",
+            "ads.t-online.de"
+        ],
+        "1558313352": [
+            "ads.wunderground.com",
             "ad.top50.to",
             "adtrading.de",
+            "advertising.guildlaunch.net",
             "ad.watch.impress.co.jp",
-            "adverts.carltononline.com"
-        ],
-        "1558140554": [
-            "ads.telegraph.co.uk"
-        ],
-        "1558140558": [
-            "ads.wunderground.com"
-        ],
-        "1558140567": [
-            "advertising.guildlaunch.net"
-        ],
-        "1558140572": [
+            "adverts.carltononline.com",
             "adx.gainesvillesun.com",
             "affiliates.jlist.com",
-            "affiliates.devilfishpartners.com"
-        ],
-        "1558140573": [
+            "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliate.7host.com",
             "an.tacoda.net",
+            "as2.advfn.com",
             "banner.alphacool.de",
             "banner.blogranking.net"
         ],
-        "1558140584": [
-            "as2.advfn.com",
-            "assets.loomia.com"
-        ],
-        "1558140599": [
+        "1558313382": [
+            "assets.loomia.com",
             "bannerexchange.cjb.net",
+            "banners.audioholics.com",
             "banner.joylandcasino.com",
             "banners.apnuk.com",
-            "banners.audioholics.com",
+            "banner.getgo.de",
             "banner.prestigecasino.com",
             "banners.easydns.com",
-            "banner.getgo.de",
             "banner.featuredusers.com",
             "banners.ebay.com",
-            "b.aol.com",
-            "banner.wirenode.com"
-        ],
-        "1558140605": [
-            "b.engadget.com",
+            "banner.wirenode.com",
             "banners.lifeserv.com",
-            "bravenet.com.invalid",
+            "b.engadget.com"
+        ],
+        "1558313404": [
+            "b.aol.com",
             "bigads.guj.de"
         ],
-        "1558140623": [
+        "1558313412": [
+            "bravenet.com.invalid",
             "c.compete.com",
             "ch.questionmarket.com",
             "clients.tbo.com",
             "clickthrucash.com",
-            "clicktag.de",
+            "clicktag.de"
+        ],
+        "1558313439": [
             "count.rbc.ru",
-            "count6.rbc.ru",
+            "count6.rbc.ru"
+        ],
+        "1558313441": [
             "counter.avtoindex.com",
-            "creative.ak.facebook.com",
             "creative.whi.co.nz",
             "depilflash.tv"
         ],
-        "1558140681": [
-            "eur.a1.yimg.com",
+        "1558313462": [
+            "creative.ak.facebook.com",
             "euro-linkindex.de",
             "emonitor.takeit.cz",
-            "engine.awaps.net",
+            "engine.awaps.net"
+        ],
+        "1558313485": [
+            "eur.a1.yimg.com",
             "fonecta.leiki.com",
             "fragmentserv.iac-online.de",
-            "gold.weborama.fr",
-            "hit-ranking.de"
+            "gold.weborama.fr"
         ],
-        "1558140710": [
-            "gpr.hu"
+        "1558313515": [
+            "gpr.hu",
+            "hit-ranking.de",
+            "iliillliO00OO0.321.cn"
         ],
-        "1558140721": [
+        "1558313528": [
             "images.v3.com",
-            "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "interstat.hu",
-            "kt-g.de",
-            "mads.aol.com",
-            "memorix.sdv.fr"
+            "kt-g.de"
         ],
-        "1558140748": [
-            "leanoisgo.com"
+        "1558313556": [
+            "leanoisgo.com",
+            "mads.aol.com"
         ],
-        "1558140784": [
-            "m.webtrends.com"
+        "1558313578": [
+            "memorix.sdv.fr",
+            "m.webtrends.com",
+            "ngs.impress.co.jp"
         ],
-        "1558140790": [
+        "1558313601": [
             "network.business.com",
-            "ngs.impress.co.jp",
-            "oas.salon.com",
+            "oas.salon.com"
+        ],
+        "1558313610": [
             "pagerank-submitter.com",
-            "pagerank4u.eu"
-        ],
-        "1558140812": [
+            "pagerank4u.eu",
             "partner.topcities.com",
-            "perf.weborama.fr"
-        ],
-        "1558140813": [
+            "perf.weborama.fr",
             "pixel.jumptap.com",
             "promo1.webcams.nl",
             "pro.i-doctor.co.kr",
-            "rad.msn.com",
+            "rad.msn.com"
+        ],
+        "1558313644": [
             "ranking-street.de",
             "reefaquarium.biz",
+            "sexaddpro.de",
+            "service1.adten.de"
+        ],
+        "1558313654": [
             "rythmxchange.com",
             "seeq.com.invalid",
-            "sexaddpro.de",
-            "service1.adten.de",
+            "sitebrand.geeks.com",
+            "sma.punto.net"
+        ],
+        "1558313661": [
             "sitemerkezi.net"
         ],
-        "1558140838": [
-            "sitebrand.geeks.com",
-            "sma.punto.net",
+        "1558313662": [
             "smartbase.cdnservices.com",
-            "stats.suite101.com",
             "suavalds.com",
-            "stat.tudou.com",
+            "stats.suite101.com",
             "stats.cts-bv.nl",
+            "stat.tudou.com",
             "stats.surfaid.ihost.com",
             "sx.trhnt.com"
         ],
-        "1558140853": [
+        "1558313679": [
             "tailsweep.co.uk",
             "textads.opera.com",
-            "t.pusk.ru",
+            "t.pusk.ru"
+        ],
+        "1558313687": [
+            "tracking.yourfilehost.com",
+            "trafficcdn.liveuniversenetwork.com",
             "traffic.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
-            "tvas-c.pw",
             "unanimis.co.uk",
+            "tvas-c.pw",
             "usmsad.tom.com",
-            "wads.webteh.com"
-        ],
-        "1558140859": [
-            "tracking.yourfilehost.com"
-        ],
-        "1558140874": [
-            "trafficcdn.liveuniversenetwork.com"
-        ],
-        "1558140894": [
-            "www.banner-link.com.br"
-        ],
-        "1558140896": [
-            "zde-affinity.edgecaching.net",
-            "accounts.pkr.com.invalid",
-            "a.0day.kiev.ua",
-            "a.collective-media.net",
-            "ad-images.suntimes.com",
-            "ad.directrev.com",
-            "ad.slutload.com",
-            "ad.onad.eu",
-            "a32.g.a.yimg.com"
-        ],
-        "1558140911": [
-            "ad.m5prod.net",
-            "ad.aboutit.de",
-            "ad.watch.impress.co.jp",
-            "adimage.asiaone.com.sg",
-            "ads.aol.com",
-            "adq.nextag.com",
-            "ads.adultswim.com",
-            "ads.cimedia.com"
-        ],
-        "1558140912": [
-            "ads.asia1.com.sg",
-            "adi.mainichi.co.jp",
-            "ads.discovery.com",
-            "ads.datinggold.com",
-            "ads.ezboard.com",
-            "ad.top50.to",
-            "ads.expedia.com",
-            "ad.playground.ru",
-            "admob.comadwhirl.com",
-            "ads.esmas.com",
-            "ads.beenetworks.net",
-            "ads.alwayson-network.com",
-            "ad.globe7.com",
-            "ad2.linxcz.cz",
-            "ads.canalblog.com",
-            "ads.foxkidseurope.net",
-            "ads.eatinparis.com",
-            "ad.e-kolay.net",
-            "ads.ak.facebook.com.edgesuite.net",
-            "ad.f1cd.ru",
-            "ad2.ip.ro",
-            "ads.billiton.de",
-            "adman.in.gr",
-            "ads.cgnetworks.com",
-            "adlink.de",
-            "ad.afy11.net",
-            "adboost.de.vu"
+            "wads.webteh.com",
+            "www.banner-link.com.br",
+            "zde-affinity.edgecaching.net"
         ],
         "to_test": [
             "a.0day.kiev.ua",
@@ -465,6 +422,7 @@
             "banner.jobsahead.com",
             "banner.joylandcasino.com",
             "banner.prestigecasino.com",
+            "banner.wirenode.com",
             "bannerexchange.cjb.net",
             "banners.apnuk.com",
             "banners.audioholics.com",
@@ -497,6 +455,7 @@
             "gpr.hu",
             "hit-ranking.de",
             "iliillliO00OO0.321.cn",
+            "images.v3.com",
             "interstat.hu",
             "kt-g.de",
             "lct.salesforce.com",
@@ -521,6 +480,7 @@
             "qwapi.apple.com",
             "rad.msn.com",
             "ranking-street.de",
+            "reefaquarium.biz",
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
@@ -544,6 +504,7 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "tvas-c.pw",
+            "unanimis.co.uk",
             "usmsad.tom.com",
             "wads.webteh.com",
             "www.banner-link.com.br",
