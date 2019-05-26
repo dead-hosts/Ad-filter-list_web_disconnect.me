@@ -1225,9 +1225,9 @@
         "state": "future"
     },
     "adyea.com": {
-        "epoch": "1558742400",
+        "epoch": 1558742400,
         "expiration_date": "25-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "adzerk.net": {
         "epoch": "1715472000",
