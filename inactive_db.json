@@ -206,20 +206,7 @@
             "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
-            "suavalds.com"
-        ],
-        "to_test": [
-            "ad.pandora.tv",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserver.beggarspromo.com",
-            "adserver.finditquick.com",
-            "adworx.at",
-            "aidu-ads.de",
-            "bannerexchange.cjb.net",
-            "kt-g.de",
-            "oewabox.at",
-            "quarterserver.de",
+            "suavalds.com",
             "sx.trhnt.com",
             "t.pusk.ru",
             "tailsweep.co.uk",
@@ -235,6 +222,19 @@
             "wads.webteh.com",
             "www.banner-link.com.br",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "ad.pandora.tv",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.beggarspromo.com",
+            "adserver.finditquick.com",
+            "adworx.at",
+            "aidu-ads.de",
+            "bannerexchange.cjb.net",
+            "kt-g.de",
+            "oewabox.at",
+            "quarterserver.de"
         ]
     }
 }
