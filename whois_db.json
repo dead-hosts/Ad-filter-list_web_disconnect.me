@@ -1225,9 +1225,9 @@
         "state": "future"
     },
     "adyea.com": {
-        "epoch": 1558742400,
-        "expiration_date": "25-may-2019",
-        "state": "past"
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
     },
     "adzerk.net": {
         "epoch": "1715472000",
@@ -1320,9 +1320,9 @@
         "state": "future"
     },
     "alclick.com": {
-        "epoch": "1559001600",
+        "epoch": 1559001600,
         "expiration_date": "28-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "alenty.com": {
         "epoch": "1589760000",
