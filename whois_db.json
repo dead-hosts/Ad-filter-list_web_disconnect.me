@@ -1670,8 +1670,8 @@
         "state": "future"
     },
     "bbelements.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "bcfads.com": {
@@ -2770,8 +2770,8 @@
         "state": "future"
     },
     "elitetoplist.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "emarketer.com": {
@@ -3590,9 +3590,9 @@
         "state": "future"
     },
     "imarketservices.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "imatmobile.com": {
         "epoch": "1574640000",
