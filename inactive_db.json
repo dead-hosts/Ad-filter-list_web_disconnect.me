@@ -196,23 +196,7 @@
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
-            "sexaddpro.de"
-        ],
-        "to_test": [
-            "ad.pandora.tv",
-            "ads.canalblog.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserver.beggarspromo.com",
-            "adserver.finditquick.com",
-            "adworx.at",
-            "aidu-ads.de",
-            "click.absoluteagency.com",
-            "clicktag.de",
-            "interstat.hu",
-            "kt-g.de",
-            "oewabox.at",
-            "quarterserver.de",
+            "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
             "sma.punto.net",
@@ -237,6 +221,22 @@
             "wads.webteh.com",
             "www.banner-link.com.br",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "ad.pandora.tv",
+            "ads.canalblog.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.beggarspromo.com",
+            "adserver.finditquick.com",
+            "adworx.at",
+            "aidu-ads.de",
+            "click.absoluteagency.com",
+            "clicktag.de",
+            "interstat.hu",
+            "kt-g.de",
+            "oewabox.at",
+            "quarterserver.de"
         ]
     }
 }
