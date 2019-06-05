@@ -202,25 +202,8 @@
             "sitemerkezi.net",
             "sma.punto.net",
             "smartbase.cdnservices.com",
-            "stats.cts-bv.nl"
-        ],
-        "to_test": [
-            "ad.pandora.tv",
-            "ads.canalblog.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserver.beggarspromo.com",
-            "adserver.finditquick.com",
-            "adworx.at",
-            "aidu-ads.de",
-            "click.absoluteagency.com",
-            "clicktag.de",
-            "gpr.hu",
-            "interstat.hu",
-            "kt-g.de",
-            "oewabox.at",
-            "quarterserver.de",
             "stat.tudou.com",
+            "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
@@ -239,6 +222,23 @@
             "wads.webteh.com",
             "www.banner-link.com.br",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "ad.pandora.tv",
+            "ads.canalblog.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserver.beggarspromo.com",
+            "adserver.finditquick.com",
+            "adworx.at",
+            "aidu-ads.de",
+            "click.absoluteagency.com",
+            "clicktag.de",
+            "gpr.hu",
+            "interstat.hu",
+            "kt-g.de",
+            "oewabox.at",
+            "quarterserver.de"
         ]
     }
 }
