@@ -5915,9 +5915,9 @@
         "state": "future"
     },
     "smaato.com": {
-        "epoch": "1560038400",
+        "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "smart4ads.com": {
         "epoch": "1583193600",
@@ -5990,8 +5990,8 @@
         "state": "future"
     },
     "spotxchange.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1717804800,
+        "expiration_date": "08-jun-2024",
         "state": "future"
     },
     "spylog.com": {
