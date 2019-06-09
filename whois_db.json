@@ -965,8 +965,8 @@
         "state": "future"
     },
     "adsonar.com": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1623196800,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "adspeed.net": {
@@ -1425,9 +1425,9 @@
         "state": "future"
     },
     "apprebates.com": {
-        "epoch": "1559952000",
+        "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "appredeem.com": {
         "epoch": "1566172800",
