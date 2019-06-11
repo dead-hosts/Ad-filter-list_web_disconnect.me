@@ -216,7 +216,12 @@
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
             "traffic.liveuniversenetwork.com",
-            "trafficcdn.liveuniversenetwork.com"
+            "trafficcdn.liveuniversenetwork.com",
+            "tsms-ad.tsms.com",
+            "tvas-c.pw",
+            "usmsad.tom.com",
+            "wads.webteh.com",
+            "www.banner-link.com.br"
         ],
         "to_test": [
             "ad.pandora.tv",
@@ -234,12 +239,7 @@
             "kt-g.de",
             "oewabox.at",
             "quarterserver.de",
-            "tsms-ad.tsms.com",
-            "tvas-c.pw",
             "unanimis.co.uk",
-            "usmsad.tom.com",
-            "wads.webteh.com",
-            "www.banner-link.com.br",
             "zde-affinity.edgecaching.net"
         ]
     }
