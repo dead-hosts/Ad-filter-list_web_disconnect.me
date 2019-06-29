@@ -198,12 +198,9 @@
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1561684139": {
-            "adserver.43plc.com": "INACTIVE",
             "adserver.clashmusic.com": "INACTIVE",
             "adserver.dotcommedia.de": "INACTIVE",
-            "adserver.freenet.de": "INACTIVE",
-            "adserver1.mokono.com": "INACTIVE",
-            "adserver2.popdata.de": "INACTIVE"
+            "adserver.freenet.de": "INACTIVE"
         },
         "1561771010": {
             "a.0day.kiev.ua": "INACTIVE",
@@ -245,7 +242,10 @@
             "ads.datinggold.com": "INACTIVE",
             "ads.discovery.com": "INACTIVE",
             "ads.eatinparis.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE"
+            "ads1.theglobeandmail.com": "INACTIVE",
+            "adserver.43plc.com": "INACTIVE",
+            "adserver1.mokono.com": "INACTIVE",
+            "adserver2.popdata.de": "INACTIVE"
         }
     }
 }
