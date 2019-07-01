@@ -204,6 +204,13 @@
             "adserver.freenet.de": "INACTIVE"
         },
         "1561857410": {
+            "ads.discovery.com": "INACTIVE",
+            "ads.eatinparis.com": "INACTIVE",
+            "adserver.43plc.com": "INACTIVE",
+            "adserver1.mokono.com": "INACTIVE",
+            "adserver2.popdata.de": "INACTIVE"
+        },
+        "1561943849": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
             "a32.g.a.yimg.com": "INACTIVE",
@@ -240,12 +247,7 @@
             "ads.cimedia.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
-            "ads.discovery.com": "INACTIVE",
-            "ads.eatinparis.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE",
-            "adserver.43plc.com": "INACTIVE",
-            "adserver1.mokono.com": "INACTIVE",
-            "adserver2.popdata.de": "INACTIVE"
+            "ads1.theglobeandmail.com": "INACTIVE"
         }
     }
 }
