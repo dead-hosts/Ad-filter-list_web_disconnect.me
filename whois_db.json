@@ -6940,8 +6940,8 @@
         "state": "future"
     },
     "webstat.com": {
-        "epoch": "1565395200",
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "webstat.net": {
@@ -6970,8 +6970,8 @@
         "state": "future"
     },
     "wegcash.com": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "wetrack.it": {
@@ -6985,8 +6985,8 @@
         "state": "future"
     },
     "whenu.com": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "whereapps.com": {
@@ -7005,8 +7005,8 @@
         "state": "future"
     },
     "wholesaletraffic.info": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "widespace.com": {
@@ -7015,8 +7015,8 @@
         "state": "future"
     },
     "widgetbucks.com": {
-        "epoch": "1563321600",
-        "expiration_date": "17-jul-2019",
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "wlmarketing.com": {
@@ -7105,8 +7105,8 @@
         "state": "future"
     },
     "xrea.com": {
-        "epoch": "1563926400",
-        "expiration_date": "24-jul-2019",
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "xtendmedia.com": {
@@ -7170,13 +7170,13 @@
         "state": "future"
     },
     "yieldlab.net": {
-        "epoch": "1563148800",
-        "expiration_date": "15-jul-2019",
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "yieldmanager.com": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "yieldmanager.net": {
@@ -7205,9 +7205,9 @@
         "state": "future"
     },
     "yuilop.com": {
-        "epoch": "1561680000",
+        "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "yume.com": {
         "epoch": "1620604800",
@@ -7265,8 +7265,8 @@
         "state": "future"
     },
     "zmedia.com": {
-        "epoch": "1564185600",
-        "expiration_date": "27-jul-2019",
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "zumobi.com": {
