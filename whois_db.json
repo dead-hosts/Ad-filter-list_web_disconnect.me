@@ -3620,8 +3620,8 @@
         "state": "future"
     },
     "impressionmedia.cz": {
-        "epoch": "1563840000",
-        "expiration_date": "23-jul-2019",
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "impressionz.co.uk": {
@@ -4045,9 +4045,9 @@
         "state": "future"
     },
     "localmediabuying.com": {
-        "epoch": "1565913600",
+        "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "logua.com": {
         "epoch": "1572480000",
