@@ -5235,8 +5235,8 @@
         "state": "future"
     },
     "postrelease.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "potenza.cz": {
@@ -6835,9 +6835,9 @@
         "state": "future"
     },
     "visistat.com": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "visual-pagerank.fr": {
         "epoch": "1566345600",
