@@ -2510,9 +2510,9 @@
         "state": "future"
     },
     "cybermonitor.com": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "dakic-ia-300.com": {
         "epoch": "1583884800",
@@ -2960,9 +2960,9 @@
         "state": "future"
     },
     "eyeblaster.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "eyereturn.com": {
         "epoch": "1581724800",
@@ -3660,8 +3660,8 @@
         "state": "future"
     },
     "inetlog.ru": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "infinite-ads.com": {
@@ -4045,9 +4045,9 @@
         "state": "future"
     },
     "localmediabuying.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "logua.com": {
         "epoch": "1572480000",
@@ -4870,9 +4870,9 @@
         "state": "future"
     },
     "onestatfree.com": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "onewaylinkexchange.net": {
         "epoch": "1580083200",
@@ -5040,8 +5040,8 @@
         "state": "future"
     },
     "peer39.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "pennyweb.com": {
