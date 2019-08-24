@@ -4910,9 +4910,9 @@
         "state": "future"
     },
     "openclick.com": {
-        "epoch": "1566518400",
+        "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "openmarket.com": {
         "epoch": 1653350400,
@@ -5440,9 +5440,9 @@
         "state": "future"
     },
     "rank-master.com": {
-        "epoch": "1566604800",
+        "epoch": 1566604800,
         "expiration_date": "24-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "rankingscout.com": {
         "epoch": 1593993600,
