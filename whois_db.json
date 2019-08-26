@@ -1155,8 +1155,8 @@
         "state": "future"
     },
     "advertmarket.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "advertserve.com": {
@@ -1560,9 +1560,9 @@
         "state": "future"
     },
     "aylarl.com": {
-        "epoch": "1566777600",
+        "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "azfront.com": {
         "epoch": "1575763200",
@@ -1990,8 +1990,8 @@
         "state": "future"
     },
     "cashlayer.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "cashpartner.com": {
