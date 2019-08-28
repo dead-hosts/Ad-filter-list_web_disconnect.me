@@ -2500,8 +2500,8 @@
         "state": "future"
     },
     "cubics.com": {
-        "epoch": "1566950400",
-        "expiration_date": "28-aug-2019",
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "cyberbounty.com": {
@@ -2672,6 +2672,11 @@
     "doublepimp.com": {
         "epoch": "1591142400",
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "drawbrid.ge": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
         "state": "future"
     },
     "drumcash.com": {
@@ -3615,9 +3620,9 @@
         "state": "future"
     },
     "imprese.cz": {
-        "epoch": "1566950400",
+        "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "impressionmedia.cz": {
         "epoch": 1595462400,
@@ -4545,8 +4550,8 @@
         "state": "future"
     },
     "motricity.com": {
-        "epoch": "1566864000",
-        "expiration_date": "27-aug-2019",
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "motrixi.com": {
