@@ -1460,9 +1460,9 @@
         "state": "future"
     },
     "appsnack.com": {
-        "epoch": "1566950400",
+        "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "apptera.com": {
         "epoch": "1581552000",
@@ -1560,9 +1560,9 @@
         "state": "future"
     },
     "aylarl.com": {
-        "epoch": 1566777600,
-        "expiration_date": "26-aug-2019",
-        "state": "past"
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
     },
     "azfront.com": {
         "epoch": "1575763200",
