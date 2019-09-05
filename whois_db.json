@@ -5680,8 +5680,8 @@
         "state": "future"
     },
     "rtbpopd.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "ru-traffic.com": {
@@ -6635,9 +6635,9 @@
         "state": "future"
     },
     "tubedspots.com": {
-        "epoch": 1567468800,
-        "expiration_date": "03-sep-2019",
-        "state": "past"
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
     },
     "tubemogul.com": {
         "epoch": "1632787200",
@@ -7160,13 +7160,13 @@
         "state": "future"
     },
     "yesads.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "yesadvertising.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "yieldads.com": {
@@ -7210,9 +7210,9 @@
         "state": "future"
     },
     "yuilop.com": {
-        "epoch": 1561680000,
-        "expiration_date": "28-jun-2019",
-        "state": "past"
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
     },
     "yume.com": {
         "epoch": "1620604800",
