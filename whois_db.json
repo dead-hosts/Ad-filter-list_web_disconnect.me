@@ -3675,9 +3675,9 @@
         "state": "future"
     },
     "infinityads.com": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
-        "state": "past"
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "infolinks.com": {
         "epoch": "1602979200",
@@ -4355,9 +4355,9 @@
         "state": "future"
     },
     "mintrace.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "misstrends.com": {
         "epoch": "1569369600",
