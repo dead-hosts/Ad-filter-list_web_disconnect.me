@@ -2620,9 +2620,9 @@
         "state": "future"
     },
     "discountclick.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "displayadsmedia.com": {
         "epoch": "1584230400",
@@ -2860,9 +2860,9 @@
         "state": "future"
     },
     "ethicalads.net": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "eu-adcenter.net": {
         "epoch": 1594512000,
