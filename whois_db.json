@@ -2370,8 +2370,8 @@
         "state": "future"
     },
     "conversionruler.com": {
-        "epoch": "1568332800",
-        "expiration_date": "13-sep-2019",
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "coremetrics.com": {
@@ -4615,9 +4615,9 @@
         "state": "future"
     },
     "mypagerank.net": {
-        "epoch": "1568332800",
+        "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mypagerank.ru": {
         "epoch": 1595462400,
