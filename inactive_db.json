@@ -294,9 +294,7 @@
         "1567996194": {},
         "1568114612": {},
         "1568256467": {},
-        "1568373568": {
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
+        "1568373568": {},
         "1568512139": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -524,7 +522,8 @@
             "tsms-ad.tsms.com": "INACTIVE",
             "tvas-c.pw": "INACTIVE",
             "usmsad.tom.com": "INACTIVE",
-            "wads.webteh.com": "INACTIVE"
+            "wads.webteh.com": "INACTIVE",
+            "zde-affinity.edgecaching.net": "INACTIVE"
         }
     }
 }
