@@ -175,9 +175,9 @@
         "state": "future"
     },
     "abacho.net": {
-        "epoch": "1568592000",
+        "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "abc-ads.com": {
         "epoch": "1607990400",
@@ -685,8 +685,8 @@
         "state": "future"
     },
     "adnet-media.net": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "adnet.biz": {
