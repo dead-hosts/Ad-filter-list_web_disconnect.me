@@ -5275,9 +5275,9 @@
         "state": "future"
     },
     "primaryads.com": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "primetime.net": {
         "epoch": "1578873600",
@@ -5315,9 +5315,9 @@
         "state": "future"
     },
     "promotion-campaigns.com": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "pronetadvertising.com": {
         "epoch": "1611964800",
@@ -5750,9 +5750,9 @@
         "state": "future"
     },
     "sedoparking.com": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "sedotracker.com": {
         "epoch": 1597881600,
