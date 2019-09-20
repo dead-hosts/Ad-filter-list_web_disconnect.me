@@ -4965,8 +4965,8 @@
         "state": "future"
     },
     "owebmoney.ru": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "oxado.com": {
@@ -5275,9 +5275,9 @@
         "state": "future"
     },
     "primaryads.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "primetime.net": {
         "epoch": "1578873600",
@@ -5315,9 +5315,9 @@
         "state": "future"
     },
     "promotion-campaigns.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "pronetadvertising.com": {
         "epoch": "1611964800",
@@ -5530,8 +5530,8 @@
         "state": "future"
     },
     "reedbusiness.com": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "reefaquarium.biz": {
@@ -5750,9 +5750,9 @@
         "state": "future"
     },
     "sedoparking.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "sedotracker.com": {
         "epoch": 1597881600,
@@ -6080,8 +6080,8 @@
         "state": "future"
     },
     "statsie.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "statxpress.com": {
@@ -6410,8 +6410,8 @@
         "state": "future"
     },
     "toplistcity.com": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "topmmorpgsites.com": {
