@@ -297,9 +297,7 @@
         "1568373568": {},
         "1568512139": {},
         "1568685010": {},
-        "1568844170": {
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
+        "1568844170": {},
         "1568944306": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -531,7 +529,8 @@
             "usmsad.tom.com": "INACTIVE",
             "wads.webteh.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE",
-            "www.money4exit.de": "INACTIVE"
+            "www.money4exit.de": "INACTIVE",
+            "zde-affinity.edgecaching.net": "INACTIVE"
         }
     }
 }
