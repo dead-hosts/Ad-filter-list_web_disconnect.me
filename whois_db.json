@@ -5885,9 +5885,9 @@
         "state": "future"
     },
     "simplycast.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "sinoa.com": {
         "epoch": "1576627200",
