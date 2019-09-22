@@ -2110,8 +2110,8 @@
         "state": "future"
     },
     "citygrid.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1632268800,
+        "expiration_date": "22-sep-2021",
         "state": "future"
     },
     "cj.com": {
@@ -2160,9 +2160,9 @@
         "state": "future"
     },
     "clickadz.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickagents.com": {
         "epoch": "1579564800",
