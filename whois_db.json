@@ -5885,9 +5885,9 @@
         "state": "future"
     },
     "simplycast.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "sinoa.com": {
         "epoch": "1576627200",
@@ -5995,9 +5995,9 @@
         "state": "future"
     },
     "sponsorpay.com": {
-        "epoch": "1569196800",
+        "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "spotxchange.com": {
         "epoch": 1717804800,
