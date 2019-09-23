@@ -4370,9 +4370,9 @@
         "state": "future"
     },
     "mixtraffic.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "mmaglobal.com": {
         "epoch": "1578355200",
@@ -4430,9 +4430,9 @@
         "state": "future"
     },
     "mobhero.com": {
-        "epoch": "1569196800",
+        "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mobilda.com": {
         "epoch": "1579910400",
