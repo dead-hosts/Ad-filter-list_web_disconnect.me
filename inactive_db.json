@@ -304,20 +304,7 @@
         "1569362702": {},
         "1569549371": {},
         "1569665837": {},
-        "1569752760": {
-            "t.pusk.ru": "INACTIVE",
-            "touchclarity.natwest.com": "INACTIVE",
-            "tracking.yourfilehost.com": "INACTIVE",
-            "traffic.liveuniversenetwork.com": "INACTIVE",
-            "trafficcdn.liveuniversenetwork.com": "INACTIVE",
-            "tsms-ad.tsms.com": "INACTIVE",
-            "tvas-c.pw": "INACTIVE",
-            "usmsad.tom.com": "INACTIVE",
-            "wads.webteh.com": "INACTIVE",
-            "www.banner-link.com.br": "INACTIVE",
-            "www.money4exit.de": "INACTIVE",
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
+        "1569752760": {},
         "1569895493": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -539,9 +526,21 @@
             "suavalds.com": "INACTIVE",
             "suptullog.com": "INACTIVE",
             "sx.trhnt.com": "INACTIVE",
+            "t.pusk.ru": "INACTIVE",
             "tailsweep.co.uk": "INACTIVE",
             "teliad.de": "INACTIVE",
-            "textads.opera.com": "INACTIVE"
+            "textads.opera.com": "INACTIVE",
+            "touchclarity.natwest.com": "INACTIVE",
+            "tracking.yourfilehost.com": "INACTIVE",
+            "traffic.liveuniversenetwork.com": "INACTIVE",
+            "trafficcdn.liveuniversenetwork.com": "INACTIVE",
+            "tsms-ad.tsms.com": "INACTIVE",
+            "tvas-c.pw": "INACTIVE",
+            "usmsad.tom.com": "INACTIVE",
+            "wads.webteh.com": "INACTIVE",
+            "www.banner-link.com.br": "INACTIVE",
+            "www.money4exit.de": "INACTIVE",
+            "zde-affinity.edgecaching.net": "INACTIVE"
         }
     }
 }
