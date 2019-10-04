@@ -310,8 +310,6 @@
             "b.aol.com": "INACTIVE",
             "b.engadget.com": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
-            "banners.apnuk.com": "INACTIVE",
-            "banners.audioholics.com": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.ebay.com": "INACTIVE",
             "banners.lifeserv.com": "INACTIVE",
@@ -545,7 +543,9 @@
             "banner.jobsahead.com": "INACTIVE",
             "banner.joylandcasino.com": "INACTIVE",
             "banner.prestigecasino.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE"
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.apnuk.com": "INACTIVE",
+            "banners.audioholics.com": "INACTIVE"
         }
     }
 }
