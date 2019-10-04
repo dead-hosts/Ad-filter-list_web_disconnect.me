@@ -309,8 +309,6 @@
         "1570068036": {
             "b.aol.com": "INACTIVE",
             "b.engadget.com": "INACTIVE",
-            "banner.alphacool.de": "INACTIVE",
-            "banner.blogranking.net": "INACTIVE",
             "banner.featuredusers.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.jobsahead.com": "INACTIVE",
@@ -545,7 +543,9 @@
             "an.tacoda.net": "INACTIVE",
             "arc1.msn.com": "INACTIVE",
             "as2.advfn.com": "INACTIVE",
-            "assets.loomia.com": "INACTIVE"
+            "assets.loomia.com": "INACTIVE",
+            "banner.alphacool.de": "INACTIVE",
+            "banner.blogranking.net": "INACTIVE"
         }
     }
 }
