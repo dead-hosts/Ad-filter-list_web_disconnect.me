@@ -277,35 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1565642979": {},
-        "1565748142": {},
-        "1565921912": {},
-        "1566092868": {},
-        "1566266923": {},
-        "1566440414": {},
-        "1566611487": {},
-        "1566785231": {},
-        "1566957315": {},
-        "1567130448": {},
-        "1567302419": {},
-        "1567475296": {},
-        "1567650349": {},
-        "1567822420": {},
-        "1567996194": {},
-        "1568114612": {},
-        "1568256467": {},
-        "1568373568": {},
-        "1568512139": {},
-        "1568685010": {},
-        "1568844170": {},
-        "1568944306": {},
-        "1569063051": {},
-        "1569233835": {},
-        "1569362702": {},
-        "1569549371": {},
-        "1569665837": {},
-        "1569752760": {},
-        "1569895493": {},
         "1570068036": {
             "b.aol.com": "INACTIVE",
             "b.engadget.com": "INACTIVE",
@@ -546,6 +517,27 @@
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.apnuk.com": "INACTIVE",
             "banners.audioholics.com": "INACTIVE"
+        },
+        "1570660235": {
+            "banners.czi.cz": "INACTIVE"
+        },
+        "1570660379": {
+            "banners.freett.com": "INACTIVE"
+        },
+        "1570660381": {
+            "banners.linkbuddies.com": "INACTIVE"
+        },
+        "1570660512": {
+            "bannersng.yell.com": "INACTIVE"
+        },
+        "1570660643": {
+            "banners.resultonline.com": "INACTIVE"
+        },
+        "1570660725": {
+            "banners.thomsonlocal.com": "INACTIVE"
+        },
+        "1570660856": {
+            "banner.titan-dsl.de": "INACTIVE"
         }
     }
 }
