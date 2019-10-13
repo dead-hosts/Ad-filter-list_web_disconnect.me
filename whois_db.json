@@ -285,9 +285,9 @@
         "state": "future"
     },
     "adbanner.ro": {
-        "epoch": "1570924800",
+        "epoch": 1570924800,
         "expiration_date": "13-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adbard.net": {
         "epoch": "1578873600",
