@@ -277,9 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1571301145": {
-            "ad.cooks.com": "INACTIVE"
-        },
         "1571352319": {
             "Adsatt.ABCNews.starwave.com": "INVALID",
             "Adsatt.go.starwave.com": "INVALID",
@@ -1735,6 +1732,21 @@
         },
         "1571362618": {
             "zeus.developershed.com": "INACTIVE"
+        },
+        "1571430450": {
+            "ad.scanmedios.com": "INACTIVE"
+        },
+        "1571430467": {
+            "adserver.kyoceramita-europe.com": "INACTIVE"
+        },
+        "1571430506": {
+            "ads.mcafee.com": "INACTIVE"
+        },
+        "1571430514": {
+            "ads.networksolutions.com": "INACTIVE"
+        },
+        "1571430727": {
+            "banners.sys-con.com": "INACTIVE"
         }
     }
 }
