@@ -6275,9 +6275,9 @@
         "state": "future"
     },
     "textlinks.com": {
-        "epoch": "1571443200",
+        "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "theadhost.com": {
         "epoch": "1625961600",
