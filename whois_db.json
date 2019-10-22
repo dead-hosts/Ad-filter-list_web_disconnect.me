@@ -4285,8 +4285,8 @@
         "state": "future"
     },
     "meltdsp.com": {
-        "epoch": "1571702400",
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "memeglobal.com": {
@@ -4680,8 +4680,8 @@
         "state": "future"
     },
     "navrcholu.cz": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "nbjmp.com": {
@@ -4775,9 +4775,9 @@
         "state": "future"
     },
     "newbie.com": {
-        "epoch": "1571702400",
+        "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "newnudecash.com": {
         "epoch": "1587513600",
