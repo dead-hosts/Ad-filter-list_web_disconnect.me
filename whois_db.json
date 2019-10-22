@@ -1110,8 +1110,8 @@
         "state": "future"
     },
     "adventory.com": {
-        "epoch": "1571702400",
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "adverticum.com": {
@@ -1170,9 +1170,9 @@
         "state": "future"
     },
     "advertwizard.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "advisormedia.cz": {
         "epoch": "1586044800",
@@ -1760,8 +1760,8 @@
         "state": "future"
     },
     "billboard.cz": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "bimlocal.com": {
