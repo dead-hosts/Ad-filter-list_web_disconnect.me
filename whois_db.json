@@ -7200,9 +7200,9 @@
         "state": "future"
     },
     "yoc.mobi": {
-        "epoch": "1571788800",
+        "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "yoggrt.com": {
         "epoch": "1579132800",
