@@ -277,123 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1571829437": {
-            "staticads.btopenworld.com": "INACTIVE"
-        },
-        "1571829450": {
-            "stats.blogger.com": "INACTIVE"
-        },
-        "1571829451": {
-            "stats.cts-bv.nl": "INACTIVE"
-        },
-        "1571829457": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1571829463": {
-            "stats.mirrorfootball.co.uk": "INACTIVE",
-            "stats.olark.com": "INACTIVE"
-        },
-        "1571829464": {
-            "stats.suite101.com": "INACTIVE"
-        },
-        "1571829466": {
-            "stats.surfaid.ihost.com": "INACTIVE"
-        },
-        "1571829470": {
-            "stat.tudou.com": "INACTIVE"
-        },
-        "1571829480": {
-            "suavalds.com": "INACTIVE"
-        },
-        "1571829482": {
-            "suptullog.com": "INACTIVE"
-        },
-        "1571829490": {
-            "sx.trhnt.com": "INACTIVE"
-        },
-        "1571829491": {
-            "tailsweep.co.uk": "INACTIVE"
-        },
-        "1571829521": {
-            "teliad.de": "INACTIVE"
-        },
-        "1571829524": {
-            "textads.opera.com": "INACTIVE"
-        },
-        "1571829542": {
-            "t.insigit.com": "INACTIVE"
-        },
-        "1571829588": {
-            "touchclarity.natwest.com": "INACTIVE"
-        },
-        "1571829590": {
-            "t.pusk.ru": "INACTIVE"
-        },
-        "1571829603": {
-            "tracking.gajmp.com": "INACTIVE"
-        },
-        "1571829609": {
-            "tracking.internetstores.de": "INACTIVE",
-            "tracking.yourfilehost.com": "INACTIVE"
-        },
-        "1571829616": {
-            "trafficcdn.liveuniversenetwork.com": "INACTIVE"
-        },
-        "1571829617": {
-            "traffic.liveuniversenetwork.com": "INACTIVE"
-        },
-        "1571829646": {
-            "truehits1.gits.net.th": "INACTIVE"
-        },
-        "1571829653": {
-            "truehits2.gits.net.th": "INACTIVE"
-        },
-        "1571829655": {
-            "tsms-ad.tsms.com": "INACTIVE"
-        },
-        "1571829662": {
-            "tvas-c.pw": "INACTIVE"
-        },
-        "1571829680": {
-            "us.a1.yimg.com": "INACTIVE"
-        },
-        "1571829682": {
-            "usmsad.tom.com": "INACTIVE"
-        },
-        "1571829689": {
-            "utils.mediageneral.net": "INACTIVE"
-        },
-        "1571829732": {
-            "video-stats.video.google.com": "INACTIVE"
-        },
-        "1571829748": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1571829749": {
-            "wads.webteh.com": "INACTIVE"
-        },
-        "1571829762": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1571829808": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1571829810": {
-            "www.banner-link.com.br": "INACTIVE"
-        },
-        "1571829816": {
-            "www.dnps.com": "INACTIVE"
-        },
-        "1571829823": {
-            "www.money4exit.de": "INACTIVE"
-        },
-        "1571829843": {
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
-        "1571829863": {
-            "zeus.developershed.com": "INACTIVE"
-        },
         "1572035235": {
             "Adsatt.ABCNews.starwave.com": "INVALID",
             "Adsatt.go.starwave.com": "INVALID",
@@ -1730,6 +1613,118 @@
         },
         "1572072799": {
             "sprinks-clicks.about.com": "INACTIVE"
+        },
+        "1572074129": {
+            "staticads.btopenworld.com": "INACTIVE"
+        },
+        "1572074143": {
+            "stats.blogger.com": "INACTIVE",
+            "stats.cts-bv.nl": "INACTIVE"
+        },
+        "1572074149": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1572074156": {
+            "stats.mirrorfootball.co.uk": "INACTIVE",
+            "stats.olark.com": "INACTIVE",
+            "stats.suite101.com": "INACTIVE"
+        },
+        "1572074158": {
+            "stats.surfaid.ihost.com": "INACTIVE"
+        },
+        "1572074167": {
+            "stats.unwired-i.net": "INACTIVE"
+        },
+        "1572074170": {
+            "stat.tudou.com": "INACTIVE"
+        },
+        "1572074178": {
+            "suavalds.com": "INACTIVE"
+        },
+        "1572074181": {
+            "suptullog.com": "INACTIVE"
+        },
+        "1572074190": {
+            "sx.trhnt.com": "INACTIVE"
+        },
+        "1572074197": {
+            "tailsweep.co.uk": "INACTIVE"
+        },
+        "1572074233": {
+            "teliad.de": "INACTIVE"
+        },
+        "1572074235": {
+            "textads.opera.com": "INACTIVE"
+        },
+        "1572074258": {
+            "t.insigit.com": "INACTIVE"
+        },
+        "1572074312": {
+            "touchclarity.natwest.com": "INACTIVE"
+        },
+        "1572074314": {
+            "t.pusk.ru": "INACTIVE"
+        },
+        "1572074327": {
+            "tracking.gajmp.com": "INACTIVE"
+        },
+        "1572074333": {
+            "tracking.internetstores.de": "INACTIVE",
+            "tracking.yourfilehost.com": "INACTIVE"
+        },
+        "1572074340": {
+            "trafficcdn.liveuniversenetwork.com": "INACTIVE"
+        },
+        "1572074341": {
+            "traffic.liveuniversenetwork.com": "INACTIVE"
+        },
+        "1572074371": {
+            "truehits1.gits.net.th": "INACTIVE",
+            "truehits2.gits.net.th": "INACTIVE"
+        },
+        "1572074373": {
+            "tsms-ad.tsms.com": "INACTIVE"
+        },
+        "1572074380": {
+            "tvas-c.pw": "INACTIVE"
+        },
+        "1572074398": {
+            "us.a1.yimg.com": "INACTIVE",
+            "usmsad.tom.com": "INACTIVE"
+        },
+        "1572074405": {
+            "utils.mediageneral.net": "INACTIVE"
+        },
+        "1572074448": {
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1572074472": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1572074473": {
+            "wads.webteh.com": "INACTIVE"
+        },
+        "1572074486": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1572074544": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1572074545": {
+            "www.banner-link.com.br": "INACTIVE"
+        },
+        "1572074551": {
+            "www.dnps.com": "INACTIVE"
+        },
+        "1572074558": {
+            "www.money4exit.de": "INACTIVE"
+        },
+        "1572074584": {
+            "zde-affinity.edgecaching.net": "INACTIVE"
+        },
+        "1572074604": {
+            "zeus.developershed.com": "INACTIVE"
         }
     }
 }
