@@ -2440,8 +2440,8 @@
         "state": "future"
     },
     "craveandlamb.com": {
-        "epoch": "1571875200",
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "crawlability.com": {
@@ -3800,9 +3800,9 @@
         "state": "future"
     },
     "jatxt.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "jcount.com": {
         "epoch": "1611273600",
