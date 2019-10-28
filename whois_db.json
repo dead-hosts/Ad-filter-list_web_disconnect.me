@@ -3300,9 +3300,9 @@
         "state": "future"
     },
     "gtop.ro": {
-        "epoch": "1572220800",
+        "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gtop100.com": {
         "epoch": "1650672000",
@@ -3425,9 +3425,9 @@
         "state": "future"
     },
     "hitlounge.com": {
-        "epoch": "1572134400",
+        "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "hitometer.com": {
         "epoch": "1612224000",
@@ -3800,9 +3800,9 @@
         "state": "future"
     },
     "jatxt.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
     },
     "jcount.com": {
         "epoch": "1611273600",
