@@ -277,163 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1572403587": {
-            "box.anchorfree.net": "INACTIVE",
-            "bravenet.com.invalid": "INVALID"
-        },
-        "1572403588": {
-            "bs.yandex.ru": "INACTIVE"
-        },
-        "1572403595": {
-            "bullseye.backbeatmedia.com": "INACTIVE"
-        },
-        "1572403596": {
-            "cache.addthiscdn.com": "INACTIVE"
-        },
-        "1572403609": {
-            "c.compete.com": "INACTIVE"
-        },
-        "1572403618": {
-            "cgicounter.puretec.de": "INACTIVE"
-        },
-        "1572403635": {
-            "cityads.telus.net": "INACTIVE"
-        },
-        "1572403665": {
-            "clicks.equantum.com": "INACTIVE",
-            "clickserve.cc-dt.com": "INACTIVE"
-        },
-        "1572403666": {
-            "clicks.mods.de": "INACTIVE"
-        },
-        "1572403675": {
-            "clickthrucash.com": "INACTIVE"
-        },
-        "1572403683": {
-            "clients.tbo.com": "INACTIVE"
-        },
-        "1572403684": {
-            "cls.vrvm.com": "INACTIVE"
-        },
-        "1572403685": {
-            "cmpstar.com": "INACTIVE"
-        },
-        "1572403819": {
-            "content.acc-hd.de": "INACTIVE"
-        },
-        "1572403826": {
-            "count6.rbc.ru": "INACTIVE"
-        },
-        "1572403827": {
-            "counter.avtoindex.com": "INACTIVE"
-        },
-        "1572403834": {
-            "counter.bloke.com": "INACTIVE"
-        },
-        "1572403840": {
-            "counter.cnw.cz": "INACTIVE"
-        },
-        "1572403847": {
-            "counter.dreamhost.com": "INACTIVE"
-        },
-        "1572403853": {
-            "counter.fateback.com": "INACTIVE"
-        },
-        "1572403856": {
-            "count.rbc.ru": "INACTIVE"
-        },
-        "1572403876": {
-            "creative.ak.facebook.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1572403903": {
-            "customad.cnn.com": "INACTIVE"
-        },
-        "1572403911": {
-            "d.adroll.com": "INACTIVE"
-        },
-        "1572403935": {
-            "depilflash.tv": "INACTIVE",
-            "di1.shopping.com": "INACTIVE"
-        },
-        "1572403964": {
-            "dmtracking2.alibaba.com": "INACTIVE"
-        },
-        "1572403967": {
-            "dmtracking.alibaba.com": "INACTIVE"
-        },
-        "1572403973": {
-            "dnads.directnic.com": "INACTIVE"
-        },
-        "1572403981": {
-            "dynamic.fmpub.net": "INACTIVE"
-        },
-        "1572403985": {
-            "e-adimages.scrippsnetworks.com": "INACTIVE"
-        },
-        "1572403991": {
-            "eas.almamedia.fi": "INACTIVE"
-        },
-        "1572404020": {
-            "emonitor.takeit.cz": "INACTIVE"
-        },
-        "1572404023": {
-            "engine.awaps.net": "INACTIVE"
-        },
-        "1572404053": {
-            "eur.a1.yimg.com": "INACTIVE"
-        },
-        "1572404056": {
-            "euro-linkindex.de": "INACTIVE"
-        },
-        "1572404057": {
-            "euroranking.de": "INACTIVE"
-        },
-        "1572404075": {
-            "fastclick.com.edgesuite.net": "INACTIVE"
-        },
-        "1572404076": {
-            "fb-promotions.com": "INACTIVE"
-        },
-        "1572404094": {
-            "first.nova.cz": "INACTIVE"
-        },
-        "1572404096": {
-            "fonecta.leiki.com": "INACTIVE"
-        },
-        "1572404098": {
-            "fragmentserv.iac-online.de": "INACTIVE"
-        },
-        "1572404113": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1572404124": {
-            "gold.weborama.fr": "INACTIVE"
-        },
-        "1572404125": {
-            "gp.dejanews.com": "INACTIVE"
-        },
-        "1572404149": {
-            "hexusads.fluent.ltd.uk": "INACTIVE"
-        },
-        "1572404179": {
-            "hit-ranking.de": "INACTIVE"
-        },
-        "1572404197": {
-            "iad.anm.co.uk": "INACTIVE"
-        },
-        "1572404218": {
-            "iliillliO00OO0.321.cn": "INVALID"
-        },
-        "1572404220": {
-            "images-pw.secureserver.net": "INACTIVE"
-        },
-        "1572404221": {
-            "images.v3.com": "INACTIVE"
-        },
-        "1572404257": {
-            "interactive.forthnet.gr": "INACTIVE"
-        },
         "1572404285": {
             "jbeet.cjt1.net": "INACTIVE"
         },
@@ -1740,6 +1583,165 @@
         },
         "1572525218": {
             "bn.bfast.com": "INACTIVE"
+        },
+        "1572527779": {
+            "box.anchorfree.net": "INACTIVE"
+        },
+        "1572527785": {
+            "bravenet.com.invalid": "INVALID"
+        },
+        "1572527786": {
+            "bs.yandex.ru": "INACTIVE"
+        },
+        "1572527792": {
+            "bullseye.backbeatmedia.com": "INACTIVE"
+        },
+        "1572527795": {
+            "cache.addthiscdn.com": "INACTIVE"
+        },
+        "1572527808": {
+            "c.compete.com": "INACTIVE"
+        },
+        "1572527816": {
+            "cgicounter.puretec.de": "INACTIVE"
+        },
+        "1572527833": {
+            "cityads.telus.net": "INACTIVE"
+        },
+        "1572527863": {
+            "clicks.equantum.com": "INACTIVE",
+            "clicks.mods.de": "INACTIVE",
+            "clickserve.cc-dt.com": "INACTIVE"
+        },
+        "1572527872": {
+            "clickthrucash.com": "INACTIVE"
+        },
+        "1572527880": {
+            "clients.tbo.com": "INACTIVE"
+        },
+        "1572527882": {
+            "cls.vrvm.com": "INACTIVE"
+        },
+        "1572527883": {
+            "cmpstar.com": "INACTIVE"
+        },
+        "1572527917": {
+            "content.acc-hd.de": "INACTIVE"
+        },
+        "1572527924": {
+            "count6.rbc.ru": "INACTIVE"
+        },
+        "1572527926": {
+            "counter.avtoindex.com": "INACTIVE"
+        },
+        "1572527932": {
+            "counter.bloke.com": "INACTIVE"
+        },
+        "1572527938": {
+            "counter.cnw.cz": "INACTIVE"
+        },
+        "1572527945": {
+            "counter.dreamhost.com": "INACTIVE"
+        },
+        "1572527951": {
+            "counter.fateback.com": "INACTIVE"
+        },
+        "1572527958": {
+            "counter.mojgorod.ru": "INACTIVE"
+        },
+        "1572527961": {
+            "count.rbc.ru": "INACTIVE"
+        },
+        "1572527984": {
+            "creative.ak.facebook.com": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE"
+        },
+        "1572528008": {
+            "customad.cnn.com": "INACTIVE"
+        },
+        "1572528017": {
+            "d.adroll.com": "INACTIVE"
+        },
+        "1572528040": {
+            "depilflash.tv": "INACTIVE",
+            "di1.shopping.com": "INACTIVE"
+        },
+        "1572528063": {
+            "dmtracking2.alibaba.com": "INACTIVE"
+        },
+        "1572528065": {
+            "dmtracking.alibaba.com": "INACTIVE"
+        },
+        "1572528071": {
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1572528080": {
+            "dynamic.fmpub.net": "INACTIVE",
+            "e-adimages.scrippsnetworks.com": "INACTIVE"
+        },
+        "1572528087": {
+            "eas.almamedia.fi": "INACTIVE"
+        },
+        "1572528119": {
+            "emonitor.takeit.cz": "INACTIVE"
+        },
+        "1572528122": {
+            "engine.awaps.net": "INACTIVE"
+        },
+        "1572528147": {
+            "eur.a1.yimg.com": "INACTIVE"
+        },
+        "1572528149": {
+            "euro-linkindex.de": "INACTIVE"
+        },
+        "1572528151": {
+            "euroranking.de": "INACTIVE"
+        },
+        "1572528174": {
+            "fastclick.com.edgesuite.net": "INACTIVE"
+        },
+        "1572528175": {
+            "fb-promotions.com": "INACTIVE"
+        },
+        "1572528190": {
+            "first.nova.cz": "INACTIVE"
+        },
+        "1572528198": {
+            "fonecta.leiki.com": "INACTIVE"
+        },
+        "1572528200": {
+            "fragmentserv.iac-online.de": "INACTIVE"
+        },
+        "1572528218": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1572528230": {
+            "gold.weborama.fr": "INACTIVE"
+        },
+        "1572528231": {
+            "gp.dejanews.com": "INACTIVE"
+        },
+        "1572528257": {
+            "hexusads.fluent.ltd.uk": "INACTIVE"
+        },
+        "1572528280": {
+            "hit-ranking.de": "INACTIVE"
+        },
+        "1572528296": {
+            "iad.anm.co.uk": "INACTIVE"
+        },
+        "1572528317": {
+            "iliillliO00OO0.321.cn": "INVALID"
+        },
+        "1572528319": {
+            "images-pw.secureserver.net": "INACTIVE",
+            "images.v3.com": "INACTIVE"
+        },
+        "1572528345": {
+            "interactive.forthnet.gr": "INACTIVE"
+        },
+        "1572528374": {
+            "jaminfinity.tk": "INACTIVE"
         }
     }
 }
