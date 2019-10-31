@@ -277,152 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1572404974": {
-            "rythmxchange.com": "INACTIVE"
-        },
-        "1572404993": {
-            "secure.webconnect.net": "INACTIVE"
-        },
-        "1572405000": {
-            "seeq.com.invalid": "INVALID"
-        },
-        "1572405015": {
-            "service1.adten.de": "INACTIVE"
-        },
-        "1572405016": {
-            "sexaddpro.de": "INACTIVE"
-        },
-        "1572405024": {
-            "sitebrand.geeks.com": "INACTIVE",
-            "sitemerkezi.net": "INACTIVE"
-        },
-        "1572405029": {
-            "sma.punto.net": "INACTIVE",
-            "smartbase.cdnservices.com": "INACTIVE"
-        },
-        "1572405051": {
-            "spinbox.techtracker.com": "INACTIVE"
-        },
-        "1572405057": {
-            "spinbox.versiontracker.com": "INACTIVE"
-        },
-        "1572405059": {
-            "sprinks-clicks.about.com": "INACTIVE"
-        },
-        "1572405084": {
-            "staticads.btopenworld.com": "INACTIVE"
-        },
-        "1572405098": {
-            "stats.blogger.com": "INACTIVE"
-        },
-        "1572405099": {
-            "stats.cts-bv.nl": "INACTIVE"
-        },
-        "1572405105": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1572405220": {
-            "stats.mirrorfootball.co.uk": "INACTIVE"
-        },
-        "1572405221": {
-            "stats.olark.com": "INACTIVE",
-            "stats.suite101.com": "INACTIVE"
-        },
-        "1572405222": {
-            "stats.surfaid.ihost.com": "INACTIVE"
-        },
-        "1572405228": {
-            "stat.tudou.com": "INACTIVE"
-        },
-        "1572405236": {
-            "suavalds.com": "INACTIVE"
-        },
-        "1572405240": {
-            "suptullog.com": "INACTIVE"
-        },
-        "1572405248": {
-            "sx.trhnt.com": "INACTIVE"
-        },
-        "1572405255": {
-            "tailsweep.co.uk": "INACTIVE"
-        },
-        "1572405288": {
-            "textads.opera.com": "INACTIVE"
-        },
-        "1572405307": {
-            "t.insigit.com": "INACTIVE"
-        },
-        "1572405355": {
-            "touchclarity.natwest.com": "INACTIVE"
-        },
-        "1572405356": {
-            "t.pusk.ru": "INACTIVE"
-        },
-        "1572405370": {
-            "tracking.gajmp.com": "INACTIVE"
-        },
-        "1572405376": {
-            "tracking.internetstores.de": "INACTIVE",
-            "tracking.yourfilehost.com": "INACTIVE"
-        },
-        "1572405383": {
-            "trafficcdn.liveuniversenetwork.com": "INACTIVE"
-        },
-        "1572405384": {
-            "traffic.liveuniversenetwork.com": "INACTIVE"
-        },
-        "1572405413": {
-            "truehits1.gits.net.th": "INACTIVE"
-        },
-        "1572405420": {
-            "truehits2.gits.net.th": "INACTIVE"
-        },
-        "1572405421": {
-            "tsms-ad.tsms.com": "INACTIVE"
-        },
-        "1572405430": {
-            "tvas-c.pw": "INACTIVE"
-        },
-        "1572405447": {
-            "us.a1.yimg.com": "INACTIVE"
-        },
-        "1572405448": {
-            "usmsad.tom.com": "INACTIVE"
-        },
-        "1572405454": {
-            "utils.mediageneral.net": "INACTIVE"
-        },
-        "1572405498": {
-            "video-stats.video.google.com": "INACTIVE"
-        },
-        "1572405514": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1572405515": {
-            "wads.webteh.com": "INACTIVE"
-        },
-        "1572405528": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1572405571": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1572405572": {
-            "www.banner-link.com.br": "INACTIVE"
-        },
-        "1572405578": {
-            "www.dnps.com": "INACTIVE"
-        },
-        "1572405585": {
-            "www.money4exit.de": "INACTIVE"
-        },
-        "1572405621": {
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
-        "1572405647": {
-            "zeus.developershed.com": "INACTIVE"
-        },
         "1572517069": {
             "Adsatt.ABCNews.starwave.com": "INVALID",
             "Adsatt.go.starwave.com": "INVALID",
@@ -1743,6 +1597,152 @@
         },
         "1572531153": {
             "rmads.msn.com": "INACTIVE"
+        },
+        "1572533139": {
+            "rythmxchange.com": "INACTIVE"
+        },
+        "1572533157": {
+            "secure.webconnect.net": "INACTIVE"
+        },
+        "1572533163": {
+            "seeq.com.invalid": "INVALID"
+        },
+        "1572533178": {
+            "service1.adten.de": "INACTIVE"
+        },
+        "1572533179": {
+            "sexaddpro.de": "INACTIVE"
+        },
+        "1572533197": {
+            "sitebrand.geeks.com": "INACTIVE",
+            "sitemerkezi.net": "INACTIVE"
+        },
+        "1572533200": {
+            "sma.punto.net": "INACTIVE",
+            "smartbase.cdnservices.com": "INACTIVE"
+        },
+        "1572533222": {
+            "spinbox.techtracker.com": "INACTIVE"
+        },
+        "1572533228": {
+            "spinbox.versiontracker.com": "INACTIVE"
+        },
+        "1572533230": {
+            "sprinks-clicks.about.com": "INACTIVE"
+        },
+        "1572533254": {
+            "staticads.btopenworld.com": "INACTIVE"
+        },
+        "1572533268": {
+            "stats.blogger.com": "INACTIVE"
+        },
+        "1572533269": {
+            "stats.cts-bv.nl": "INACTIVE"
+        },
+        "1572533275": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1572533282": {
+            "stats.mirrorfootball.co.uk": "INACTIVE",
+            "stats.olark.com": "INACTIVE"
+        },
+        "1572533283": {
+            "stats.suite101.com": "INACTIVE"
+        },
+        "1572533289": {
+            "stats.surfaid.ihost.com": "INACTIVE"
+        },
+        "1572533294": {
+            "stat.tudou.com": "INACTIVE"
+        },
+        "1572533302": {
+            "suavalds.com": "INACTIVE"
+        },
+        "1572533305": {
+            "suptullog.com": "INACTIVE"
+        },
+        "1572533313": {
+            "sx.trhnt.com": "INACTIVE"
+        },
+        "1572533320": {
+            "tailsweep.co.uk": "INACTIVE"
+        },
+        "1572533353": {
+            "textads.opera.com": "INACTIVE"
+        },
+        "1572533371": {
+            "t.insigit.com": "INACTIVE"
+        },
+        "1572533418": {
+            "touchclarity.natwest.com": "INACTIVE"
+        },
+        "1572533419": {
+            "t.pusk.ru": "INACTIVE"
+        },
+        "1572533433": {
+            "tracking.gajmp.com": "INACTIVE"
+        },
+        "1572533439": {
+            "tracking.internetstores.de": "INACTIVE",
+            "tracking.yourfilehost.com": "INACTIVE"
+        },
+        "1572533446": {
+            "trafficcdn.liveuniversenetwork.com": "INACTIVE"
+        },
+        "1572533447": {
+            "traffic.liveuniversenetwork.com": "INACTIVE"
+        },
+        "1572533473": {
+            "truehits1.gits.net.th": "INACTIVE"
+        },
+        "1572533480": {
+            "truehits2.gits.net.th": "INACTIVE"
+        },
+        "1572533482": {
+            "tsms-ad.tsms.com": "INACTIVE"
+        },
+        "1572533488": {
+            "tvas-c.pw": "INACTIVE"
+        },
+        "1572533506": {
+            "us.a1.yimg.com": "INACTIVE"
+        },
+        "1572533507": {
+            "usmsad.tom.com": "INACTIVE"
+        },
+        "1572533513": {
+            "utils.mediageneral.net": "INACTIVE"
+        },
+        "1572533559": {
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1572533575": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1572533576": {
+            "wads.webteh.com": "INACTIVE"
+        },
+        "1572533589": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1572533637": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1572533638": {
+            "www.banner-link.com.br": "INACTIVE"
+        },
+        "1572533644": {
+            "www.dnps.com": "INACTIVE"
+        },
+        "1572533651": {
+            "www.money4exit.de": "INACTIVE"
+        },
+        "1572533689": {
+            "zde-affinity.edgecaching.net": "INACTIVE"
+        },
+        "1572533709": {
+            "zeus.developershed.com": "INACTIVE"
         }
     }
 }
