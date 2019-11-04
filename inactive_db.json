@@ -277,9 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1572692819": {
-            "stat.dealtime.com": "INACTIVE"
-        },
         "1572833799": {
             "Adsatt.ABCNews.starwave.com": "INVALID"
         },
@@ -1507,6 +1504,9 @@
         },
         "1572863316": {
             "banners.sys-con.com": "INACTIVE"
+        },
+        "1572870366": {
+            "reklame.unwired-i.net": "INACTIVE"
         }
     }
 }
