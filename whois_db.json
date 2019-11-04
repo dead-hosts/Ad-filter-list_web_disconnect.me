@@ -6685,9 +6685,9 @@
         "state": "future"
     },
     "ukbanners.com": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ultramercial.com": {
         "epoch": 1594166400,
