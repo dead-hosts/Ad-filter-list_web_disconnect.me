@@ -5365,9 +5365,9 @@
         "state": "future"
     },
     "pubdirecte.com": {
-        "epoch": "1572998400",
+        "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "pubmatic.com": {
         "epoch": "1599523200",
@@ -5640,8 +5640,8 @@
         "state": "future"
     },
     "roar.com": {
-        "epoch": "1572998400",
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "robotreplay.com": {
