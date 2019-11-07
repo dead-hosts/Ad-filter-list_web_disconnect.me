@@ -277,184 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1573009526": {
-            "memorix.sdv.fr": "INACTIVE"
-        },
-        "1573009569": {
-            "m.webtrends.com": "INACTIVE"
-        },
-        "1573009601": {
-            "nedstat.nl": "INACTIVE"
-        },
-        "1573009627": {
-            "network.business.com": "INACTIVE"
-        },
-        "1573009636": {
-            "ngs.impress.co.jp": "INACTIVE"
-        },
-        "1573009643": {
-            "numax.nu-1.com": "INACTIVE"
-        },
-        "1573009650": {
-            "oas.foxnews.com": "INACTIVE",
-            "oas.salon.com": "INACTIVE"
-        },
-        "1573009656": {
-            "oas.toronto.com": "INACTIVE"
-        },
-        "1573009662": {
-            "oas.uniontrib.com": "INACTIVE"
-        },
-        "1573009669": {
-            "oas.villagevoice.com": "INACTIVE"
-        },
-        "1573009688": {
-            "openad.tf1.fr": "INACTIVE"
-        },
-        "1573009694": {
-            "openad.travelnow.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE"
-        },
-        "1573009696": {
-            "ota.cartrawler.com": "INACTIVE",
-            "otto-images.developershed.com": "INACTIVE"
-        },
-        "1573009710": {
-            "pagead.l.google.com": "INACTIVE",
-            "pagerank4u.eu": "INACTIVE"
-        },
-        "1573009713": {
-            "pagerank-submitter.com": "INACTIVE"
-        },
-        "1573009729": {
-            "pagerank-submitter.de": "INACTIVE"
-        },
-        "1573009731": {
-            "pagerank-united.de": "INACTIVE",
-            "partnerad.l.google.com": "INACTIVE"
-        },
-        "1573009734": {
-            "partner.topcities.com": "INACTIVE"
-        },
-        "1573009744": {
-            "perf.weborama.fr": "INACTIVE"
-        },
-        "1573009752": {
-            "phpadsnew.new.natuurpark.nl": "INACTIVE"
-        },
-        "1573009754": {
-            "pixel.jumptap.com": "INACTIVE"
-        },
-        "1573009770": {
-            "popup.msn.com": "INACTIVE"
-        },
-        "1573009803": {
-            "pro.i-doctor.co.kr": "INACTIVE"
-        },
-        "1573009810": {
-            "promo1.webcams.nl": "INACTIVE"
-        },
-        "1573009821": {
-            "pub.club-internet.fr": "INACTIVE"
-        },
-        "1573009828": {
-            "pub.hardware.fr": "INACTIVE"
-        },
-        "1573009834": {
-            "pub.realmedia.fr": "INACTIVE"
-        },
-        "1573009841": {
-            "pubs.lemonde.fr": "INACTIVE"
-        },
-        "1573009844": {
-            "qwapi.apple.com": "INACTIVE"
-        },
-        "1573009851": {
-            "rad.msn.com": "INACTIVE"
-        },
-        "1573009876": {
-            "ranking-id.de": "INACTIVE"
-        },
-        "1573009879": {
-            "ranking-street.de": "INACTIVE"
-        },
-        "1573009880": {
-            "ratings.lycos.com": "INACTIVE"
-        },
-        "1573009886": {
-            "realmedia-a800.d4p.net": "INACTIVE"
-        },
-        "1573009888": {
-            "reefaquarium.biz": "INACTIVE"
-        },
-        "1573009898": {
-            "reklam.rfsl.se": "INACTIVE"
-        },
-        "1573009906": {
-            "rmads.msn.com": "INACTIVE"
-        },
-        "1573009922": {
-            "rythmxchange.com": "INACTIVE"
-        },
-        "1573009941": {
-            "secure.webconnect.net": "INACTIVE"
-        },
-        "1573009947": {
-            "seeq.com.invalid": "INVALID"
-        },
-        "1573009962": {
-            "service1.adten.de": "INACTIVE"
-        },
-        "1573009963": {
-            "sexaddpro.de": "INACTIVE"
-        },
-        "1573009970": {
-            "sitebrand.geeks.com": "INACTIVE"
-        },
-        "1573009971": {
-            "sitemerkezi.net": "INACTIVE"
-        },
-        "1573009981": {
-            "sma.punto.net": "INACTIVE",
-            "smartbase.cdnservices.com": "INACTIVE"
-        },
-        "1573010003": {
-            "spinbox.techtracker.com": "INACTIVE"
-        },
-        "1573010009": {
-            "spinbox.versiontracker.com": "INACTIVE"
-        },
-        "1573010011": {
-            "sprinks-clicks.about.com": "INACTIVE"
-        },
-        "1573010029": {
-            "stat.dealtime.com": "INACTIVE"
-        },
-        "1573010036": {
-            "staticads.btopenworld.com": "INACTIVE"
-        },
-        "1573010050": {
-            "stats.blogger.com": "INACTIVE"
-        },
-        "1573010051": {
-            "stats.cts-bv.nl": "INACTIVE"
-        },
-        "1573010057": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1573010224": {
-            "stats.mirrorfootball.co.uk": "INACTIVE",
-            "stats.olark.com": "INACTIVE"
-        },
-        "1573010225": {
-            "stats.suite101.com": "INACTIVE"
-        },
-        "1573010226": {
-            "stats.surfaid.ihost.com": "INACTIVE"
-        },
-        "1573010233": {
-            "stat.tudou.com": "INACTIVE"
-        },
         "1573010241": {
             "suavalds.com": "INACTIVE"
         },
@@ -1724,6 +1546,191 @@
         },
         "1573133193": {
             "media.ftv-publicite.fr": "INACTIVE"
+        },
+        "1573135484": {
+            "memorix.sdv.fr": "INACTIVE"
+        },
+        "1573135526": {
+            "m.webtrends.com": "INACTIVE"
+        },
+        "1573135563": {
+            "nedstat.nl": "INACTIVE"
+        },
+        "1573135594": {
+            "network.business.com": "INACTIVE"
+        },
+        "1573135611": {
+            "newnet.qsrch.com": "INACTIVE"
+        },
+        "1573135615": {
+            "ngs.impress.co.jp": "INACTIVE"
+        },
+        "1573135621": {
+            "numax.nu-1.com": "INACTIVE"
+        },
+        "1573135628": {
+            "oas.foxnews.com": "INACTIVE"
+        },
+        "1573135629": {
+            "oas.salon.com": "INACTIVE"
+        },
+        "1573135635": {
+            "oas.toronto.com": "INACTIVE"
+        },
+        "1573135641": {
+            "oas.uniontrib.com": "INACTIVE"
+        },
+        "1573135647": {
+            "oas.villagevoice.com": "INACTIVE"
+        },
+        "1573135667": {
+            "openad.tf1.fr": "INACTIVE"
+        },
+        "1573135673": {
+            "openad.travelnow.com": "INACTIVE"
+        },
+        "1573135674": {
+            "openx.blindferret.com": "INACTIVE"
+        },
+        "1573135675": {
+            "ota.cartrawler.com": "INACTIVE",
+            "otto-images.developershed.com": "INACTIVE"
+        },
+        "1573135689": {
+            "pagead.l.google.com": "INACTIVE"
+        },
+        "1573135690": {
+            "pagerank4u.eu": "INACTIVE"
+        },
+        "1573135692": {
+            "pagerank-submitter.com": "INACTIVE"
+        },
+        "1573135709": {
+            "pagerank-submitter.de": "INACTIVE"
+        },
+        "1573135710": {
+            "pagerank-united.de": "INACTIVE"
+        },
+        "1573135711": {
+            "partnerad.l.google.com": "INACTIVE"
+        },
+        "1573135713": {
+            "partner.topcities.com": "INACTIVE"
+        },
+        "1573135718": {
+            "perf.weborama.fr": "INACTIVE"
+        },
+        "1573135726": {
+            "phpadsnew.new.natuurpark.nl": "INACTIVE"
+        },
+        "1573135729": {
+            "pixel.jumptap.com": "INACTIVE"
+        },
+        "1573135745": {
+            "popup.msn.com": "INACTIVE"
+        },
+        "1573135786": {
+            "pro.i-doctor.co.kr": "INACTIVE"
+        },
+        "1573135793": {
+            "promo1.webcams.nl": "INACTIVE"
+        },
+        "1573135804": {
+            "pub.club-internet.fr": "INACTIVE"
+        },
+        "1573135810": {
+            "pub.hardware.fr": "INACTIVE"
+        },
+        "1573135817": {
+            "pub.realmedia.fr": "INACTIVE"
+        },
+        "1573135823": {
+            "pubs.lemonde.fr": "INACTIVE"
+        },
+        "1573135827": {
+            "qwapi.apple.com": "INACTIVE"
+        },
+        "1573135834": {
+            "rad.msn.com": "INACTIVE"
+        },
+        "1573135859": {
+            "ranking-id.de": "INACTIVE"
+        },
+        "1573135862": {
+            "ranking-street.de": "INACTIVE"
+        },
+        "1573135863": {
+            "ratings.lycos.com": "INACTIVE"
+        },
+        "1573135869": {
+            "realmedia-a800.d4p.net": "INACTIVE"
+        },
+        "1573135870": {
+            "reefaquarium.biz": "INACTIVE"
+        },
+        "1573135881": {
+            "reklam.rfsl.se": "INACTIVE"
+        },
+        "1573135892": {
+            "rmads.msn.com": "INACTIVE"
+        },
+        "1573135908": {
+            "rythmxchange.com": "INACTIVE"
+        },
+        "1573135928": {
+            "secure.webconnect.net": "INACTIVE"
+        },
+        "1573135934": {
+            "seeq.com.invalid": "INVALID"
+        },
+        "1573135949": {
+            "service1.adten.de": "INACTIVE",
+            "sexaddpro.de": "INACTIVE"
+        },
+        "1573135963": {
+            "sitebrand.geeks.com": "INACTIVE",
+            "sitemerkezi.net": "INACTIVE"
+        },
+        "1573135967": {
+            "sma.punto.net": "INACTIVE"
+        },
+        "1573135968": {
+            "smartbase.cdnservices.com": "INACTIVE"
+        },
+        "1573135990": {
+            "spinbox.techtracker.com": "INACTIVE"
+        },
+        "1573135996": {
+            "spinbox.versiontracker.com": "INACTIVE"
+        },
+        "1573135997": {
+            "sprinks-clicks.about.com": "INACTIVE"
+        },
+        "1573136015": {
+            "stat.dealtime.com": "INACTIVE"
+        },
+        "1573136022": {
+            "staticads.btopenworld.com": "INACTIVE"
+        },
+        "1573136036": {
+            "stats.blogger.com": "INACTIVE",
+            "stats.cts-bv.nl": "INACTIVE"
+        },
+        "1573136043": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1573136049": {
+            "stats.mirrorfootball.co.uk": "INACTIVE"
+        },
+        "1573136050": {
+            "stats.olark.com": "INACTIVE",
+            "stats.suite101.com": "INACTIVE"
+        },
+        "1573136053": {
+            "stats.surfaid.ihost.com": "INACTIVE"
+        },
+        "1573136059": {
+            "stat.tudou.com": "INACTIVE"
         }
     }
 }
