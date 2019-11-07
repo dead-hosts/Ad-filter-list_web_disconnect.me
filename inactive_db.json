@@ -277,158 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1573008818": {
-            "counter.cnw.cz": "INACTIVE"
-        },
-        "1573008825": {
-            "counter.dreamhost.com": "INACTIVE"
-        },
-        "1573008831": {
-            "counter.fateback.com": "INACTIVE"
-        },
-        "1573008835": {
-            "count.rbc.ru": "INACTIVE"
-        },
-        "1573008854": {
-            "creative.ak.facebook.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1573008885": {
-            "customad.cnn.com": "INACTIVE"
-        },
-        "1573008893": {
-            "d.adroll.com": "INACTIVE"
-        },
-        "1573008917": {
-            "depilflash.tv": "INACTIVE",
-            "di1.shopping.com": "INACTIVE"
-        },
-        "1573008940": {
-            "dmtracking2.alibaba.com": "INACTIVE"
-        },
-        "1573008943": {
-            "dmtracking.alibaba.com": "INACTIVE"
-        },
-        "1573008949": {
-            "dnads.directnic.com": "INACTIVE"
-        },
-        "1573008958": {
-            "dynamic.fmpub.net": "INACTIVE",
-            "e-adimages.scrippsnetworks.com": "INACTIVE"
-        },
-        "1573008965": {
-            "eas.almamedia.fi": "INACTIVE"
-        },
-        "1573008993": {
-            "emonitor.takeit.cz": "INACTIVE"
-        },
-        "1573008996": {
-            "engine.awaps.net": "INACTIVE"
-        },
-        "1573009021": {
-            "eur.a1.yimg.com": "INACTIVE"
-        },
-        "1573009024": {
-            "euro-linkindex.de": "INACTIVE"
-        },
-        "1573009025": {
-            "euroranking.de": "INACTIVE"
-        },
-        "1573009044": {
-            "fastclick.com.edgesuite.net": "INACTIVE",
-            "fb-promotions.com": "INACTIVE"
-        },
-        "1573009062": {
-            "first.nova.cz": "INACTIVE"
-        },
-        "1573009064": {
-            "fonecta.leiki.com": "INACTIVE"
-        },
-        "1573009065": {
-            "fragmentserv.iac-online.de": "INACTIVE"
-        },
-        "1573009078": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1573009083": {
-            "gold.weborama.fr": "INACTIVE"
-        },
-        "1573009084": {
-            "gp.dejanews.com": "INACTIVE"
-        },
-        "1573009108": {
-            "hexusads.fluent.ltd.uk": "INACTIVE"
-        },
-        "1573009131": {
-            "hit-ranking.de": "INACTIVE"
-        },
-        "1573009147": {
-            "iad.anm.co.uk": "INACTIVE"
-        },
-        "1573009167": {
-            "iliillliO00OO0.321.cn": "INVALID"
-        },
-        "1573009169": {
-            "images-pw.secureserver.net": "INACTIVE",
-            "images.v3.com": "INACTIVE"
-        },
-        "1573009195": {
-            "interactive.forthnet.gr": "INACTIVE"
-        },
-        "1573009229": {
-            "jbeet.cjt1.net": "INACTIVE"
-        },
-        "1573009230": {
-            "jedonkey.cjt1.net": "INACTIVE"
-        },
-        "1573009239": {
-            "jkazaa.cjt1.net": "INACTIVE"
-        },
-        "1573009240": {
-            "jnova.cjt1.net": "INACTIVE"
-        },
-        "1573009241": {
-            "js.users.51.la": "INACTIVE"
-        },
-        "1573009261": {
-            "k.iinfo.cz": "INACTIVE"
-        },
-        "1573009277": {
-            "lct.salesforce.com": "INACTIVE"
-        },
-        "1573009280": {
-            "leanoisgo.com": "INACTIVE"
-        },
-        "1573009329": {
-            "log.btopenworld.com": "INACTIVE"
-        },
-        "1573009347": {
-            "madclient.uimserv.net": "INACTIVE"
-        },
-        "1573009453": {
-            "mads.aol.com": "INACTIVE"
-        },
-        "1573009459": {
-            "mads.cnet.com": "INACTIVE"
-        },
-        "1573009467": {
-            "marketing.hearstmagazines.nl": "INACTIVE"
-        },
-        "1573009473": {
-            "marketing.nyi.net": "INACTIVE"
-        },
-        "1573009475": {
-            "mas.sector.sk": "INACTIVE"
-        },
-        "1573009476": {
-            "max.i12.de": "INACTIVE"
-        },
-        "1573009477": {
-            "mbs.megaroticlive.com": "INACTIVE"
-        },
-        "1573009486": {
-            "media.ftv-publicite.fr": "INACTIVE"
-        },
         "1573009526": {
             "memorix.sdv.fr": "INACTIVE"
         },
@@ -1729,6 +1577,153 @@
         },
         "1573130064": {
             "counter.bloke.com": "INACTIVE"
+        },
+        "1573132617": {
+            "counter.cnw.cz": "INACTIVE"
+        },
+        "1573132624": {
+            "counter.dreamhost.com": "INACTIVE"
+        },
+        "1573132630": {
+            "counter.fateback.com": "INACTIVE"
+        },
+        "1573132634": {
+            "count.rbc.ru": "INACTIVE"
+        },
+        "1573132650": {
+            "creative.ak.facebook.com": "INACTIVE"
+        },
+        "1573132651": {
+            "creatives.as4x.tmcs.net": "INACTIVE"
+        },
+        "1573132678": {
+            "customad.cnn.com": "INACTIVE"
+        },
+        "1573132686": {
+            "d.adroll.com": "INACTIVE"
+        },
+        "1573132710": {
+            "depilflash.tv": "INACTIVE",
+            "di1.shopping.com": "INACTIVE"
+        },
+        "1573132739": {
+            "dmtracking2.alibaba.com": "INACTIVE"
+        },
+        "1573132742": {
+            "dmtracking.alibaba.com": "INACTIVE"
+        },
+        "1573132748": {
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1573132756": {
+            "dynamic.fmpub.net": "INACTIVE",
+            "e-adimages.scrippsnetworks.com": "INACTIVE"
+        },
+        "1573132763": {
+            "eas.almamedia.fi": "INACTIVE"
+        },
+        "1573132793": {
+            "emonitor.takeit.cz": "INACTIVE"
+        },
+        "1573132795": {
+            "engine.awaps.net": "INACTIVE"
+        },
+        "1573132821": {
+            "eur.a1.yimg.com": "INACTIVE"
+        },
+        "1573132823": {
+            "euro-linkindex.de": "INACTIVE"
+        },
+        "1573132854": {
+            "fastclick.com.edgesuite.net": "INACTIVE",
+            "fb-promotions.com": "INACTIVE"
+        },
+        "1573132871": {
+            "first.nova.cz": "INACTIVE"
+        },
+        "1573132872": {
+            "fonecta.leiki.com": "INACTIVE"
+        },
+        "1573132873": {
+            "fragmentserv.iac-online.de": "INACTIVE"
+        },
+        "1573132885": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1573132897": {
+            "gold.weborama.fr": "INACTIVE",
+            "gp.dejanews.com": "INACTIVE"
+        },
+        "1573132919": {
+            "hexusads.fluent.ltd.uk": "INACTIVE"
+        },
+        "1573132942": {
+            "hit-ranking.de": "INACTIVE"
+        },
+        "1573132958": {
+            "iad.anm.co.uk": "INACTIVE"
+        },
+        "1573132982": {
+            "iliillliO00OO0.321.cn": "INVALID"
+        },
+        "1573132984": {
+            "images-pw.secureserver.net": "INACTIVE"
+        },
+        "1573132986": {
+            "images.v3.com": "INACTIVE"
+        },
+        "1573133017": {
+            "interactive.forthnet.gr": "INACTIVE"
+        },
+        "1573133042": {
+            "jbeet.cjt1.net": "INACTIVE"
+        },
+        "1573133043": {
+            "jedonkey.cjt1.net": "INACTIVE"
+        },
+        "1573133052": {
+            "jkazaa.cjt1.net": "INACTIVE",
+            "jnova.cjt1.net": "INACTIVE"
+        },
+        "1573133054": {
+            "js.users.51.la": "INACTIVE"
+        },
+        "1573133073": {
+            "k.iinfo.cz": "INACTIVE"
+        },
+        "1573133089": {
+            "lct.salesforce.com": "INACTIVE"
+        },
+        "1573133092": {
+            "leanoisgo.com": "INACTIVE"
+        },
+        "1573133139": {
+            "log.btopenworld.com": "INACTIVE"
+        },
+        "1573133156": {
+            "madclient.uimserv.net": "INACTIVE",
+            "mads.aol.com": "INACTIVE"
+        },
+        "1573133163": {
+            "mads.cnet.com": "INACTIVE"
+        },
+        "1573133174": {
+            "marketing.hearstmagazines.nl": "INACTIVE"
+        },
+        "1573133180": {
+            "marketing.nyi.net": "INACTIVE"
+        },
+        "1573133182": {
+            "mas.sector.sk": "INACTIVE"
+        },
+        "1573133183": {
+            "max.i12.de": "INACTIVE"
+        },
+        "1573133184": {
+            "mbs.megaroticlive.com": "INACTIVE"
+        },
+        "1573133193": {
+            "media.ftv-publicite.fr": "INACTIVE"
         }
     }
 }
