@@ -277,235 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1573122136": {
-            "ads03.redtube.com": "INACTIVE"
-        },
-        "1573122143": {
-            "ads1.canoe.ca": "INACTIVE"
-        },
-        "1573122144": {
-            "ads1.msn.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1573122150": {
-            "ads1.virtual-nights.com": "INACTIVE"
-        },
-        "1573122156": {
-            "ads2004.treiberupdate.de": "INACTIVE"
-        },
-        "1573122162": {
-            "ads2.clearchannel.com": "INACTIVE"
-        },
-        "1573122170": {
-            "ads2.net-communities.co.uk": "INACTIVE"
-        },
-        "1573122176": {
-            "ads2.oneplace.com": "INACTIVE"
-        },
-        "1573122182": {
-            "ads2.virtual-nights.com": "INACTIVE"
-        },
-        "1573122189": {
-            "ads3.virtual-nights.com": "INACTIVE"
-        },
-        "1573122196": {
-            "ads4.clearchannel.com": "INACTIVE"
-        },
-        "1573122212": {
-            "ads4.virtual-nights.com": "INACTIVE"
-        },
-        "1573122225": {
-            "ads5.virtual-nights.com": "INACTIVE"
-        },
-        "1573122269": {
-            "adsatt.espn.go.com": "INACTIVE"
-        },
-        "1573122275": {
-            "adsatt.espn.starwave.com": "INACTIVE"
-        },
-        "1573126100": {
-            "adserver1.mindshare.de": "INACTIVE",
-            "adserver1.mokono.com": "INACTIVE"
-        },
-        "1573126107": {
-            "adserver2.mindshare.de": "INACTIVE"
-        },
-        "1573126108": {
-            "adserver2.popdata.de": "INACTIVE"
-        },
-        "1573126110": {
-            "adserver.43plc.com": "INACTIVE"
-        },
-        "1573126118": {
-            "adserver.aidameter.com": "INACTIVE"
-        },
-        "1573126119": {
-            "adserver.barrapunto.com": "INACTIVE"
-        },
-        "1573126125": {
-            "adserver.betandwin.de": "INACTIVE"
-        },
-        "1573126127": {
-            "adserver.clashmusic.com": "INACTIVE"
-        },
-        "1573126128": {
-            "adserver.dotcommedia.de": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
-        },
-        "1573126130": {
-            "adserver.freenet.de": "INACTIVE"
-        },
-        "1573126144": {
-            "adserver.janes.com": "INACTIVE"
-        },
-        "1573126146": {
-            "adserver.kyoceramita-europe.com": "INACTIVE"
-        },
-        "1573126153": {
-            "adserver.libero.it": "INACTIVE"
-        },
-        "1573126154": {
-            "adserver-live.yoc.mobi": "INACTIVE",
-            "adserver.motorpresse.de": "INACTIVE"
-        },
-        "1573126161": {
-            "adserver.news.com.au": "INACTIVE"
-        },
-        "1573126168": {
-            "adserver.nydailynews.com": "INACTIVE",
-            "adserver.o2.pl": "INACTIVE",
-            "adserver.omroepzeeland.nl": "INACTIVE"
-        },
-        "1573126176": {
-            "adserver.portalofevil.com": "INACTIVE"
-        },
-        "1573126182": {
-            "adserver.portugalmail.net": "INACTIVE"
-        },
-        "1573126188": {
-            "adserver.portugalmail.pt": "INACTIVE"
-        },
-        "1573126196": {
-            "adserver.sanomawsoy.fi": "INACTIVE"
-        },
-        "1573126199": {
-            "adserver.startnow.com": "INACTIVE"
-        },
-        "1573126205": {
-            "adserver.theonering.net": "INACTIVE"
-        },
-        "1573126211": {
-            "adserver.virginmedia.com": "INACTIVE",
-            "adserver.yahoo.com": "INACTIVE"
-        },
-        "1573126212": {
-            "adserv.evo-x.de": "INACTIVE"
-        },
-        "1573126213": {
-            "adserv.iafrica.com": "INACTIVE"
-        },
-        "1573126214": {
-            "adserv.qconline.com": "INACTIVE",
-            "adserv.quality-channel.de": "INACTIVE"
-        },
-        "1573126316": {
-            "adsk2.co": "INACTIVE"
-        },
-        "1573126501": {
-            "adsremote.scrippsnetworks.com": "INACTIVE"
-        },
-        "1573126503": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1573126509": {
-            "adsrv.iol.co.za": "INACTIVE"
-        },
-        "1573126548": {
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE"
-        },
-        "1573126554": {
-            "ads.tmcs.net": "INACTIVE"
-        },
-        "1573126563": {
-            "ads.townhall.com": "INACTIVE",
-            "ads.trinitymirror.co.uk": "INACTIVE",
-            "ads.tripod.com": "INACTIVE"
-        },
-        "1573126565": {
-            "ads.tripod.spray.se": "INACTIVE",
-            "ads.ultimate-guitar.com": "INACTIVE"
-        },
-        "1573126567": {
-            "ads.v3.com": "INACTIVE"
-        },
-        "1573126574": {
-            "ads.virtual-nights.com": "INACTIVE"
-        },
-        "1573126579": {
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE"
-        },
-        "1573126580": {
-            "ads.web.de": "INACTIVE"
-        },
-        "1573126587": {
-            "ads.wiezoekje.nl": "INACTIVE",
-            "ads.wikia.nocookie.net": "INACTIVE"
-        },
-        "1573126593": {
-            "ads.wineenthusiast.com": "INACTIVE"
-        },
-        "1573126595": {
-            "ads.wunderground.com": "INACTIVE"
-        },
-        "1573126601": {
-            "ads.wwe.biz": "INACTIVE"
-        },
-        "1573126608": {
-            "ads.xtra.co.nz": "INACTIVE"
-        },
-        "1573129464": {
-            "ads.yimg.com": "INACTIVE"
-        },
-        "1573129479": {
-            "ads.zdnet.com": "INACTIVE"
-        },
-        "1573129485": {
-            "ads.ztod.com": "INACTIVE"
-        },
-        "1573129505": {
-            "adtrading.de": "INACTIVE"
-        },
-        "1573129519": {
-            "adv.cooperhosting.net": "INACTIVE"
-        },
-        "1573129529": {
-            "advertising.aol.com": "INACTIVE",
-            "advertising.apple.com": "INACTIVE"
-        },
-        "1573129530": {
-            "advertising.guildlaunch.net": "INACTIVE"
-        },
-        "1573129532": {
-            "adverts.carltononline.com": "INACTIVE"
-        },
-        "1573129546": {
-            "adv.livedoor.com": "INACTIVE"
-        },
-        "1573129547": {
-            "adv.wp.pl": "INACTIVE"
-        },
-        "1573129571": {
-            "adx.atnext.com": "INACTIVE",
-            "adx.gainesvillesun.com": "INACTIVE"
-        },
-        "1573129587": {
-            "affiliate.7host.com": "INACTIVE"
-        },
-        "1573129593": {
-            "affiliate.gamestop.com": "INACTIVE"
-        },
         "1573129594": {
             "affiliate.mogs.com": "INACTIVE"
         },
@@ -1149,81 +920,6 @@
         "1573138482": {
             "zeus.developershed.com": "INACTIVE"
         },
-        "1573295011": {
-            "ads.recoletos.es": "INACTIVE"
-        },
-        "1573295017": {
-            "ads.rediff.com": "INACTIVE",
-            "ads.redtube.com": "INACTIVE"
-        },
-        "1573295018": {
-            "ads.returnpath.net": "INACTIVE",
-            "ads.rottentomatoes.com": "INACTIVE"
-        },
-        "1573295019": {
-            "ads.s3.sitepoint.com": "INACTIVE",
-            "ads.savannahnow.com": "INACTIVE",
-            "ads.saymedia.com": "INACTIVE"
-        },
-        "1573295025": {
-            "ads.scifi.com": "INACTIVE",
-            "ads.seniorfriendfinder.com": "INACTIVE"
-        },
-        "1573295031": {
-            "ads.sexinyourcity.com": "INACTIVE"
-        },
-        "1573295032": {
-            "ads.sift.co.uk": "INACTIVE",
-            "ads.silverdisc.co.uk": "INACTIVE"
-        },
-        "1573295033": {
-            "ads.slim.com": "INACTIVE",
-            "ads.spoonfeduk.com": "INACTIVE"
-        },
-        "1573295034": {
-            "ads.sptimes.com": "INACTIVE",
-            "ads.stackoverflow.com": "INACTIVE",
-            "ads.stationplay.com": "INACTIVE",
-            "ads.struq.com": "INACTIVE"
-        },
-        "1573295040": {
-            "ads.sun.com": "INACTIVE"
-        },
-        "1573295041": {
-            "ads.t-online.de": "INACTIVE"
-        },
-        "1573295047": {
-            "ads.tahono.com": "INACTIVE",
-            "ads.techtv.com": "INACTIVE",
-            "ads.techweb.com": "INACTIVE"
-        },
-        "1573295048": {
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.theglobeandmail.com": "INACTIVE"
-        },
-        "1573295050": {
-            "ads.thewebfreaks.com": "INACTIVE"
-        },
-        "1574159069": {
-            "ads.p161.net": "INACTIVE"
-        },
-        "1574159070": {
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.pheedo.com": "INACTIVE"
-        },
-        "1574159071": {
-            "ads.pickmeup-ltd.com": "INACTIVE",
-            "ads.pkr.com": "INACTIVE"
-        },
-        "1574159078": {
-            "ads.planet.nl": "INACTIVE"
-        },
-        "1574159084": {
-            "ads.pni.com": "INACTIVE"
-        },
-        "1574159090": {
-            "ads.powweb.com": "INACTIVE"
-        },
         "1574303091": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE"
@@ -1573,6 +1269,278 @@
         },
         "1574303687": {
             "ads.optusnet.com.au": "INACTIVE"
+        },
+        "1574331317": {
+            "ads.belointeractive.com": "INACTIVE"
+        },
+        "1574331372": {
+            "ads.jpost.com": "INACTIVE"
+        },
+        "1574331382": {
+            "ads.p161.net": "INACTIVE"
+        },
+        "1574331383": {
+            "ads.penny-arcade.com": "INACTIVE",
+            "ads.pheedo.com": "INACTIVE"
+        },
+        "1574331384": {
+            "ads.pickmeup-ltd.com": "INACTIVE",
+            "ads.pkr.com": "INACTIVE"
+        },
+        "1574331390": {
+            "ads.planet.nl": "INACTIVE"
+        },
+        "1574331396": {
+            "ads.pni.com": "INACTIVE"
+        },
+        "1574331403": {
+            "ads.powweb.com": "INACTIVE"
+        },
+        "1574331429": {
+            "ads.recoletos.es": "INACTIVE"
+        },
+        "1574331430": {
+            "ads.redtube.com": "INACTIVE",
+            "ads.returnpath.net": "INACTIVE"
+        },
+        "1574331431": {
+            "ads.rottentomatoes.com": "INACTIVE"
+        },
+        "1574331432": {
+            "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.savannahnow.com": "INACTIVE"
+        },
+        "1574331442": {
+            "ads.scifi.com": "INACTIVE"
+        },
+        "1574331448": {
+            "ads.sexinyourcity.com": "INACTIVE"
+        },
+        "1574331449": {
+            "ads.silverdisc.co.uk": "INACTIVE"
+        },
+        "1574331450": {
+            "ads.slim.com": "INACTIVE"
+        },
+        "1574331451": {
+            "ads.spoonfeduk.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE"
+        },
+        "1574331452": {
+            "ads.stationplay.com": "INACTIVE",
+            "ads.struq.com": "INACTIVE"
+        },
+        "1574331453": {
+            "ads.t-online.de": "INACTIVE"
+        },
+        "1574331460": {
+            "ads.tahono.com": "INACTIVE",
+            "ads.techtv.com": "INACTIVE",
+            "ads.techweb.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.theglobeandmail.com": "INACTIVE"
+        },
+        "1574331471": {
+            "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1574331472": {
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE"
+        },
+        "1574331481": {
+            "ads.townhall.com": "INACTIVE"
+        },
+        "1574331482": {
+            "ads.tripod.spray.se": "INACTIVE"
+        },
+        "1574331483": {
+            "ads.v3.com": "INACTIVE"
+        },
+        "1574331490": {
+            "ads.videosz.com": "INACTIVE"
+        },
+        "1574331496": {
+            "ads.virtual-nights.com": "INACTIVE"
+        },
+        "1574331508": {
+            "ads.web.aol.com": "INACTIVE"
+        },
+        "1574331510": {
+            "ads.web.cs.com": "INACTIVE"
+        },
+        "1574331518": {
+            "ads.wiezoekje.nl": "INACTIVE"
+        },
+        "1574331525": {
+            "ads.wineenthusiast.com": "INACTIVE",
+            "ads.wunderground.com": "INACTIVE"
+        },
+        "1574331531": {
+            "ads.wwe.biz": "INACTIVE"
+        },
+        "1574331539": {
+            "ads.xtra.co.nz": "INACTIVE"
+        },
+        "1574331546": {
+            "ads.ztod.com": "INACTIVE"
+        },
+        "1574331547": {
+            "ads03.redtube.com": "INACTIVE"
+        },
+        "1574331553": {
+            "ads1.canoe.ca": "INACTIVE"
+        },
+        "1574331554": {
+            "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1574331560": {
+            "ads1.virtual-nights.com": "INACTIVE"
+        },
+        "1574331566": {
+            "ads10.speedbit.com": "INACTIVE"
+        },
+        "1574331573": {
+            "ads2.clearchannel.com": "INACTIVE"
+        },
+        "1574331580": {
+            "ads2.net-communities.co.uk": "INACTIVE"
+        },
+        "1574331586": {
+            "ads2.oneplace.com": "INACTIVE"
+        },
+        "1574331592": {
+            "ads2.virtual-nights.com": "INACTIVE"
+        },
+        "1574331599": {
+            "ads2004.treiberupdate.de": "INACTIVE"
+        },
+        "1574331606": {
+            "ads3.virtual-nights.com": "INACTIVE"
+        },
+        "1574331612": {
+            "ads4.clearchannel.com": "INACTIVE"
+        },
+        "1574331619": {
+            "ads4.virtual-nights.com": "INACTIVE"
+        },
+        "1574331626": {
+            "ads5.virtual-nights.com": "INACTIVE"
+        },
+        "1574331630": {
+            "adserv.evo-x.de": "INACTIVE"
+        },
+        "1574331632": {
+            "adserv.iafrica.com": "INACTIVE"
+        },
+        "1574331633": {
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE"
+        },
+        "1574331643": {
+            "adserver.43plc.com": "INACTIVE"
+        },
+        "1574331651": {
+            "adserver.aidameter.com": "INACTIVE"
+        },
+        "1574331652": {
+            "adserver.barrapunto.com": "INACTIVE"
+        },
+        "1574331658": {
+            "adserver.betandwin.de": "INACTIVE"
+        },
+        "1574331660": {
+            "adserver.clashmusic.com": "INACTIVE"
+        },
+        "1574331662": {
+            "adserver.dotcommedia.de": "INACTIVE"
+        },
+        "1574331665": {
+            "adserver.flossiemediagroup.com": "INACTIVE"
+        },
+        "1574331667": {
+            "adserver.freenet.de": "INACTIVE"
+        },
+        "1574331675": {
+            "adserver.janes.com": "INACTIVE"
+        },
+        "1574331682": {
+            "adserver.libero.it": "INACTIVE"
+        },
+        "1574331683": {
+            "adserver.motorpresse.de": "INACTIVE"
+        },
+        "1574331689": {
+            "adserver.news.com.au": "INACTIVE"
+        },
+        "1574331695": {
+            "adserver.nydailynews.com": "INACTIVE"
+        },
+        "1574331696": {
+            "adserver.o2.pl": "INACTIVE"
+        },
+        "1574331698": {
+            "adserver.portalofevil.com": "INACTIVE"
+        },
+        "1574331704": {
+            "adserver.portugalmail.net": "INACTIVE"
+        },
+        "1574331711": {
+            "adserver.portugalmail.pt": "INACTIVE"
+        },
+        "1574331713": {
+            "adserver.startnow.com": "INACTIVE"
+        },
+        "1574331720": {
+            "adserver.theonering.net": "INACTIVE"
+        },
+        "1574331726": {
+            "adserver.virginmedia.com": "INACTIVE"
+        },
+        "1574331734": {
+            "adserver1.mindshare.de": "INACTIVE",
+            "adserver1.mokono.com": "INACTIVE"
+        },
+        "1574331741": {
+            "adserver2.mindshare.de": "INACTIVE"
+        },
+        "1574331742": {
+            "adserver2.popdata.de": "INACTIVE"
+        },
+        "1574331743": {
+            "adsk2.co": "INACTIVE"
+        },
+        "1574331769": {
+            "adsremote.scrippsnetworks.com": "INACTIVE",
+            "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1574331777": {
+            "adtrading.de": "INACTIVE"
+        },
+        "1574331783": {
+            "adv.cooperhosting.net": "INACTIVE"
+        },
+        "1574331792": {
+            "adv.livedoor.com": "INACTIVE"
+        },
+        "1574331795": {
+            "advertising.aol.com": "INACTIVE",
+            "advertising.apple.com": "INACTIVE"
+        },
+        "1574331796": {
+            "advertising.guildlaunch.net": "INACTIVE"
+        },
+        "1574331798": {
+            "adverts.carltononline.com": "INACTIVE"
+        },
+        "1574331807": {
+            "adx.atnext.com": "INACTIVE",
+            "adx.gainesvillesun.com": "INACTIVE"
+        },
+        "1574331809": {
+            "affiliate.7host.com": "INACTIVE"
+        },
+        "1574331816": {
+            "affiliate.gamestop.com": "INACTIVE"
         }
     }
 }
