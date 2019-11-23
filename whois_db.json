@@ -1260,12 +1260,12 @@
         "state": "future"
     },
     "affiliatefuel.com": {
-        "epoch": "1613347200",
+        "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "affiliatefuture.com": {
-        "epoch": "1595203200",
+        "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
