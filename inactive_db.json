@@ -277,100 +277,7 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1574822256": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1574822257": {
-            "adtrading.de": "INACTIVE"
-        },
-        "1574822958": {
-            "advertising.aol.com": "INACTIVE",
-            "advertising.guildlaunch.net": "INACTIVE",
-            "adverts.carltononline.com": "INACTIVE",
-            "adx.gainesvillesun.com": "INACTIVE",
-            "affiliate.7host.com": "INACTIVE",
-            "affiliates.ige.com": "INACTIVE",
-            "affiliates.internationaljock.com": "INACTIVE",
-            "affiliates.jlist.com": "INACTIVE"
-        },
-        "1574822959": {
-            "an.tacoda.net": "INACTIVE",
-            "as2.advfn.com": "INACTIVE",
-            "assets.loomia.com": "INACTIVE",
-            "b.aol.com": "INACTIVE",
-            "b.engadget.com": "INACTIVE",
-            "banner.alphacool.de": "INACTIVE",
-            "banner.blogranking.net": "INACTIVE",
-            "banner.featuredusers.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
-            "banner.jobsahead.com": "INACTIVE",
-            "banner.joylandcasino.com": "INACTIVE"
-        },
-        "1574822960": {
-            "banner.prestigecasino.com": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.apnuk.com": "INACTIVE",
-            "banners.audioholics.com": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.ebay.com": "INACTIVE",
-            "banners.lifeserv.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE",
-            "bigads.guj.de": "INACTIVE"
-        },
-        "1574822961": {
-            "bravenet.com.invalid": "INVALID",
-            "c.compete.com": "INACTIVE"
-        },
-        "1574822962": {
-            "clickthrucash.com": "INACTIVE",
-            "clients.tbo.com": "INACTIVE",
-            "cmpstar.com": "INACTIVE"
-        },
-        "1574822963": {
-            "count.rbc.ru": "INACTIVE",
-            "count6.rbc.ru": "INACTIVE",
-            "counter.avtoindex.com": "INACTIVE",
-            "creative.ak.facebook.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "depilflash.tv": "INACTIVE",
-            "di1.shopping.com": "INACTIVE"
-        },
-        "1574822964": {
-            "emonitor.takeit.cz": "INACTIVE",
-            "engine.awaps.net": "INACTIVE",
-            "eur.a1.yimg.com": "INACTIVE",
-            "euro-linkindex.de": "INACTIVE"
-        },
-        "1574822965": {
-            "fb-promotions.com": "INACTIVE",
-            "fonecta.leiki.com": "INACTIVE",
-            "fragmentserv.iac-online.de": "INACTIVE"
-        },
-        "1574822966": {
-            "gbanners.hornymatches.com": "INACTIVE",
-            "gold.weborama.fr": "INACTIVE",
-            "hit-ranking.de": "INACTIVE"
-        },
-        "1574822967": {
-            "iliillliO00OO0.321.cn": "INVALID",
-            "images.v3.com": "INACTIVE"
-        },
-        "1574822968": {
-            "jbeet.cjt1.net": "INACTIVE",
-            "jedonkey.cjt1.net": "INACTIVE",
-            "jkazaa.cjt1.net": "INACTIVE",
-            "jnova.cjt1.net": "INACTIVE",
-            "lct.salesforce.com": "INACTIVE",
-            "leanoisgo.com": "INACTIVE"
-        },
-        "1574822969": {
-            "m.webtrends.com": "INACTIVE",
-            "mads.aol.com": "INACTIVE"
-        },
         "1574822970": {
-            "memorix.sdv.fr": "INACTIVE",
             "moadnet.com": "INACTIVE"
         },
         "1574822971": {
@@ -563,6 +470,96 @@
             "adserver2.popdata.de": "INACTIVE",
             "adsk2.co": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE"
+        },
+        "1574995824": {
+            "adsrv.eacdn.com": "INACTIVE",
+            "adtrading.de": "INACTIVE",
+            "advertising.aol.com": "INACTIVE",
+            "advertising.guildlaunch.net": "INACTIVE",
+            "adverts.carltononline.com": "INACTIVE",
+            "adx.gainesvillesun.com": "INACTIVE"
+        },
+        "1574995825": {
+            "affiliate.7host.com": "INACTIVE",
+            "affiliates.ige.com": "INACTIVE",
+            "affiliates.internationaljock.com": "INACTIVE",
+            "affiliates.jlist.com": "INACTIVE",
+            "an.tacoda.net": "INACTIVE",
+            "as2.advfn.com": "INACTIVE",
+            "assets.loomia.com": "INACTIVE"
+        },
+        "1574995826": {
+            "b.aol.com": "INACTIVE",
+            "b.engadget.com": "INACTIVE",
+            "banner.alphacool.de": "INACTIVE",
+            "banner.blogranking.net": "INACTIVE",
+            "banner.featuredusers.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE",
+            "banner.jobsahead.com": "INACTIVE",
+            "banner.joylandcasino.com": "INACTIVE",
+            "banner.prestigecasino.com": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.apnuk.com": "INACTIVE",
+            "banners.audioholics.com": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.ebay.com": "INACTIVE",
+            "banners.lifeserv.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE",
+            "bigads.guj.de": "INACTIVE"
+        },
+        "1574995827": {
+            "bravenet.com.invalid": "INVALID",
+            "c.compete.com": "INACTIVE"
+        },
+        "1574995828": {
+            "clickthrucash.com": "INACTIVE",
+            "clients.tbo.com": "INACTIVE",
+            "cmpstar.com": "INACTIVE"
+        },
+        "1574995829": {
+            "count.rbc.ru": "INACTIVE",
+            "count6.rbc.ru": "INACTIVE",
+            "counter.avtoindex.com": "INACTIVE",
+            "creative.ak.facebook.com": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "depilflash.tv": "INACTIVE",
+            "di1.shopping.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1574995830": {
+            "emonitor.takeit.cz": "INACTIVE",
+            "engine.awaps.net": "INACTIVE",
+            "eur.a1.yimg.com": "INACTIVE",
+            "euro-linkindex.de": "INACTIVE"
+        },
+        "1574995831": {
+            "fb-promotions.com": "INACTIVE",
+            "fonecta.leiki.com": "INACTIVE",
+            "fragmentserv.iac-online.de": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1574995832": {
+            "gold.weborama.fr": "INACTIVE",
+            "hit-ranking.de": "INACTIVE"
+        },
+        "1574995833": {
+            "iliillliO00OO0.321.cn": "INVALID",
+            "images.v3.com": "INACTIVE",
+            "jbeet.cjt1.net": "INACTIVE",
+            "jedonkey.cjt1.net": "INACTIVE",
+            "jkazaa.cjt1.net": "INACTIVE",
+            "jnova.cjt1.net": "INACTIVE"
+        },
+        "1574995834": {
+            "lct.salesforce.com": "INACTIVE",
+            "leanoisgo.com": "INACTIVE",
+            "m.webtrends.com": "INACTIVE",
+            "mads.aol.com": "INACTIVE"
+        },
+        "1574995835": {
+            "memorix.sdv.fr": "INACTIVE"
         }
     }
 }
