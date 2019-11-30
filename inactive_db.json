@@ -277,44 +277,7 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1574995830": {
-            "emonitor.takeit.cz": "INACTIVE",
-            "engine.awaps.net": "INACTIVE",
-            "eur.a1.yimg.com": "INACTIVE",
-            "euro-linkindex.de": "INACTIVE"
-        },
-        "1574995831": {
-            "fb-promotions.com": "INACTIVE",
-            "fonecta.leiki.com": "INACTIVE",
-            "fragmentserv.iac-online.de": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1574995832": {
-            "gold.weborama.fr": "INACTIVE",
-            "hit-ranking.de": "INACTIVE"
-        },
-        "1574995833": {
-            "iliillliO00OO0.321.cn": "INVALID",
-            "images.v3.com": "INACTIVE",
-            "jbeet.cjt1.net": "INACTIVE",
-            "jedonkey.cjt1.net": "INACTIVE",
-            "jkazaa.cjt1.net": "INACTIVE",
-            "jnova.cjt1.net": "INACTIVE"
-        },
-        "1574995834": {
-            "lct.salesforce.com": "INACTIVE",
-            "leanoisgo.com": "INACTIVE",
-            "m.webtrends.com": "INACTIVE",
-            "mads.aol.com": "INACTIVE"
-        },
-        "1574995835": {
-            "memorix.sdv.fr": "INACTIVE"
-        },
-        "1574996415": {
-            "moadnet.com": "INACTIVE"
-        },
         "1574996416": {
-            "nedstat.nl": "INACTIVE",
             "network.business.com": "INACTIVE",
             "ngs.impress.co.jp": "INACTIVE",
             "oas.foxnews.com": "INACTIVE",
@@ -563,6 +526,43 @@
             "depilflash.tv": "INACTIVE",
             "di1.shopping.com": "INACTIVE",
             "dnads.directnic.com": "INACTIVE"
+        },
+        "1575128339": {
+            "emonitor.takeit.cz": "INACTIVE",
+            "engine.awaps.net": "INACTIVE",
+            "eur.a1.yimg.com": "INACTIVE",
+            "euro-linkindex.de": "INACTIVE",
+            "fb-promotions.com": "INACTIVE"
+        },
+        "1575128340": {
+            "fonecta.leiki.com": "INACTIVE",
+            "fragmentserv.iac-online.de": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "gold.weborama.fr": "INACTIVE"
+        },
+        "1575128341": {
+            "hit-ranking.de": "INACTIVE",
+            "iliillliO00OO0.321.cn": "INVALID",
+            "images.v3.com": "INACTIVE"
+        },
+        "1575128342": {
+            "jbeet.cjt1.net": "INACTIVE",
+            "jedonkey.cjt1.net": "INACTIVE",
+            "jkazaa.cjt1.net": "INACTIVE",
+            "jnova.cjt1.net": "INACTIVE",
+            "lct.salesforce.com": "INACTIVE"
+        },
+        "1575128343": {
+            "leanoisgo.com": "INACTIVE",
+            "m.webtrends.com": "INACTIVE",
+            "mads.aol.com": "INACTIVE"
+        },
+        "1575128344": {
+            "memorix.sdv.fr": "INACTIVE",
+            "moadnet.com": "INACTIVE"
+        },
+        "1575128345": {
+            "nedstat.nl": "INACTIVE"
         }
     }
 }
