@@ -6325,9 +6325,9 @@
         "state": "future"
     },
     "thruport.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "tinybar.com": {
         "epoch": 1577404800.0,
@@ -6727,7 +6727,7 @@
     "urbanityadnetwork.com": {
         "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "urlcash.net": {
         "epoch": 1599609600.0,
