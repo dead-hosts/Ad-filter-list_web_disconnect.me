@@ -329,44 +329,11 @@
         "1575378320": {
             "zde-affinity.edgecaching.net": "INACTIVE"
         },
-        "1575458717": {
-            "banners.babylon-x.com": "INACTIVE"
-        },
-        "1575462431": {
-            "emonitor.takeit.cz": "INACTIVE",
-            "engine.awaps.net": "INACTIVE"
-        },
         "1575463948": {
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.apnuk.com": "INACTIVE",
-            "banners.audioholics.com": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.ebay.com": "INACTIVE",
-            "banners.lifeserv.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE",
-            "bigads.guj.de": "INACTIVE",
-            "bravenet.com.invalid": "INVALID",
-            "c.compete.com": "INACTIVE",
-            "clickthrucash.com": "INACTIVE",
-            "clients.tbo.com": "INACTIVE",
-            "cmpstar.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "count6.rbc.ru": "INACTIVE",
-            "counter.avtoindex.com": "INACTIVE",
-            "creative.ak.facebook.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "depilflash.tv": "INACTIVE",
-            "di1.shopping.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
             "nedstat.nl": "INACTIVE",
             "network.business.com": "INACTIVE"
         },
         "1575464511": {
-            "eur.a1.yimg.com": "INACTIVE",
-            "euro-linkindex.de": "INACTIVE",
-            "fb-promotions.com": "INACTIVE",
             "fonecta.leiki.com": "INACTIVE",
             "fragmentserv.iac-online.de": "INACTIVE",
             "gbanners.hornymatches.com": "INACTIVE",
@@ -523,6 +490,44 @@
             "banner.jobsahead.com": "INACTIVE",
             "banner.joylandcasino.com": "INACTIVE",
             "banner.prestigecasino.com": "INACTIVE"
+        },
+        "1575553107": {
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.apnuk.com": "INACTIVE",
+            "banners.audioholics.com": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.ebay.com": "INACTIVE",
+            "banners.lifeserv.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE"
+        },
+        "1575553108": {
+            "bigads.guj.de": "INACTIVE",
+            "bravenet.com.invalid": "INVALID",
+            "c.compete.com": "INACTIVE"
+        },
+        "1575553109": {
+            "clickthrucash.com": "INACTIVE",
+            "clients.tbo.com": "INACTIVE",
+            "cmpstar.com": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "count6.rbc.ru": "INACTIVE",
+            "counter.avtoindex.com": "INACTIVE"
+        },
+        "1575553110": {
+            "creative.ak.facebook.com": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "depilflash.tv": "INACTIVE",
+            "di1.shopping.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1575553111": {
+            "emonitor.takeit.cz": "INACTIVE",
+            "engine.awaps.net": "INACTIVE",
+            "eur.a1.yimg.com": "INACTIVE",
+            "euro-linkindex.de": "INACTIVE",
+            "fb-promotions.com": "INACTIVE"
         }
     }
 }
