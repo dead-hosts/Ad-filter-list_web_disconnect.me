@@ -277,26 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1575558778": {
-            "sx.trhnt.com": "INACTIVE",
-            "t.pusk.ru": "INACTIVE",
-            "tailsweep.co.uk": "INACTIVE",
-            "textads.opera.com": "INACTIVE"
-        },
-        "1575561189": {
-            "tracking.yourfilehost.com": "INACTIVE",
-            "traffic.liveuniversenetwork.com": "INACTIVE",
-            "trafficcdn.liveuniversenetwork.com": "INACTIVE",
-            "tvas-c.pw": "INACTIVE"
-        },
-        "1575561190": {
-            "wads.webteh.com": "INACTIVE",
-            "www.banner-link.com.br": "INACTIVE",
-            "www.money4exit.de": "INACTIVE"
-        },
-        "1575561191": {
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
         "1575636386": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -549,6 +529,27 @@
             "stats.surfaid.ihost.com": "INACTIVE",
             "suavalds.com": "INACTIVE",
             "suptullog.com": "INACTIVE"
+        },
+        "1575648166": {
+            "sx.trhnt.com": "INACTIVE",
+            "t.pusk.ru": "INACTIVE",
+            "tailsweep.co.uk": "INACTIVE",
+            "textads.opera.com": "INACTIVE"
+        },
+        "1575648167": {
+            "tracking.yourfilehost.com": "INACTIVE",
+            "traffic.liveuniversenetwork.com": "INACTIVE",
+            "trafficcdn.liveuniversenetwork.com": "INACTIVE",
+            "tsms-ad.tsms.com": "INACTIVE",
+            "tvas-c.pw": "INACTIVE"
+        },
+        "1575648168": {
+            "wads.webteh.com": "INACTIVE"
+        },
+        "1575648169": {
+            "www.banner-link.com.br": "INACTIVE",
+            "www.money4exit.de": "INACTIVE",
+            "zde-affinity.edgecaching.net": "INACTIVE"
         }
     }
 }
