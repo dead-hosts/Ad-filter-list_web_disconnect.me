@@ -277,44 +277,7 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1575862107": {
-            "fragmentserv.iac-online.de": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1575862108": {
-            "gold.weborama.fr": "INACTIVE",
-            "hit-ranking.de": "INACTIVE"
-        },
-        "1575862109": {
-            "iliillliO00OO0.321.cn": "INVALID",
-            "images.v3.com": "INACTIVE",
-            "jbeet.cjt1.net": "INACTIVE",
-            "jedonkey.cjt1.net": "INACTIVE",
-            "jkazaa.cjt1.net": "INACTIVE"
-        },
-        "1575862110": {
-            "jnova.cjt1.net": "INACTIVE",
-            "lct.salesforce.com": "INACTIVE",
-            "leanoisgo.com": "INACTIVE",
-            "m.webtrends.com": "INACTIVE",
-            "mads.aol.com": "INACTIVE"
-        },
-        "1575862111": {
-            "memorix.sdv.fr": "INACTIVE"
-        },
-        "1575862112": {
-            "moadnet.com": "INACTIVE"
-        },
-        "1575862795": {
-            "nedstat.nl": "INACTIVE",
-            "network.business.com": "INACTIVE",
-            "newnet.qsrch.com": "INACTIVE",
-            "ngs.impress.co.jp": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "oas.salon.com": "INACTIVE"
-        },
         "1575862796": {
-            "openx.blindferret.com": "INACTIVE",
             "pagerank-submitter.com": "INACTIVE",
             "pagerank-submitter.de": "INACTIVE",
             "pagerank-united.de": "INACTIVE",
@@ -563,6 +526,44 @@
             "euro-linkindex.de": "INACTIVE",
             "fb-promotions.com": "INACTIVE",
             "fonecta.leiki.com": "INACTIVE"
+        },
+        "1576023192": {
+            "fragmentserv.iac-online.de": "INACTIVE"
+        },
+        "1576023193": {
+            "gbanners.hornymatches.com": "INACTIVE",
+            "gold.weborama.fr": "INACTIVE",
+            "hit-ranking.de": "INACTIVE"
+        },
+        "1576023194": {
+            "iliillliO00OO0.321.cn": "INVALID",
+            "images.v3.com": "INACTIVE"
+        },
+        "1576023195": {
+            "jbeet.cjt1.net": "INACTIVE",
+            "jedonkey.cjt1.net": "INACTIVE",
+            "jkazaa.cjt1.net": "INACTIVE",
+            "jnova.cjt1.net": "INACTIVE",
+            "lct.salesforce.com": "INACTIVE",
+            "leanoisgo.com": "INACTIVE"
+        },
+        "1576023196": {
+            "m.webtrends.com": "INACTIVE",
+            "mads.aol.com": "INACTIVE"
+        },
+        "1576023197": {
+            "memorix.sdv.fr": "INACTIVE",
+            "moadnet.com": "INACTIVE"
+        },
+        "1576023198": {
+            "nedstat.nl": "INACTIVE",
+            "network.business.com": "INACTIVE"
+        },
+        "1576023199": {
+            "ngs.impress.co.jp": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "oas.salon.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE"
         }
     }
 }
