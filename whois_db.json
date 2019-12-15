@@ -895,8 +895,8 @@
         "state": "future"
     },
     "adsfac.us": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "adshost1.com": {
@@ -1370,7 +1370,7 @@
         "state": "future"
     },
     "amung.us": {
-        "epoch": "1647475200",
+        "epoch": 1647475200.0,
         "expiration_date": "17-mar-2022",
         "state": "future"
     },
