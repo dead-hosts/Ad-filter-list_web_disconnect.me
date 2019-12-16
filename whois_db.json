@@ -1687,7 +1687,7 @@
     "bcmediagroup.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "begun.ru": {
         "epoch": 1582070400.0,
@@ -1900,8 +1900,8 @@
         "state": "future"
     },
     "btrll.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "budsinc.com": {
@@ -2492,7 +2492,7 @@
     "crowdgravity.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "crwdcntrl.net": {
         "epoch": 1605916800.0,
