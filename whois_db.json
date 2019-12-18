@@ -1685,9 +1685,9 @@
         "state": "future"
     },
     "bcmediagroup.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "begun.ru": {
         "epoch": 1582070400.0,
@@ -2490,9 +2490,9 @@
         "state": "future"
     },
     "crowdgravity.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "crwdcntrl.net": {
         "epoch": 1605916800.0,
@@ -2592,7 +2592,7 @@
     "direct-xxx-access.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "directaclick.com": {
         "epoch": 1591228800.0,
