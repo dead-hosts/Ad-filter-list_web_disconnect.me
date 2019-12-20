@@ -277,14 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1576754911": {
-            "wads.webteh.com": "INACTIVE"
-        },
-        "1576754912": {
-            "www.banner-link.com.br": "INACTIVE",
-            "www.money4exit.de": "INACTIVE",
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
         "1576838266": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -552,6 +544,14 @@
             "tsms-ad.tsms.com": "INACTIVE",
             "tvas-c.pw": "INACTIVE",
             "usmsad.tom.com": "INACTIVE"
+        },
+        "1576843198": {
+            "wads.webteh.com": "INACTIVE"
+        },
+        "1576843199": {
+            "www.banner-link.com.br": "INACTIVE",
+            "www.money4exit.de": "INACTIVE",
+            "zde-affinity.edgecaching.net": "INACTIVE"
         }
     }
 }
