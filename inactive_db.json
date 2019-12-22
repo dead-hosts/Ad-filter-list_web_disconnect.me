@@ -277,36 +277,7 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1576839848": {
-            "banners.directnic.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE",
-            "banners.ebay.com": "INACTIVE",
-            "banners.lifeserv.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE"
-        },
-        "1576840978": {
-            "bigads.guj.de": "INACTIVE",
-            "bravenet.com.invalid": "INVALID",
-            "c.compete.com": "INACTIVE"
-        },
-        "1576840979": {
-            "clickthrucash.com": "INACTIVE",
-            "clients.tbo.com": "INACTIVE",
-            "cmpstar.com": "INACTIVE"
-        },
-        "1576840980": {
-            "count.rbc.ru": "INACTIVE",
-            "count6.rbc.ru": "INACTIVE",
-            "counter.avtoindex.com": "INACTIVE",
-            "creative.ak.facebook.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "depilflash.tv": "INACTIVE",
-            "di1.shopping.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE"
-        },
         "1576840981": {
-            "emonitor.takeit.cz": "INACTIVE",
-            "engine.awaps.net": "INACTIVE",
             "eur.a1.yimg.com": "INACTIVE",
             "euro-linkindex.de": "INACTIVE",
             "fb-promotions.com": "INACTIVE"
@@ -565,6 +536,39 @@
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.apnuk.com": "INACTIVE",
             "banners.audioholics.com": "INACTIVE"
+        },
+        "1576984905": {
+            "banners.directnic.com": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "banners.ebay.com": "INACTIVE",
+            "banners.lifeserv.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE"
+        },
+        "1576984906": {
+            "bigads.guj.de": "INACTIVE",
+            "bravenet.com.invalid": "INVALID",
+            "c.compete.com": "INACTIVE"
+        },
+        "1576984907": {
+            "cityads.telus.net": "INACTIVE",
+            "clicks.mods.de": "INACTIVE",
+            "clickthrucash.com": "INACTIVE",
+            "clients.tbo.com": "INACTIVE",
+            "cmpstar.com": "INACTIVE"
+        },
+        "1576984908": {
+            "count.rbc.ru": "INACTIVE",
+            "count6.rbc.ru": "INACTIVE",
+            "counter.avtoindex.com": "INACTIVE",
+            "creative.ak.facebook.com": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "depilflash.tv": "INACTIVE",
+            "di1.shopping.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1576984909": {
+            "emonitor.takeit.cz": "INACTIVE",
+            "engine.awaps.net": "INACTIVE"
         }
     }
 }
