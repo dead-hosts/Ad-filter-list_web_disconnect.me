@@ -277,55 +277,7 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1576839846": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
-            "adserv.qconline.com": "INACTIVE",
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE",
-            "adserver.43plc.com": "INACTIVE",
-            "adserver.clashmusic.com": "INACTIVE",
-            "adserver.dotcommedia.de": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.freenet.de": "INACTIVE",
-            "adserver.motorpresse.de": "INACTIVE",
-            "adserver.portalofevil.com": "INACTIVE",
-            "adserver.startnow.com": "INACTIVE",
-            "adserver1.mokono.com": "INACTIVE",
-            "adserver2.popdata.de": "INACTIVE",
-            "adsremote.scrippsnetworks.com": "INACTIVE",
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1576839847": {
-            "adtrading.de": "INACTIVE",
-            "advertising.aol.com": "INACTIVE",
-            "advertising.guildlaunch.net": "INACTIVE",
-            "adverts.carltononline.com": "INACTIVE",
-            "adx.gainesvillesun.com": "INACTIVE",
-            "affiliate.7host.com": "INACTIVE",
-            "affiliates.ige.com": "INACTIVE",
-            "affiliates.internationaljock.com": "INACTIVE",
-            "affiliates.jlist.com": "INACTIVE"
-        },
         "1576839848": {
-            "an.tacoda.net": "INACTIVE",
-            "as2.advfn.com": "INACTIVE",
-            "assets.loomia.com": "INACTIVE",
-            "azfront.com": "INACTIVE",
-            "b.aol.com": "INACTIVE",
-            "b.engadget.com": "INACTIVE",
-            "banner.alphacool.de": "INACTIVE",
-            "banner.blogranking.net": "INACTIVE",
-            "banner.featuredusers.com": "INACTIVE",
-            "banner.getgo.de": "INACTIVE",
-            "banner.jobsahead.com": "INACTIVE",
-            "banner.joylandcasino.com": "INACTIVE",
-            "banner.prestigecasino.com": "INACTIVE",
-            "banner.wirenode.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "banners.apnuk.com": "INACTIVE",
-            "banners.audioholics.com": "INACTIVE",
             "banners.directnic.com": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.ebay.com": "INACTIVE",
@@ -456,9 +408,6 @@
             "www.money4exit.de": "INACTIVE",
             "zde-affinity.edgecaching.net": "INACTIVE"
         },
-        "1576887137": {
-            "banners.babylon-x.com": "INACTIVE"
-        },
         "1576889794": {
             "jaminfinity.tk": "INACTIVE"
         },
@@ -566,6 +515,56 @@
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1576984226": {
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserv.iafrica.com": "INACTIVE",
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE",
+            "adserver.43plc.com": "INACTIVE",
+            "adserver.clashmusic.com": "INACTIVE",
+            "adserver.dotcommedia.de": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE",
+            "adserver.freenet.de": "INACTIVE",
+            "adserver.motorpresse.de": "INACTIVE",
+            "adserver.portalofevil.com": "INACTIVE",
+            "adserver.startnow.com": "INACTIVE",
+            "adserver1.mokono.com": "INACTIVE",
+            "adserver2.popdata.de": "INACTIVE"
+        },
+        "1576984227": {
+            "adsremote.scrippsnetworks.com": "INACTIVE",
+            "adsrv.eacdn.com": "INACTIVE",
+            "adtrading.de": "INACTIVE",
+            "advertising.aol.com": "INACTIVE",
+            "advertising.guildlaunch.net": "INACTIVE",
+            "adverts.carltononline.com": "INACTIVE",
+            "adx.gainesvillesun.com": "INACTIVE",
+            "affiliate.7host.com": "INACTIVE",
+            "affiliates.ige.com": "INACTIVE",
+            "affiliates.internationaljock.com": "INACTIVE",
+            "affiliates.jlist.com": "INACTIVE"
+        },
+        "1576984228": {
+            "an.tacoda.net": "INACTIVE",
+            "as2.advfn.com": "INACTIVE",
+            "assets.loomia.com": "INACTIVE",
+            "azfront.com": "INACTIVE",
+            "b.aol.com": "INACTIVE",
+            "b.engadget.com": "INACTIVE",
+            "banner.alphacool.de": "INACTIVE",
+            "banner.blogranking.net": "INACTIVE",
+            "banner.featuredusers.com": "INACTIVE",
+            "banner.getgo.de": "INACTIVE",
+            "banner.jobsahead.com": "INACTIVE",
+            "banner.joylandcasino.com": "INACTIVE",
+            "banner.prestigecasino.com": "INACTIVE",
+            "banner.wirenode.com": "INACTIVE",
+            "bannerexchange.cjb.net": "INACTIVE",
+            "banners.apnuk.com": "INACTIVE",
+            "banners.audioholics.com": "INACTIVE"
         }
     }
 }
