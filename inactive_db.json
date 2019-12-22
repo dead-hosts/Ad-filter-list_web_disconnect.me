@@ -277,53 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1576841722": {
-            "openx.blindferret.com": "INACTIVE",
-            "p.adpdx.com": "INACTIVE"
-        },
-        "1576841723": {
-            "pagerank-submitter.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE",
-            "pagerank-united.de": "INACTIVE",
-            "pagerank4u.eu": "INACTIVE",
-            "partner.topcities.com": "INACTIVE",
-            "perf.weborama.fr": "INACTIVE",
-            "pixel.jumptap.com": "INACTIVE"
-        },
-        "1576842917": {
-            "pro.i-doctor.co.kr": "INACTIVE",
-            "promo1.webcams.nl": "INACTIVE"
-        },
-        "1576842918": {
-            "qwapi.apple.com": "INACTIVE",
-            "rad.msn.com": "INACTIVE",
-            "ranking-id.de": "INACTIVE",
-            "ranking-street.de": "INACTIVE",
-            "reefaquarium.biz": "INACTIVE"
-        },
-        "1576842919": {
-            "rythmxchange.com": "INACTIVE",
-            "seeq.com.invalid": "INVALID",
-            "service1.adten.de": "INACTIVE",
-            "sexaddpro.de": "INACTIVE",
-            "sitebrand.geeks.com": "INACTIVE",
-            "sitemerkezi.net": "INACTIVE",
-            "sma.punto.net": "INACTIVE",
-            "smartbase.cdnservices.com": "INACTIVE"
-        },
-        "1576842920": {
-            "stat.tudou.com": "INACTIVE",
-            "stats.cts-bv.nl": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "stats.suite101.com": "INACTIVE",
-            "stats.surfaid.ihost.com": "INACTIVE",
-            "suavalds.com": "INACTIVE",
-            "suptullog.com": "INACTIVE",
-            "sx.trhnt.com": "INACTIVE",
-            "t.pusk.ru": "INACTIVE",
-            "tailsweep.co.uk": "INACTIVE",
-            "textads.opera.com": "INACTIVE"
-        },
         "1576842921": {
             "tracking.yourfilehost.com": "INACTIVE",
             "traffic.liveuniversenetwork.com": "INACTIVE",
@@ -568,6 +521,51 @@
             "ngs.impress.co.jp": "INACTIVE",
             "oas.foxnews.com": "INACTIVE",
             "oas.salon.com": "INACTIVE"
+        },
+        "1576986298": {
+            "openx.blindferret.com": "INACTIVE",
+            "p.adpdx.com": "INACTIVE",
+            "pagerank-submitter.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE",
+            "pagerank-united.de": "INACTIVE",
+            "pagerank4u.eu": "INACTIVE",
+            "partner.topcities.com": "INACTIVE",
+            "perf.weborama.fr": "INACTIVE"
+        },
+        "1576986299": {
+            "pixel.jumptap.com": "INACTIVE",
+            "pro.i-doctor.co.kr": "INACTIVE",
+            "promo1.webcams.nl": "INACTIVE",
+            "qwapi.apple.com": "INACTIVE",
+            "rad.msn.com": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "ranking-street.de": "INACTIVE"
+        },
+        "1576986300": {
+            "reefaquarium.biz": "INACTIVE",
+            "rythmxchange.com": "INACTIVE",
+            "seeq.com.invalid": "INVALID",
+            "service1.adten.de": "INACTIVE"
+        },
+        "1576986301": {
+            "sexaddpro.de": "INACTIVE",
+            "sitebrand.geeks.com": "INACTIVE",
+            "sitemerkezi.net": "INACTIVE",
+            "sma.punto.net": "INACTIVE",
+            "smartbase.cdnservices.com": "INACTIVE",
+            "stat.tudou.com": "INACTIVE",
+            "stats.cts-bv.nl": "INACTIVE",
+            "stats.directnic.com": "INACTIVE",
+            "stats.suite101.com": "INACTIVE",
+            "stats.surfaid.ihost.com": "INACTIVE",
+            "suavalds.com": "INACTIVE"
+        },
+        "1576986302": {
+            "suptullog.com": "INACTIVE",
+            "sx.trhnt.com": "INACTIVE",
+            "t.pusk.ru": "INACTIVE",
+            "tailsweep.co.uk": "INACTIVE",
+            "textads.opera.com": "INACTIVE"
         }
     }
 }
