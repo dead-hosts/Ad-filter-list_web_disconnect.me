@@ -277,9 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1578110295": {
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
         "1578219135": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.aproductmsg.com": "INACTIVE",
@@ -563,6 +560,9 @@
         "1578226091": {
             "wads.webteh.com": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
+        },
+        "1578226903": {
+            "zde-affinity.edgecaching.net": "INACTIVE"
         }
     }
 }
