@@ -1722,7 +1722,7 @@
     "bhclicks.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bidclix.com": {
         "epoch": 1587254400.0,
@@ -2460,8 +2460,8 @@
         "state": "future"
     },
     "creafi.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "creative-serving.com": {
@@ -3167,7 +3167,7 @@
     "fxclix.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fxstyle.net": {
         "epoch": 1586304000.0,
