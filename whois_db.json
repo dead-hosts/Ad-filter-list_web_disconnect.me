@@ -4077,7 +4077,7 @@
     "lunarads.com": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "lzjl.com": {
         "epoch": 1589500800.0,
@@ -4377,7 +4377,7 @@
     "mmaglobal.com": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mmedia.com": {
         "epoch": 1586995200.0,
@@ -5190,9 +5190,9 @@
         "state": "future"
     },
     "pontiflex.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
-        "state": "past"
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
     },
     "pop-under.ru": {
         "epoch": 1588464000.0,
