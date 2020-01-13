@@ -277,42 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1578800872": {
-            "iliillliO00OO0.321.cn": "INVALID",
-            "images.v3.com": "INACTIVE"
-        },
-        "1578800873": {
-            "jbeet.cjt1.net": "INACTIVE",
-            "jedonkey.cjt1.net": "INACTIVE",
-            "jkazaa.cjt1.net": "INACTIVE",
-            "jnova.cjt1.net": "INACTIVE",
-            "lct.salesforce.com": "INACTIVE",
-            "leanoisgo.com": "INACTIVE",
-            "m.webtrends.com": "INACTIVE",
-            "mads.aol.com": "INACTIVE"
-        },
-        "1578800874": {
-            "memorix.sdv.fr": "INACTIVE",
-            "moadnet.com": "INACTIVE"
-        },
-        "1578800875": {
-            "nedstat.nl": "INACTIVE",
-            "network.business.com": "INACTIVE",
-            "ngs.impress.co.jp": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "oas.salon.com": "INACTIVE"
-        },
-        "1578800876": {
-            "openx.blindferret.com": "INACTIVE",
-            "p.adpdx.com": "INACTIVE",
-            "pagerank-submitter.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE",
-            "pagerank-united.de": "INACTIVE",
-            "pagerank4u.eu": "INACTIVE",
-            "partner.topcities.com": "INACTIVE",
-            "perf.weborama.fr": "INACTIVE",
-            "pixel.jumptap.com": "INACTIVE"
-        },
         "1578800877": {
             "pro.i-doctor.co.kr": "INACTIVE"
         },
@@ -570,6 +534,44 @@
             "gbanners.hornymatches.com": "INACTIVE",
             "gold.weborama.fr": "INACTIVE",
             "hit-ranking.de": "INACTIVE"
+        },
+        "1578920067": {
+            "iliillliO00OO0.321.cn": "INVALID",
+            "images.v3.com": "INACTIVE"
+        },
+        "1578920068": {
+            "jbeet.cjt1.net": "INACTIVE",
+            "jedonkey.cjt1.net": "INACTIVE",
+            "jkazaa.cjt1.net": "INACTIVE",
+            "jnova.cjt1.net": "INACTIVE",
+            "lct.salesforce.com": "INACTIVE",
+            "leanoisgo.com": "INACTIVE",
+            "m.webtrends.com": "INACTIVE"
+        },
+        "1578920069": {
+            "mads.aol.com": "INACTIVE",
+            "memorix.sdv.fr": "INACTIVE",
+            "moadnet.com": "INACTIVE"
+        },
+        "1578920070": {
+            "nedstat.nl": "INACTIVE",
+            "network.business.com": "INACTIVE"
+        },
+        "1578920071": {
+            "ngs.impress.co.jp": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "oas.salon.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "p.adpdx.com": "INACTIVE",
+            "pagerank-submitter.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE",
+            "pagerank-united.de": "INACTIVE",
+            "pagerank4u.eu": "INACTIVE",
+            "partner.topcities.com": "INACTIVE",
+            "perf.weborama.fr": "INACTIVE"
+        },
+        "1578920072": {
+            "pixel.jumptap.com": "INACTIVE"
         }
     }
 }

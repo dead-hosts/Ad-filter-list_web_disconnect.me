@@ -4597,7 +4597,7 @@
     "myaffiliateprogram.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mybloglog.com": {
         "epoch": 1610150400.0,
@@ -5152,7 +5152,7 @@
     "planetactive.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "play4traffic.com": {
         "epoch": 1594166400.0,
