@@ -277,55 +277,7 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1578920071": {
-            "p.adpdx.com": "INACTIVE",
-            "pagerank-submitter.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE",
-            "pagerank-united.de": "INACTIVE",
-            "pagerank4u.eu": "INACTIVE",
-            "partner.topcities.com": "INACTIVE",
-            "perf.weborama.fr": "INACTIVE"
-        },
-        "1578920072": {
-            "pixel.jumptap.com": "INACTIVE"
-        },
-        "1578921701": {
-            "pro.i-doctor.co.kr": "INACTIVE",
-            "promo1.webcams.nl": "INACTIVE"
-        },
-        "1578921702": {
-            "qwapi.apple.com": "INACTIVE",
-            "rad.msn.com": "INACTIVE",
-            "ranking-id.de": "INACTIVE",
-            "ranking-street.de": "INACTIVE",
-            "reefaquarium.biz": "INACTIVE",
-            "rythmxchange.com": "INACTIVE"
-        },
-        "1578921703": {
-            "seeq.com.invalid": "INVALID",
-            "service1.adten.de": "INACTIVE",
-            "sexaddpro.de": "INACTIVE",
-            "sitebrand.geeks.com": "INACTIVE",
-            "sitemerkezi.net": "INACTIVE",
-            "sma.punto.net": "INACTIVE",
-            "smartbase.cdnservices.com": "INACTIVE"
-        },
-        "1578921704": {
-            "stat.tudou.com": "INACTIVE",
-            "stats.cts-bv.nl": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "stats.suite101.com": "INACTIVE",
-            "stats.surfaid.ihost.com": "INACTIVE",
-            "suavalds.com": "INACTIVE",
-            "suptullog.com": "INACTIVE",
-            "sx.trhnt.com": "INACTIVE",
-            "t.pusk.ru": "INACTIVE",
-            "tailsweep.co.uk": "INACTIVE",
-            "textads.opera.com": "INACTIVE"
-        },
         "1578921705": {
-            "topbarh.box.sk": "INACTIVE",
-            "tracking.yourfilehost.com": "INACTIVE",
             "traffic.liveuniversenetwork.com": "INACTIVE",
             "trafficcdn.liveuniversenetwork.com": "INACTIVE",
             "tsms-ad.tsms.com": "INACTIVE",
@@ -570,6 +522,54 @@
             "oas.foxnews.com": "INACTIVE",
             "oas.salon.com": "INACTIVE",
             "openx.blindferret.com": "INACTIVE"
+        },
+        "1579012875": {
+            "p.adpdx.com": "INACTIVE",
+            "pagerank-submitter.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE",
+            "pagerank-united.de": "INACTIVE",
+            "pagerank4u.eu": "INACTIVE"
+        },
+        "1579012876": {
+            "partner.topcities.com": "INACTIVE",
+            "perf.weborama.fr": "INACTIVE",
+            "pixel.jumptap.com": "INACTIVE",
+            "pro.i-doctor.co.kr": "INACTIVE",
+            "promo1.webcams.nl": "INACTIVE"
+        },
+        "1579012877": {
+            "qwapi.apple.com": "INACTIVE",
+            "rad.msn.com": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "ranking-street.de": "INACTIVE",
+            "reefaquarium.biz": "INACTIVE"
+        },
+        "1579012878": {
+            "rythmxchange.com": "INACTIVE",
+            "seeq.com.invalid": "INVALID",
+            "service1.adten.de": "INACTIVE",
+            "sexaddpro.de": "INACTIVE",
+            "sitebrand.geeks.com": "INACTIVE",
+            "sitemerkezi.net": "INACTIVE",
+            "sma.punto.net": "INACTIVE",
+            "smartbase.cdnservices.com": "INACTIVE"
+        },
+        "1579012879": {
+            "stat.tudou.com": "INACTIVE",
+            "stats.cts-bv.nl": "INACTIVE",
+            "stats.directnic.com": "INACTIVE",
+            "stats.suite101.com": "INACTIVE",
+            "stats.surfaid.ihost.com": "INACTIVE",
+            "suavalds.com": "INACTIVE",
+            "suptullog.com": "INACTIVE",
+            "sx.trhnt.com": "INACTIVE",
+            "t.pusk.ru": "INACTIVE",
+            "tailsweep.co.uk": "INACTIVE",
+            "textads.opera.com": "INACTIVE"
+        },
+        "1579012880": {
+            "topbarh.box.sk": "INACTIVE",
+            "tracking.yourfilehost.com": "INACTIVE"
         }
     }
 }

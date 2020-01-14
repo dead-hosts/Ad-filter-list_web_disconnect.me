@@ -5150,9 +5150,9 @@
         "state": "future"
     },
     "planetactive.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "play4traffic.com": {
         "epoch": 1594166400.0,
@@ -6055,8 +6055,8 @@
         "state": "future"
     },
     "stat.su": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "stat24.com": {
@@ -6072,7 +6072,7 @@
     "statistik-gallup.net": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "stats4all.com": {
         "epoch": 1595980800.0,
