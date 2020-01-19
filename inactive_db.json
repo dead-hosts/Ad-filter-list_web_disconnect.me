@@ -277,13 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1579233969": {
-            "wads.webteh.com": "INACTIVE",
-            "www.banner-link.com.br": "INACTIVE"
-        },
-        "1579233970": {
-            "zde-affinity.edgecaching.net": "INACTIVE"
-        },
         "1579386762": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.aproductmsg.com": "INACTIVE",
@@ -568,6 +561,13 @@
             "tsms-ad.tsms.com": "INACTIVE",
             "tvas-c.pw": "INACTIVE",
             "usmsad.tom.com": "INACTIVE"
+        },
+        "1579402827": {
+            "wads.webteh.com": "INACTIVE"
+        },
+        "1579402828": {
+            "www.banner-link.com.br": "INACTIVE",
+            "zde-affinity.edgecaching.net": "INACTIVE"
         }
     }
 }
