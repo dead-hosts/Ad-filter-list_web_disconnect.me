@@ -278,7 +278,6 @@
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
         "1579390107": {
-            "ads.groundspeak.com": "INACTIVE",
             "ads.hardwaresecrets.com": "INACTIVE",
             "ads.hideyourarms.com": "INACTIVE",
             "ads.iafrica.com": "INACTIVE"
@@ -580,6 +579,9 @@
             "ads.gameforgeads.de": "INACTIVE",
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
+        },
+        "1579577774": {
+            "ads.groundspeak.com": "INACTIVE"
         }
     }
 }
