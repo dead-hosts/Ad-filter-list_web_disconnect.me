@@ -277,9 +277,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
-        "1579390107": {
-            "ads.iafrica.com": "INACTIVE"
-        },
         "1579390108": {
             "ads.linuxjournal.com": "INACTIVE",
             "ads.linuxsecurity.com": "INACTIVE",
@@ -589,6 +586,9 @@
         },
         "1579582919": {
             "ads.hideyourarms.com": "INACTIVE"
+        },
+        "1579587662": {
+            "ads.iafrica.com": "INACTIVE"
         }
     }
 }
