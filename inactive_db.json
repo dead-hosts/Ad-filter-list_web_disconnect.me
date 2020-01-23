@@ -509,12 +509,6 @@
         "1579433458": {
             "banners.babylon-x.com": "INACTIVE"
         },
-        "1579672625": {
-            "ads.hardwaresecrets.com": "INACTIVE"
-        },
-        "1579693800": {
-            "ads.hideyourarms.com": "INACTIVE"
-        },
         "1579719145": {
             "ads.iafrica.com": "INACTIVE"
         },
@@ -588,6 +582,10 @@
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE",
             "ads.groundspeak.com": "INACTIVE"
+        },
+        "1579809838": {
+            "ads.hardwaresecrets.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE"
         }
     }
 }
