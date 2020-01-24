@@ -513,8 +513,6 @@
             "ads.iafrica.com": "INACTIVE"
         },
         "1579756600": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE",
             "ads.groundspeak.com": "INACTIVE"
         },
         "1579809838": {
@@ -582,6 +580,10 @@
             "ads.foxkidseurope.net": "INACTIVE",
             "ads.futurenet.com": "INACTIVE",
             "ads.gameforgeads.de": "INACTIVE"
+        },
+        "1579867821": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE"
         }
     }
 }
