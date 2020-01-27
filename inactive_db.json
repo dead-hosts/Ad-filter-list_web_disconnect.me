@@ -509,10 +509,6 @@
         "1579433458": {
             "banners.babylon-x.com": "INACTIVE"
         },
-        "1580058868": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE"
-        },
         "1580066662": {
             "ads.hideyourarms.com": "INACTIVE"
         },
@@ -589,6 +585,10 @@
             "ads.foxkidseurope.net": "INACTIVE",
             "ads.futurenet.com": "INACTIVE",
             "ads.gameforgeads.de": "INACTIVE"
+        },
+        "1580146945": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE"
         }
     }
 }
