@@ -278,17 +278,6 @@
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
         "1579393409": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
-            "adserv.qconline.com": "INACTIVE",
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE",
-            "adserver.clashmusic.com": "INACTIVE",
-            "adserver.dotcommedia.de": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.freenet.de": "INACTIVE",
-            "adserver.motorpresse.de": "INACTIVE",
             "adserver.portalofevil.com": "INACTIVE",
             "adserver.startnow.com": "INACTIVE",
             "adserver1.mokono.com": "INACTIVE",
@@ -462,17 +451,6 @@
         "1579433458": {
             "banners.babylon-x.com": "INACTIVE"
         },
-        "1580131572": {
-            "ads.eatinparis.com": "INACTIVE",
-            "ads.esmas.com": "INACTIVE",
-            "ads.expedia.com": "INACTIVE",
-            "ads.ezboard.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "ads.foxkidseurope.net": "INACTIVE",
-            "ads.futurenet.com": "INACTIVE",
-            "ads.gameforgeads.de": "INACTIVE"
-        },
         "1580146945": {
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
@@ -591,6 +569,30 @@
             "ads.cricbuzz.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
             "ads.discovery.com": "INACTIVE"
+        },
+        "1580220476": {
+            "ads.eatinparis.com": "INACTIVE",
+            "ads.esmas.com": "INACTIVE",
+            "ads.expedia.com": "INACTIVE",
+            "ads.ezboard.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "ads.foxkidseurope.net": "INACTIVE",
+            "ads.futurenet.com": "INACTIVE",
+            "ads.gameforgeads.de": "INACTIVE"
+        },
+        "1580220477": {
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserv.iafrica.com": "INACTIVE",
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE",
+            "adserver.clashmusic.com": "INACTIVE",
+            "adserver.dotcommedia.de": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE",
+            "adserver.freenet.de": "INACTIVE",
+            "adserver.motorpresse.de": "INACTIVE"
         }
     }
 }
