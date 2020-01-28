@@ -278,10 +278,6 @@
     },
     "/home/travis/build/dead-hosts/Ad-filter-list_web_disconnect.me/domains.list": {
         "1579393409": {
-            "adserver.portalofevil.com": "INACTIVE",
-            "adserver.startnow.com": "INACTIVE",
-            "adserver1.mokono.com": "INACTIVE",
-            "adserver2.popdata.de": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE"
         },
@@ -451,10 +447,6 @@
         "1579433458": {
             "banners.babylon-x.com": "INACTIVE"
         },
-        "1580146945": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE"
-        },
         "1580167542": {
             "ads.brabys.com": "INACTIVE"
         },
@@ -593,6 +585,16 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE",
             "adserver.motorpresse.de": "INACTIVE"
+        },
+        "1580235644": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE"
+        },
+        "1580235645": {
+            "adserver.portalofevil.com": "INACTIVE",
+            "adserver.startnow.com": "INACTIVE",
+            "adserver1.mokono.com": "INACTIVE",
+            "adserver2.popdata.de": "INACTIVE"
         }
     }
 }
