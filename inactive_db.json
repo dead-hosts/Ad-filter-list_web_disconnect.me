@@ -448,9 +448,6 @@
             "banners.babylon-x.com": "INACTIVE"
         },
         "1580220477": {
-            "adserv.qconline.com": "INACTIVE",
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE",
             "adserver.clashmusic.com": "INACTIVE",
             "adserver.dotcommedia.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
@@ -611,6 +608,11 @@
             "adserv.evo-x.de": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE"
+        },
+        "1580338958": {
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
