@@ -461,9 +461,6 @@
             "adserver2.popdata.de": "INACTIVE"
         },
         "1580307461": {
-            "ads.wunderground.com": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
         },
         "1580323788": {
@@ -605,6 +602,12 @@
             "ads.v3.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
+        },
+        "1580409013": {
+            "ads.wunderground.com": "INACTIVE"
+        },
+        "1580409014": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
