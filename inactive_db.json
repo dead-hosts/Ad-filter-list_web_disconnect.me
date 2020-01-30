@@ -461,24 +461,8 @@
             "adserver2.popdata.de": "INACTIVE"
         },
         "1580301609": {
-            "ads.t-online.de": "INACTIVE",
-            "ads.techweb.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.theglobeandmail.com": "INACTIVE",
-            "ads.thewebfreaks.com": "INACTIVE",
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE"
-        },
-        "1580307460": {
-            "ads.eatinparis.com": "INACTIVE",
-            "ads.esmas.com": "INACTIVE",
-            "ads.expedia.com": "INACTIVE",
-            "ads.ezboard.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "ads.foxkidseurope.net": "INACTIVE",
-            "ads.futurenet.com": "INACTIVE",
-            "ads.gameforgeads.de": "INACTIVE"
         },
         "1580307461": {
             "ads.tripod.spray.se": "INACTIVE",
@@ -489,9 +473,6 @@
             "ads.yourfreedvds.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1580310516": {
-            "ads.detelefoongids.nl": "INACTIVE"
         },
         "1580323788": {
             "ads.globeandmail.com": "INACTIVE",
@@ -606,6 +587,24 @@
             "ads.datinggold.com": "INACTIVE",
             "ads.discovery.com": "INACTIVE",
             "ads.kinxxx.com": "INACTIVE"
+        },
+        "1580397467": {
+            "ads.eatinparis.com": "INACTIVE",
+            "ads.esmas.com": "INACTIVE",
+            "ads.expedia.com": "INACTIVE",
+            "ads.ezboard.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "ads.foxkidseurope.net": "INACTIVE",
+            "ads.futurenet.com": "INACTIVE",
+            "ads.gameforgeads.de": "INACTIVE"
+        },
+        "1580397468": {
+            "ads.t-online.de": "INACTIVE",
+            "ads.techweb.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.theglobeandmail.com": "INACTIVE",
+            "ads.thewebfreaks.com": "INACTIVE"
         }
     }
 }
