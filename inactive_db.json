@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580385346": {
-            "ads.einmedia.com": "INACTIVE"
-        },
         "1580389190": {
             "ads.linuxjournal.com": "INACTIVE",
             "ads.linuxsecurity.com": "INACTIVE",
@@ -633,6 +630,10 @@
         "1580470133": {
             "ads.heias.com": "INACTIVE",
             "ads.techtv.com": "INACTIVE"
+        },
+        "1580473932": {
+            "ads.einmedia.com": "INACTIVE",
+            "ads.filmup.com": "INACTIVE"
         }
     }
 }
