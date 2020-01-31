@@ -470,32 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580389190": {
-            "ads.savannahnow.com": "INACTIVE",
-            "ads.slim.com": "INACTIVE",
-            "ads.spoonfeduk.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.stationplay.com": "INACTIVE",
-            "ads.struq.com": "INACTIVE"
-        },
-        "1580397467": {
-            "ads.eatinparis.com": "INACTIVE",
-            "ads.esmas.com": "INACTIVE",
-            "ads.expedia.com": "INACTIVE",
-            "ads.ezboard.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "ads.foxkidseurope.net": "INACTIVE",
-            "ads.futurenet.com": "INACTIVE",
-            "ads.gameforgeads.de": "INACTIVE"
-        },
-        "1580397468": {
-            "ads.t-online.de": "INACTIVE",
-            "ads.techweb.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.theglobeandmail.com": "INACTIVE",
-            "ads.thewebfreaks.com": "INACTIVE"
-        },
         "1580401204": {
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE",
@@ -632,6 +606,30 @@
             "ads.cricbuzz.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
             "ads.discovery.com": "INACTIVE"
+        },
+        "1580485268": {
+            "ads.eatinparis.com": "INACTIVE",
+            "ads.esmas.com": "INACTIVE",
+            "ads.expedia.com": "INACTIVE",
+            "ads.ezboard.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "ads.foxkidseurope.net": "INACTIVE",
+            "ads.futurenet.com": "INACTIVE",
+            "ads.gameforgeads.de": "INACTIVE"
+        },
+        "1580485269": {
+            "ads.savannahnow.com": "INACTIVE",
+            "ads.slim.com": "INACTIVE",
+            "ads.spoonfeduk.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.stationplay.com": "INACTIVE",
+            "ads.struq.com": "INACTIVE",
+            "ads.t-online.de": "INACTIVE",
+            "ads.techweb.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.theglobeandmail.com": "INACTIVE",
+            "ads.thewebfreaks.com": "INACTIVE"
         }
     }
 }
