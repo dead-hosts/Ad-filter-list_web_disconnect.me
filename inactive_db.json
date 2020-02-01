@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580454744": {
-            "ads.groundspeak.com": "INACTIVE"
-        },
         "1580462508": {
             "ads.hardwaresecrets.com": "INACTIVE"
         },
@@ -616,6 +613,9 @@
         },
         "1580532268": {
             "ads.scifi.com": "INACTIVE"
+        },
+        "1580543629": {
+            "ads.groundspeak.com": "INACTIVE"
         }
     }
 }
