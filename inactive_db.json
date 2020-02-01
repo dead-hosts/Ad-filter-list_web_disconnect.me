@@ -470,15 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580439701": {
-            "adimages.omroepzeeland.nl": "INACTIVE"
-        },
-        "1580439702": {
-            "ads.crakmedia.com": "INACTIVE"
-        },
-        "1580439703": {
-            "ads.iafrica.com": "INACTIVE"
-        },
         "1580443426": {
             "ads.brain.pk": "INACTIVE"
         },
@@ -624,6 +615,10 @@
         },
         "1580524465": {
             "ads.hideyourarms.com": "INACTIVE"
+        },
+        "1580528490": {
+            "ads.iafrica.com": "INACTIVE",
+            "ads.newsquest.co.uk": "INACTIVE"
         }
     }
 }
