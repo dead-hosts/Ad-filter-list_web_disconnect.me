@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580443426": {
-            "ads.brain.pk": "INACTIVE"
-        },
         "1580447523": {
             "ads.bloomberg.com": "INACTIVE"
         },
@@ -619,6 +616,12 @@
         "1580528490": {
             "ads.iafrica.com": "INACTIVE",
             "ads.newsquest.co.uk": "INACTIVE"
+        },
+        "1580532266": {
+            "ad.choiceradio.com": "INACTIVE"
+        },
+        "1580532268": {
+            "ads.scifi.com": "INACTIVE"
         }
     }
 }
