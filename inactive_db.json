@@ -473,31 +473,6 @@
         "1580516519": {
             "ads1.theglobeandmail.com": "INACTIVE"
         },
-        "1580566948": {
-            "ads.heias.com": "INACTIVE",
-            "ads.linuxjournal.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.moceanads.com": "INACTIVE",
-            "ads.movieflix.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "ads.netclusive.de": "INACTIVE",
-            "ads.netmechanic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.newtention.net": "INACTIVE",
-            "ads.nwsource.com": "INACTIVE",
-            "ads.olivebrandresponse.com": "INACTIVE",
-            "ads.ookla.com": "INACTIVE",
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.pheedo.com": "INACTIVE",
-            "ads.pickmeup-ltd.com": "INACTIVE",
-            "ads.pkr.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "ads.returnpath.net": "INACTIVE",
-            "ads.rottentomatoes.com": "INACTIVE",
-            "ads.s3.sitepoint.com": "INACTIVE"
-        },
         "1580570509": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.aproductmsg.com": "INACTIVE",
@@ -624,6 +599,30 @@
             "ads.crakmedia.com": "INACTIVE",
             "ads.ft.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE"
+        },
+        "1580654677": {
+            "ads.linuxjournal.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "ads.moceanads.com": "INACTIVE",
+            "ads.movieflix.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.netclusive.de": "INACTIVE",
+            "ads.netmechanic.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE",
+            "ads.newtention.net": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE",
+            "ads.olivebrandresponse.com": "INACTIVE",
+            "ads.ookla.com": "INACTIVE",
+            "ads.penny-arcade.com": "INACTIVE",
+            "ads.pheedo.com": "INACTIVE",
+            "ads.pickmeup-ltd.com": "INACTIVE",
+            "ads.pkr.com": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "ads.returnpath.net": "INACTIVE",
+            "ads.rottentomatoes.com": "INACTIVE",
+            "ads.s3.sitepoint.com": "INACTIVE"
         }
     }
 }
