@@ -473,28 +473,8 @@
         "1580516519": {
             "ads1.theglobeandmail.com": "INACTIVE"
         },
-        "1580524465": {
-            "ads.hideyourarms.com": "INACTIVE"
-        },
-        "1580528490": {
-            "ads.iafrica.com": "INACTIVE",
-            "ads.newsquest.co.uk": "INACTIVE"
-        },
-        "1580532266": {
-            "ad.choiceradio.com": "INACTIVE"
-        },
         "1580532268": {
             "ads.scifi.com": "INACTIVE"
-        },
-        "1580543629": {
-            "ads.groundspeak.com": "INACTIVE"
-        },
-        "1580547491": {
-            "ad.doctissimo.fr": "INACTIVE"
-        },
-        "1580551348": {
-            "ads.ft.com": "INACTIVE",
-            "ads.hardwaresecrets.com": "INACTIVE"
         },
         "1580559124": {
             "ads.crakmedia.com": "INACTIVE"
@@ -624,6 +604,13 @@
         },
         "1580597838": {
             "ads.bloomberg.com": "INACTIVE"
+        },
+        "1580641203": {
+            "ads.groundspeak.com": "INACTIVE",
+            "ads.hardwaresecrets.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.motor-forum.nl": "INACTIVE"
         }
     }
 }
