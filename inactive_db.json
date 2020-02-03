@@ -470,18 +470,8 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580641203": {
-            "ads.groundspeak.com": "INACTIVE",
-            "ads.hardwaresecrets.com": "INACTIVE",
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.motor-forum.nl": "INACTIVE"
-        },
         "1580643281": {
             "ad.doctissimo.fr": "INACTIVE"
-        },
-        "1580643282": {
-            "ads.scifi.com": "INACTIVE"
         },
         "1580645242": {
             "ad.choiceradio.com": "INACTIVE"
@@ -645,6 +635,13 @@
         },
         "1580726055": {
             "ads.bloomberg.com": "INACTIVE"
+        },
+        "1580730028": {
+            "ads.groundspeak.com": "INACTIVE",
+            "ads.hardwaresecrets.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.motor-forum.nl": "INACTIVE"
         }
     }
 }
