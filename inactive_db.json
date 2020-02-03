@@ -470,12 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580643281": {
-            "ad.doctissimo.fr": "INACTIVE"
-        },
-        "1580645242": {
-            "ad.choiceradio.com": "INACTIVE"
-        },
         "1580648908": {
             "ad.scanmedios.com": "INACTIVE"
         },
@@ -642,6 +636,9 @@
             "ads.hideyourarms.com": "INACTIVE",
             "ads.iafrica.com": "INACTIVE",
             "ads.motor-forum.nl": "INACTIVE"
+        },
+        "1580734075": {
+            "ad.choiceradio.com": "INACTIVE"
         }
     }
 }
