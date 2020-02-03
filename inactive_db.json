@@ -470,21 +470,8 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580656628": {
-            "ads.wwe.biz": "INACTIVE"
-        },
         "1580666573": {
-            "ads.tripod.spray.se": "INACTIVE",
-            "ads.v3.com": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1580672154": {
-            "ads.edbindex.dk": "INACTIVE"
-        },
-        "1580674562": {
-            "ads.wunderground.com": "INACTIVE"
         },
         "1580678173": {
             "ads03.redtube.com": "INACTIVE"
@@ -636,6 +623,13 @@
             "ads.recoletos.es": "INACTIVE",
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE"
+        },
+        "1580761631": {
+            "ads.tripod.spray.se": "INACTIVE",
+            "ads.v3.com": "INACTIVE",
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads.wunderground.com": "INACTIVE"
         }
     }
 }
