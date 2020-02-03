@@ -470,15 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580648908": {
-            "ad.scanmedios.com": "INACTIVE"
-        },
-        "1580650859": {
-            "ads.einmedia.com": "INACTIVE"
-        },
-        "1580650860": {
-            "ads.trinitymirror.co.uk": "INACTIVE"
-        },
         "1580652617": {
             "ads.crakmedia.com": "INACTIVE",
             "ads.ft.com": "INACTIVE",
@@ -639,6 +630,14 @@
         },
         "1580734075": {
             "ad.choiceradio.com": "INACTIVE"
+        },
+        "1580738097": {
+            "ad.bnmla.com": "INACTIVE",
+            "ad.doctissimo.fr": "INACTIVE"
+        },
+        "1580738099": {
+            "ads.einmedia.com": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE"
         }
     }
 }
