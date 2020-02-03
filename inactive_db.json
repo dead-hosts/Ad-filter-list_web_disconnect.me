@@ -474,8 +474,6 @@
             "ads.wwe.biz": "INACTIVE"
         },
         "1580666573": {
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE",
             "ads.v3.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
@@ -633,6 +631,11 @@
             "ads.telegraph.co.uk": "INACTIVE",
             "ads.theglobeandmail.com": "INACTIVE",
             "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1580757545": {
+            "ads.recoletos.es": "INACTIVE",
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE"
         }
     }
 }
