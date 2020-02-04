@@ -471,7 +471,6 @@
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1580757545": {
-            "ads.recoletos.es": "INACTIVE",
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE"
         },
@@ -628,6 +627,9 @@
             "ads.telegraph.co.uk": "INACTIVE",
             "ads.theglobeandmail.com": "INACTIVE",
             "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1580845741": {
+            "ad.bnmla.com": "INACTIVE"
         }
     }
 }
