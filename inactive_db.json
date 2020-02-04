@@ -470,12 +470,7 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580738097": {
-            "ad.bnmla.com": "INACTIVE",
-            "ad.doctissimo.fr": "INACTIVE"
-        },
         "1580738099": {
-            "ads.einmedia.com": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE"
         },
         "1580741863": {
@@ -633,6 +628,12 @@
         },
         "1580821151": {
             "ad.choiceradio.com": "INACTIVE"
+        },
+        "1580825122": {
+            "ad.twitchguru.com": "INACTIVE"
+        },
+        "1580825123": {
+            "ads.einmedia.com": "INACTIVE"
         }
     }
 }
