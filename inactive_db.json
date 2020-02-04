@@ -470,15 +470,7 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580757545": {
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE"
-        },
         "1580761631": {
-            "ads.tripod.spray.se": "INACTIVE",
-            "ads.v3.com": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
             "ads.wunderground.com": "INACTIVE"
         },
         "1580765865": {
@@ -630,6 +622,15 @@
         },
         "1580845741": {
             "ad.bnmla.com": "INACTIVE"
+        },
+        "1580850015": {
+            "ads.flooble.com": "INACTIVE",
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE",
+            "ads.v3.com": "INACTIVE",
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE"
         }
     }
 }
