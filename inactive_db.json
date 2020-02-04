@@ -473,22 +473,6 @@
         "1580738099": {
             "ads.trinitymirror.co.uk": "INACTIVE"
         },
-        "1580741863": {
-            "ads.ft.com": "INACTIVE"
-        },
-        "1580741864": {
-            "ads.linuxjournal.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.moceanads.com": "INACTIVE",
-            "ads.movieflix.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "ads.netclusive.de": "INACTIVE",
-            "ads.netmechanic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.newtention.net": "INACTIVE",
-            "ads.nwsource.com": "INACTIVE"
-        },
         "1580745835": {
             "ad.aboutit.de": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
@@ -634,6 +618,19 @@
         },
         "1580825123": {
             "ads.einmedia.com": "INACTIVE"
+        },
+        "1580829186": {
+            "ads.linuxjournal.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "ads.moceanads.com": "INACTIVE",
+            "ads.movieflix.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.netclusive.de": "INACTIVE",
+            "ads.netmechanic.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE",
+            "ads.newtention.net": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE"
         }
     }
 }
