@@ -470,16 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580726055": {
-            "ads.bloomberg.com": "INACTIVE"
-        },
-        "1580730028": {
-            "ads.groundspeak.com": "INACTIVE",
-            "ads.hardwaresecrets.com": "INACTIVE",
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.motor-forum.nl": "INACTIVE"
-        },
         "1580734075": {
             "ad.choiceradio.com": "INACTIVE"
         },
@@ -634,6 +624,15 @@
         "1580790124": {
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1580817359": {
+            "ads.bloomberg.com": "INACTIVE",
+            "ads.brabys.com": "INACTIVE",
+            "ads.groundspeak.com": "INACTIVE",
+            "ads.hardwaresecrets.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.motor-forum.nl": "INACTIVE"
         }
     }
 }
