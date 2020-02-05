@@ -474,17 +474,9 @@
             "ads1.theglobeandmail.com": "INACTIVE"
         },
         "1580850015": {
-            "ads.flooble.com": "INACTIVE",
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE",
             "ads.v3.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
-        },
-        "1580853669": {
-            "ads.edbindex.dk": "INACTIVE",
-            "ads.trinitymirror.co.uk": "INACTIVE"
         },
         "1580857893": {
             "ad.doctissimo.fr": "INACTIVE"
@@ -664,6 +656,12 @@
         },
         "1580933177": {
             "ads.brabys.com": "INACTIVE"
+        },
+        "1580942250": {
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE"
         }
     }
 }
