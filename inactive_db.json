@@ -473,9 +473,6 @@
         "1580790124": {
             "ads1.theglobeandmail.com": "INACTIVE"
         },
-        "1580821151": {
-            "ad.choiceradio.com": "INACTIVE"
-        },
         "1580825122": {
             "ad.twitchguru.com": "INACTIVE"
         },
@@ -657,6 +654,13 @@
             "ads.hardwaresecrets.com": "INACTIVE",
             "ads.hideyourarms.com": "INACTIVE",
             "ads.iafrica.com": "INACTIVE"
+        },
+        "1580909701": {
+            "ad.choiceradio.com": "INACTIVE"
+        },
+        "1580909703": {
+            "ads.bloomberg.com": "INACTIVE",
+            "ads.motor-forum.nl": "INACTIVE"
         }
     }
 }
