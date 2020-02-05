@@ -473,10 +473,6 @@
         "1580761631": {
             "ads.wunderground.com": "INACTIVE"
         },
-        "1580774228": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE"
-        },
         "1580778294": {
             "adimages.omroepzeeland.nl": "INACTIVE"
         },
@@ -632,6 +628,11 @@
         },
         "1580857893": {
             "ad.doctissimo.fr": "INACTIVE"
+        },
+        "1580861777": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE"
         }
     }
 }
