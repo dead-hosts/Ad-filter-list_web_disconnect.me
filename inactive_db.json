@@ -473,19 +473,6 @@
         "1580790124": {
             "ads1.theglobeandmail.com": "INACTIVE"
         },
-        "1580829186": {
-            "ads.linuxjournal.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.moceanads.com": "INACTIVE",
-            "ads.movieflix.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "ads.netclusive.de": "INACTIVE",
-            "ads.netmechanic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.newtention.net": "INACTIVE",
-            "ads.nwsource.com": "INACTIVE"
-        },
         "1580833064": {
             "ad.aboutit.de": "INACTIVE"
         },
@@ -661,6 +648,20 @@
         },
         "1580913493": {
             "ads.einmedia.com": "INACTIVE"
+        },
+        "1580917250": {
+            "ads.linuxjournal.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "ads.moceanads.com": "INACTIVE",
+            "ads.movieflix.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.netclusive.de": "INACTIVE",
+            "ads.netmechanic.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE",
+            "ads.newtention.net": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE",
+            "ads.nytimes.com": "INACTIVE"
         }
     }
 }
