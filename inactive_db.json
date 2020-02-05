@@ -473,15 +473,6 @@
         "1580790124": {
             "ads1.theglobeandmail.com": "INACTIVE"
         },
-        "1580817359": {
-            "ads.bloomberg.com": "INACTIVE",
-            "ads.brabys.com": "INACTIVE",
-            "ads.groundspeak.com": "INACTIVE",
-            "ads.hardwaresecrets.com": "INACTIVE",
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.motor-forum.nl": "INACTIVE"
-        },
         "1580821151": {
             "ad.choiceradio.com": "INACTIVE"
         },
@@ -660,6 +651,12 @@
         "1580898370": {
             "ad.100.tbn.ru": "INACTIVE",
             "ad.tbn.ru": "INACTIVE"
+        },
+        "1580906096": {
+            "ads.groundspeak.com": "INACTIVE",
+            "ads.hardwaresecrets.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE"
         }
     }
 }
