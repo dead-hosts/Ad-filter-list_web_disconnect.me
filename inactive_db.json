@@ -473,12 +473,6 @@
         "1580790124": {
             "ads1.theglobeandmail.com": "INACTIVE"
         },
-        "1580825122": {
-            "ad.twitchguru.com": "INACTIVE"
-        },
-        "1580825123": {
-            "ads.einmedia.com": "INACTIVE"
-        },
         "1580829186": {
             "ads.linuxjournal.com": "INACTIVE",
             "ads.linuxsecurity.com": "INACTIVE",
@@ -661,6 +655,12 @@
         "1580909703": {
             "ads.bloomberg.com": "INACTIVE",
             "ads.motor-forum.nl": "INACTIVE"
+        },
+        "1580913491": {
+            "ad.twitchguru.com": "INACTIVE"
+        },
+        "1580913493": {
+            "ads.einmedia.com": "INACTIVE"
         }
     }
 }
