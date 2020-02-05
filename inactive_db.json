@@ -473,9 +473,6 @@
         "1580761631": {
             "ads.wunderground.com": "INACTIVE"
         },
-        "1580782183": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1580786292": {
             "ad.eurosport.com": "INACTIVE"
         },
@@ -642,6 +639,9 @@
             "ads.avazu.net": "INACTIVE",
             "ads.foxnetworks.com": "INACTIVE",
             "ads.space.com": "INACTIVE"
+        },
+        "1580869625": {
+            "ads.canalblog.com": "INACTIVE"
         }
     }
 }
