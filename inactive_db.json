@@ -471,7 +471,6 @@
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1580790124": {
-            "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
         },
         "1580817359": {
@@ -645,6 +644,15 @@
         "1580876616": {
             "ads.heias.com": "INACTIVE",
             "ads.wunderground.com": "INACTIVE"
+        },
+        "1580880272": {
+            "ad.eurosport.com": "INACTIVE"
+        },
+        "1580880273": {
+            "ads.newsquest.co.uk": "INACTIVE"
+        },
+        "1580880274": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
