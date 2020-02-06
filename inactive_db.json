@@ -478,18 +478,6 @@
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
         },
-        "1580865975": {
-            "ad.bizo.com": "INACTIVE",
-            "ad.technoratimedia.com": "INACTIVE"
-        },
-        "1580865976": {
-            "adimages.omroepzeeland.nl": "INACTIVE"
-        },
-        "1580865977": {
-            "ads.avazu.net": "INACTIVE",
-            "ads.foxnetworks.com": "INACTIVE",
-            "ads.space.com": "INACTIVE"
-        },
         "1580869625": {
             "ads.canalblog.com": "INACTIVE"
         },
@@ -658,6 +646,9 @@
         "1580950514": {
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
+        },
+        "1580954662": {
+            "ad.doctissimo.fr": "INACTIVE"
         }
     }
 }
