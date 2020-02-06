@@ -473,15 +473,8 @@
         "1580790124": {
             "ads1.theglobeandmail.com": "INACTIVE"
         },
-        "1580876616": {
-            "ads.wunderground.com": "INACTIVE"
-        },
         "1580880274": {
             "ads03.redtube.com": "INACTIVE"
-        },
-        "1580898370": {
-            "ad.100.tbn.ru": "INACTIVE",
-            "ad.tbn.ru": "INACTIVE"
         },
         "1580906096": {
             "ads.groundspeak.com": "INACTIVE",
@@ -647,6 +640,9 @@
             "ads.recoletos.es": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
+        },
+        "1580986534": {
+            "ads.wunderground.com": "INACTIVE"
         }
     }
 }
