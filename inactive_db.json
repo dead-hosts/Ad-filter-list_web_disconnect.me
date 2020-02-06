@@ -477,14 +477,6 @@
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
         },
-        "1580873123": {
-            "ad.scanmedios.com": "INACTIVE",
-            "adition.de": "INACTIVE"
-        },
-        "1580873124": {
-            "ads.kinxxx.com": "INACTIVE",
-            "ads.mgnetwork.com": "INACTIVE"
-        },
         "1580876616": {
             "ads.heias.com": "INACTIVE",
             "ads.wunderground.com": "INACTIVE"
@@ -652,6 +644,9 @@
         "1580958907": {
             "ads.canalblog.com": "INACTIVE",
             "ads.v3.com": "INACTIVE"
+        },
+        "1580962482": {
+            "ads.space.com": "INACTIVE"
         }
     }
 }
