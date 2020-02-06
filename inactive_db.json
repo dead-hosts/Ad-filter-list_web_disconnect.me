@@ -478,11 +478,6 @@
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
         },
-        "1580861777": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE"
-        },
         "1580865975": {
             "ad.bizo.com": "INACTIVE",
             "ad.technoratimedia.com": "INACTIVE"
@@ -659,6 +654,10 @@
             "ads.tjwi.info": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE"
+        },
+        "1580950514": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE"
         }
     }
 }
