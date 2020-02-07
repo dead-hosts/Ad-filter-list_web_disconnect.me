@@ -470,10 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580991313": {
-            "ads.edbindex.dk": "INACTIVE",
-            "ads.mgnetwork.com": "INACTIVE"
-        },
         "1580995577": {
             "ads.groundspeak.com": "INACTIVE",
             "ads.hardwaresecrets.com": "INACTIVE",
@@ -635,6 +631,12 @@
         },
         "1581075767": {
             "ads.wunderground.com": "INACTIVE"
+        },
+        "1581079212": {
+            "adition.de": "INACTIVE"
+        },
+        "1581079213": {
+            "ads.recoletos.es": "INACTIVE"
         }
     }
 }
