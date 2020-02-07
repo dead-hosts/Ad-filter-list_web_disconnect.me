@@ -470,15 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1580790124": {
-            "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1580880274": {
-            "ads03.redtube.com": "INACTIVE"
-        },
-        "1580975190": {
-            "ads.newsquest.co.uk": "INACTIVE"
-        },
         "1580982792": {
             "ad.eurosport.com": "INACTIVE"
         },
@@ -644,6 +635,10 @@
         },
         "1581058242": {
             "ads.brabys.com": "INACTIVE"
+        },
+        "1581061736": {
+            "ads03.redtube.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE"
         }
     }
 }
