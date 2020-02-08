@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581092150": {
-            "ad.twitchguru.com": "INACTIVE"
-        },
         "1581097799": {
             "ad.aboutit.de": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
@@ -621,6 +618,9 @@
         },
         "1581177305": {
             "ads.edbindex.dk": "INACTIVE"
+        },
+        "1581180933": {
+            "ad.twitchguru.com": "INACTIVE"
         }
     }
 }
