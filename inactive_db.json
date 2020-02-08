@@ -470,12 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581041009": {
-            "ads.yourfreedvds.com": "INACTIVE"
-        },
-        "1581044045": {
-            "ads.trinitymirror.co.uk": "INACTIVE"
-        },
         "1581047456": {
             "ads.canalblog.com": "INACTIVE"
         },
@@ -631,6 +625,13 @@
         "1581127076": {
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
+        },
+        "1581130615": {
+            "ad.eurosport.com": "INACTIVE"
+        },
+        "1581130617": {
+            "ads.newsquest.co.uk": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE"
         }
     }
 }
