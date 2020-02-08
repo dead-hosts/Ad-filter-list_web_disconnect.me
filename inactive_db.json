@@ -470,12 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581047456": {
-            "ads.canalblog.com": "INACTIVE"
-        },
-        "1581047457": {
-            "ads.v3.com": "INACTIVE"
-        },
         "1581051069": {
             "ad.doctissimo.fr": "INACTIVE"
         },
@@ -632,6 +626,11 @@
         "1581130617": {
             "ads.newsquest.co.uk": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE"
+        },
+        "1581134110": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.heias.com": "INACTIVE",
+            "ads.v3.com": "INACTIVE"
         }
     }
 }
