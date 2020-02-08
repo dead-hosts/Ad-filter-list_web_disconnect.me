@@ -470,14 +470,7 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581058241": {
-            "adimages.omroepzeeland.nl": "INACTIVE"
-        },
-        "1581058242": {
-            "ads.brabys.com": "INACTIVE"
-        },
         "1581061736": {
-            "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
         },
         "1581072144": {
@@ -625,6 +618,9 @@
             "ads.canalblog.com": "INACTIVE",
             "ads.heias.com": "INACTIVE",
             "ads.v3.com": "INACTIVE"
+        },
+        "1581148327": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
