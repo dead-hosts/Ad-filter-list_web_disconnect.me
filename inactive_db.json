@@ -460,9 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1581270446": {
-            "ad.twitchguru.com": "INACTIVE"
-        },
         "1581274137": {
             "ad.aboutit.de": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
@@ -613,6 +610,9 @@
             "ads.hardwaresecrets.com": "INACTIVE",
             "ads.hideyourarms.com": "INACTIVE",
             "ads.iafrica.com": "INACTIVE"
+        },
+        "1581359272": {
+            "ad.twitchguru.com": "INACTIVE"
         }
     }
 }
