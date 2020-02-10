@@ -470,10 +470,6 @@
             "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE"
         },
-        "1581223975": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.v3.com": "INACTIVE"
-        },
         "1581235409": {
             "ads03.redtube.com": "INACTIVE"
         },
@@ -612,6 +608,13 @@
         "1581305390": {
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
+        },
+        "1581313133": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.datingyes.com": "INACTIVE"
+        },
+        "1581313134": {
+            "ads.v3.com": "INACTIVE"
         }
     }
 }
