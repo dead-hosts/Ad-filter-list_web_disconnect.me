@@ -465,9 +465,6 @@
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1581208354": {
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE",
             "adserv.evo-x.de": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
@@ -610,6 +607,11 @@
         },
         "1581290099": {
             "ads.resoom.de": "INACTIVE"
+        },
+        "1581297648": {
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE"
         }
     }
 }
