@@ -460,19 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1580338958": {
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
-        "1581208354": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
-            "adserv.qconline.com": "INACTIVE"
-        },
-        "1581243133": {
-            "ads1.theglobeandmail.com": "INACTIVE"
-        },
         "1581247026": {
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
@@ -616,6 +603,15 @@
         "1581324505": {
             "ads.edbindex.dk": "INACTIVE",
             "ads03.redtube.com": "INACTIVE"
+        },
+        "1581332219": {
+            "ads1.theglobeandmail.com": "INACTIVE",
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserv.iafrica.com": "INACTIVE",
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
