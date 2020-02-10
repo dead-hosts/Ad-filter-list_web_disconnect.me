@@ -460,12 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1581251152": {
-            "ads.scifi.com": "INACTIVE"
-        },
-        "1581251153": {
-            "ads.wunderground.com": "INACTIVE"
-        },
         "1581254791": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -612,6 +606,9 @@
         "1581335942": {
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
+        },
+        "1581339741": {
+            "ads.wunderground.com": "INACTIVE"
         }
     }
 }
