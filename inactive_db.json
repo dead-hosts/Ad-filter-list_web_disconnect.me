@@ -461,17 +461,11 @@
             "adserver2.popdata.de": "INACTIVE"
         },
         "1581332219": {
-            "ads1.theglobeandmail.com": "INACTIVE",
-            "adserv.evo-x.de": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
-        },
-        "1581335942": {
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE"
         },
         "1581339741": {
             "ads.wunderground.com": "INACTIVE"
@@ -610,6 +604,12 @@
         },
         "1581414398": {
             "ads03.redtube.com": "INACTIVE"
+        },
+        "1581422565": {
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE",
+            "adserv.evo-x.de": "INACTIVE"
         }
     }
 }
