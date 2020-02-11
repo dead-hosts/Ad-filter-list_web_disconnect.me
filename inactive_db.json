@@ -460,11 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1581297648": {
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE"
-        },
         "1581305390": {
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
@@ -610,6 +605,12 @@
         },
         "1581379291": {
             "ads.resoom.de": "INACTIVE"
+        },
+        "1581387377": {
+            "ads.brabys.com": "INACTIVE",
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE"
         }
     }
 }
