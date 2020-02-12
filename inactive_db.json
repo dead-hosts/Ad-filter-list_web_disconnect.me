@@ -461,9 +461,6 @@
             "adserver2.popdata.de": "INACTIVE"
         },
         "1581422565": {
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE",
             "adserv.evo-x.de": "INACTIVE"
         },
         "1581426139": {
@@ -610,6 +607,11 @@
         },
         "1581503493": {
             "ads03.redtube.com": "INACTIVE"
+        },
+        "1581511275": {
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE"
         }
     }
 }
