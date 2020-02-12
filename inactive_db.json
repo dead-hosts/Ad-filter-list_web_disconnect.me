@@ -470,13 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581433971": {
-            "ad.scanmedios.com": "INACTIVE"
-        },
-        "1581433973": {
-            "ads.kinxxx.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE"
-        },
         "1581437551": {
             "ads.groundspeak.com": "INACTIVE"
         },
@@ -612,6 +605,9 @@
         },
         "1581518609": {
             "ads.wunderground.com": "INACTIVE"
+        },
+        "1581522270": {
+            "ads.recoletos.es": "INACTIVE"
         }
     }
 }
