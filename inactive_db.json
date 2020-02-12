@@ -460,9 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1581379291": {
-            "ads.resoom.de": "INACTIVE"
-        },
         "1581387377": {
             "ads.brabys.com": "INACTIVE",
             "ads.timeout.com": "INACTIVE",
@@ -612,6 +609,9 @@
             "ads.telegraph.co.uk": "INACTIVE",
             "ads.theglobeandmail.com": "INACTIVE",
             "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1581469202": {
+            "ads.resoom.de": "INACTIVE"
         }
     }
 }
