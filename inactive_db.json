@@ -460,13 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1581395230": {
-            "ads.globeandmail.com": "INACTIVE"
-        },
-        "1581395231": {
-            "ads.godlikeproductions.com": "INACTIVE",
-            "ads.scifi.com": "INACTIVE"
-        },
         "1581402971": {
             "ads.canalblog.com": "INACTIVE",
             "ads.v3.com": "INACTIVE"
@@ -611,6 +604,10 @@
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE"
+        },
+        "1581484576": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE"
         }
     }
 }
