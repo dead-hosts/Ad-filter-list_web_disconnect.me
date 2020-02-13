@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581469202": {
-            "ads.resoom.de": "INACTIVE"
-        },
         "1581476942": {
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE",
@@ -608,6 +605,9 @@
             "ads.telegraph.co.uk": "INACTIVE",
             "ads.theglobeandmail.com": "INACTIVE",
             "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1581556354": {
+            "ads.resoom.de": "INACTIVE"
         }
     }
 }
