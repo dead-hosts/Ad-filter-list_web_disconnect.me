@@ -461,7 +461,6 @@
             "adserver2.popdata.de": "INACTIVE"
         },
         "1581593777": {
-            "ads03.redtube.com": "INACTIVE",
             "adserv.evo-x.de": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
@@ -600,6 +599,9 @@
         "1581666780": {
             "ads.canalblog.com": "INACTIVE",
             "ads.v3.com": "INACTIVE"
+        },
+        "1581682759": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
