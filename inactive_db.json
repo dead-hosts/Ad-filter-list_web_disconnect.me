@@ -470,12 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581756216": {
-            "ads.canalblog.com": "INACTIVE"
-        },
-        "1581756217": {
-            "ads.v3.com": "INACTIVE"
-        },
         "1581771776": {
             "ads.kinxxx.com": "INACTIVE"
         },
@@ -612,6 +606,10 @@
         "1581837981": {
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
+        },
+        "1581845622": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.v3.com": "INACTIVE"
         }
     }
 }
