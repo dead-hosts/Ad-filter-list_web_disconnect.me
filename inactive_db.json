@@ -466,9 +466,6 @@
             "adserv.iafrica.com": "INACTIVE"
         },
         "1581741058": {
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE",
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
@@ -610,6 +607,11 @@
         },
         "1581822890": {
             "ads.resoom.de": "INACTIVE"
+        },
+        "1581830603": {
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE"
         }
     }
 }
