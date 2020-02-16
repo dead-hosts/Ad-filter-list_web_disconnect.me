@@ -465,9 +465,6 @@
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE"
         },
-        "1581733499": {
-            "ads.resoom.de": "INACTIVE"
-        },
         "1581741058": {
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE",
@@ -610,6 +607,9 @@
             "ads.telegraph.co.uk": "INACTIVE",
             "ads.theglobeandmail.com": "INACTIVE",
             "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1581822890": {
+            "ads.resoom.de": "INACTIVE"
         }
     }
 }
