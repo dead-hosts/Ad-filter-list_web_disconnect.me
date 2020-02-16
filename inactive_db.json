@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581783096": {
-            "ads.wunderground.com": "INACTIVE"
-        },
         "1581787281": {
             "adition.de": "INACTIVE"
         },
@@ -607,6 +604,9 @@
         "1581868821": {
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
+        },
+        "1581872447": {
+            "ads.wunderground.com": "INACTIVE"
         }
     }
 }
