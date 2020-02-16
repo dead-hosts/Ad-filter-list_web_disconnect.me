@@ -470,10 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581748737": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE"
-        },
         "1581756216": {
             "ads.canalblog.com": "INACTIVE"
         },
@@ -612,6 +608,10 @@
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE"
+        },
+        "1581837981": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE"
         }
     }
 }
