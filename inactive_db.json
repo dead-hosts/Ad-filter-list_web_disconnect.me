@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581872447": {
-            "ads.wunderground.com": "INACTIVE"
-        },
         "1581876576": {
             "ads.recoletos.es": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
@@ -610,6 +607,9 @@
         "1581957534": {
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
+        },
+        "1581961728": {
+            "ads.wunderground.com": "INACTIVE"
         }
     }
 }
