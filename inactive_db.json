@@ -470,13 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581926783": {
-            "ads.clearchannel.com": "INACTIVE"
-        },
-        "1581926784": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE"
-        },
         "1581934604": {
             "ads.canalblog.com": "INACTIVE"
         },
@@ -616,6 +609,11 @@
         },
         "1582012503": {
             "ads.brabys.com": "INACTIVE"
+        },
+        "1582016633": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE",
+            "ads.networksolutions.com": "INACTIVE"
         }
     }
 }
