@@ -482,12 +482,7 @@
             "ads.spoonfeduk.com": "INACTIVE",
             "ads.sptimes.com": "INACTIVE",
             "ads.stationplay.com": "INACTIVE",
-            "ads.struq.com": "INACTIVE",
-            "ads.t-online.de": "INACTIVE",
-            "ads.techweb.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.theglobeandmail.com": "INACTIVE",
-            "ads.thewebfreaks.com": "INACTIVE"
+            "ads.struq.com": "INACTIVE"
         },
         "1581911123": {
             "ads.resoom.de": "INACTIVE"
@@ -613,6 +608,13 @@
             "ads.pheedo.com": "INACTIVE",
             "ads.pickmeup-ltd.com": "INACTIVE",
             "ads.pkr.com": "INACTIVE"
+        },
+        "1581993823": {
+            "ads.t-online.de": "INACTIVE",
+            "ads.techweb.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.theglobeandmail.com": "INACTIVE",
+            "ads.thewebfreaks.com": "INACTIVE"
         }
     }
 }
