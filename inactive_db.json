@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1581949779": {
-            "ads03.redtube.com": "INACTIVE"
-        },
         "1581957534": {
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
@@ -614,6 +611,9 @@
         },
         "1582024613": {
             "ads.v3.com": "INACTIVE"
+        },
+        "1582040016": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
