@@ -470,11 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1582008906": {
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE"
-        },
         "1582012503": {
             "ads.brabys.com": "INACTIVE"
         },
@@ -612,6 +607,11 @@
         },
         "1582089782": {
             "ads.resoom.de": "INACTIVE"
+        },
+        "1582097639": {
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE"
         }
     }
 }
