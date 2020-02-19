@@ -470,9 +470,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1582001091": {
-            "ads.resoom.de": "INACTIVE"
-        },
         "1582008906": {
             "ads.timeout.com": "INACTIVE",
             "ads.tjwi.info": "INACTIVE",
@@ -612,6 +609,9 @@
             "ads.sptimes.com": "INACTIVE",
             "ads.stationplay.com": "INACTIVE",
             "ads.struq.com": "INACTIVE"
+        },
+        "1582089782": {
+            "ads.resoom.de": "INACTIVE"
         }
     }
 }
