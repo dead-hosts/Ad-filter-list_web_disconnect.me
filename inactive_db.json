@@ -460,10 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1582193408": {
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE"
-        },
         "1582200323": {
             "ads.canalblog.com": "INACTIVE",
             "ads.flooble.com": "INACTIVE",
@@ -607,6 +603,10 @@
         },
         "1582278227": {
             "ads.techtv.com": "INACTIVE"
+        },
+        "1582281515": {
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE"
         }
     }
 }
