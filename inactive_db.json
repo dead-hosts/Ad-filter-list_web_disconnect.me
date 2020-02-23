@@ -468,9 +468,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1582394921": {
-            "ads03.redtube.com": "INACTIVE"
-        },
         "1582402955": {
             "ads.recoletos.es": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
@@ -606,6 +603,9 @@
         },
         "1582468667": {
             "ad0.bigmir.net": "INACTIVE"
+        },
+        "1582484301": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
