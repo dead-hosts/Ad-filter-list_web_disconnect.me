@@ -468,10 +468,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1582374824": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.v3.com": "INACTIVE"
-        },
         "1582394921": {
             "ads03.redtube.com": "INACTIVE"
         },
@@ -603,6 +599,10 @@
         "1582460544": {
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE"
+        },
+        "1582464692": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.v3.com": "INACTIVE"
         }
     }
 }
