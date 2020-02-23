@@ -468,19 +468,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1582351858": {
-            "ads.redtube.com": "INACTIVE",
-            "ads.resoom.de": "INACTIVE",
-            "ads.returnpath.net": "INACTIVE",
-            "ads.rottentomatoes.com": "INACTIVE",
-            "ads.s3.sitepoint.com": "INACTIVE",
-            "ads.savannahnow.com": "INACTIVE",
-            "ads.slim.com": "INACTIVE",
-            "ads.spoonfeduk.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.stationplay.com": "INACTIVE",
-            "ads.struq.com": "INACTIVE"
-        },
         "1582355483": {
             "ads.emirates.net.ae": "INACTIVE"
         },
@@ -609,6 +596,19 @@
             "ads.telegraph.co.uk": "INACTIVE",
             "ads.theglobeandmail.com": "INACTIVE",
             "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1582440821": {
+            "ads.redtube.com": "INACTIVE",
+            "ads.resoom.de": "INACTIVE",
+            "ads.returnpath.net": "INACTIVE",
+            "ads.rottentomatoes.com": "INACTIVE",
+            "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.savannahnow.com": "INACTIVE",
+            "ads.slim.com": "INACTIVE",
+            "ads.spoonfeduk.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.stationplay.com": "INACTIVE",
+            "ads.struq.com": "INACTIVE"
         }
     }
 }
