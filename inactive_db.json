@@ -460,9 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1582484301": {
-            "ads03.redtube.com": "INACTIVE"
-        },
         "1582488074": {
             "ads.yourfreedvds.com": "INACTIVE"
         },
@@ -605,6 +602,9 @@
         },
         "1582554030": {
             "ads.v3.com": "INACTIVE"
+        },
+        "1582574192": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
