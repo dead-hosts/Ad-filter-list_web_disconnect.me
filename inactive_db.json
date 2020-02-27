@@ -461,10 +461,6 @@
             "adserver2.popdata.de": "INACTIVE"
         },
         "1582496002": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
-            "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
@@ -586,6 +582,12 @@
         },
         "1582824234": {
             "ads.edbindex.dk": "INACTIVE"
+        },
+        "1582842667": {
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserv.iafrica.com": "INACTIVE",
+            "adserv.qconline.com": "INACTIVE"
         }
     }
 }
