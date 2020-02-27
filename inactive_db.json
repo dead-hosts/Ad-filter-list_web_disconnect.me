@@ -460,10 +460,6 @@
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
         },
-        "1582496002": {
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
         "1582775702": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -588,6 +584,10 @@
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE"
+        },
+        "1582845568": {
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
