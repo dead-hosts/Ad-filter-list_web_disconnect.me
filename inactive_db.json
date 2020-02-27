@@ -468,13 +468,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1582574192": {
-            "ads03.redtube.com": "INACTIVE"
-        },
-        "1582582502": {
-            "ads.wunderground.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE"
-        },
         "1582775702": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -582,6 +575,11 @@
             "ads.v3.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE"
+        },
+        "1582781737": {
+            "ads.wunderground.com": "INACTIVE",
+            "ads03.redtube.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE"
         }
     }
 }
