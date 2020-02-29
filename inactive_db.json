@@ -448,8 +448,6 @@
             "banners.babylon-x.com": "INACTIVE"
         },
         "1580220477": {
-            "adserver.clashmusic.com": "INACTIVE",
-            "adserver.dotcommedia.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE",
             "adserver.motorpresse.de": "INACTIVE"
@@ -590,6 +588,10 @@
         },
         "1583001033": {
             "ad.m5prod.net": "INACTIVE"
+        },
+        "1583009514": {
+            "adserver.clashmusic.com": "INACTIVE",
+            "adserver.dotcommedia.de": "INACTIVE"
         }
     }
 }
