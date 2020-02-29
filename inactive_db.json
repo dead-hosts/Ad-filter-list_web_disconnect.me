@@ -461,7 +461,6 @@
             "adserver2.popdata.de": "INACTIVE"
         },
         "1582870944": {
-            "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
         },
         "1582906357": {
@@ -588,6 +587,9 @@
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
             "ads.wunderground.com": "INACTIVE"
+        },
+        "1582962099": {
+            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
