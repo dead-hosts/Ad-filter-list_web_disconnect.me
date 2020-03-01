@@ -212,7 +212,7 @@
     "actualdeals.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "acuityads.com": {
         "epoch": 1632528000.0,
@@ -447,7 +447,7 @@
     "adflight.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adforce.com": {
         "epoch": 1596326400.0,
