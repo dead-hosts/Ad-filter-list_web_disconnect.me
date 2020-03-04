@@ -448,8 +448,6 @@
             "banners.babylon-x.com": "INACTIVE"
         },
         "1580220477": {
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.freenet.de": "INACTIVE",
             "adserver.motorpresse.de": "INACTIVE"
         },
         "1580235645": {
@@ -457,16 +455,6 @@
             "adserver.startnow.com": "INACTIVE",
             "adserver1.mokono.com": "INACTIVE",
             "adserver2.popdata.de": "INACTIVE"
-        },
-        "1582932834": {
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
-        "1583009514": {
-            "adserver.clashmusic.com": "INACTIVE",
-            "adserver.dotcommedia.de": "INACTIVE"
-        },
-        "1583273558": {
-            "ads.lesbianpersonals.com": "INACTIVE"
         },
         "1583277834": {
             "adserv.evo-x.de": "INACTIVE",
@@ -597,6 +585,15 @@
         },
         "1583325061": {
             "admerize.be": "INACTIVE"
+        },
+        "1583361594": {
+            "adserver-live.yoc.mobi": "INACTIVE",
+            "adserver.clashmusic.com": "INACTIVE"
+        },
+        "1583361595": {
+            "adserver.dotcommedia.de": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE",
+            "adserver.freenet.de": "INACTIVE"
         }
     }
 }
