@@ -522,26 +522,7 @@
             "ads.gameforgeads.de": "INACTIVE",
             "ads.globeandmail.com": "INACTIVE",
             "ads.godlikeproductions.com": "INACTIVE",
-            "ads.groundspeak.com": "INACTIVE",
-            "ads.hardwaresecrets.com": "INACTIVE",
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.linuxjournal.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.moceanads.com": "INACTIVE",
-            "ads.movieflix.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "ads.netclusive.de": "INACTIVE",
-            "ads.netmechanic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.newtention.net": "INACTIVE",
-            "ads.nwsource.com": "INACTIVE",
-            "ads.olivebrandresponse.com": "INACTIVE",
-            "ads.ookla.com": "INACTIVE",
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.pheedo.com": "INACTIVE",
-            "ads.pickmeup-ltd.com": "INACTIVE"
+            "ads.groundspeak.com": "INACTIVE"
         },
         "1583402244": {
             "ads.pkr.com": "INACTIVE",
@@ -597,6 +578,27 @@
         "1583480956": {
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE"
+        },
+        "1583484870": {
+            "ads.hardwaresecrets.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.linuxjournal.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "ads.moceanads.com": "INACTIVE",
+            "ads.movieflix.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.netclusive.de": "INACTIVE",
+            "ads.netmechanic.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE",
+            "ads.newtention.net": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE",
+            "ads.olivebrandresponse.com": "INACTIVE",
+            "ads.ookla.com": "INACTIVE",
+            "ads.penny-arcade.com": "INACTIVE",
+            "ads.pheedo.com": "INACTIVE",
+            "ads.pickmeup-ltd.com": "INACTIVE"
         }
     }
 }
