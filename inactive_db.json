@@ -465,9 +465,6 @@
             "adserver.freenet.de": "INACTIVE"
         },
         "1583386560": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE"
         },
         "1583394437": {
@@ -597,6 +594,11 @@
         },
         "1583465123": {
             "ads.canalblog.com": "INACTIVE"
+        },
+        "1583473078": {
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserv.iafrica.com": "INACTIVE"
         }
     }
 }
