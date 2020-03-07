@@ -464,12 +464,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1583460950": {
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
-        "1583465123": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1583473078": {
             "adserv.evo-x.de": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
@@ -596,6 +590,10 @@
         },
         "1583517958": {
             "adrotator.se": "INACTIVE"
+        },
+        "1583553999": {
+            "ads.canalblog.com": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
