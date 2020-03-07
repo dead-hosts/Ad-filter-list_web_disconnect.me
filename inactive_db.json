@@ -494,20 +494,6 @@
             "ads.pheedo.com": "INACTIVE",
             "ads.pickmeup-ltd.com": "INACTIVE"
         },
-        "1583488851": {
-            "a.0day.kiev.ua": "INACTIVE",
-            "a.collective-media.net": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE",
-            "accounts.pkr.com.invalid": "INVALID",
-            "ad-images.suntimes.com": "INACTIVE",
-            "ad.aboutit.de": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
-            "ad.directrev.com": "INACTIVE",
-            "ad.e-kolay.net": "INACTIVE",
-            "ad.f1cd.ru": "INACTIVE",
-            "ad.globe7.com": "INACTIVE",
-            "ad.onad.eu": "INACTIVE"
-        },
         "1583488853": {
             "ads.cgnetworks.com": "INACTIVE",
             "ads.cimedia.com": "INACTIVE",
@@ -598,6 +584,20 @@
             "ads.betanews.com": "INACTIVE",
             "ads.betfair.com.au": "INACTIVE",
             "ads.billiton.de": "INACTIVE"
+        },
+        "1583579978": {
+            "a.0day.kiev.ua": "INACTIVE",
+            "a.collective-media.net": "INACTIVE",
+            "a32.g.a.yimg.com": "INACTIVE",
+            "accounts.pkr.com.invalid": "INVALID",
+            "ad-images.suntimes.com": "INACTIVE",
+            "ad.aboutit.de": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.directrev.com": "INACTIVE",
+            "ad.e-kolay.net": "INACTIVE",
+            "ad.f1cd.ru": "INACTIVE",
+            "ad.globe7.com": "INACTIVE",
+            "ad.onad.eu": "INACTIVE"
         }
     }
 }
