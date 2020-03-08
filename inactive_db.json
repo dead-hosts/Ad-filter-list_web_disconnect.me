@@ -473,10 +473,6 @@
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE"
         },
-        "1583501396": {
-            "ads03.redtube.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE"
-        },
         "1583553999": {
             "adserver-live.yoc.mobi": "INACTIVE"
         },
@@ -588,6 +584,10 @@
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
             "ads.wunderground.com": "INACTIVE"
+        },
+        "1583679534": {
+            "ads03.redtube.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE"
         }
     }
 }
