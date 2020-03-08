@@ -549,7 +549,6 @@
             "ads.printscr.com": "INACTIVE"
         },
         "1583553999": {
-            "ads.canalblog.com": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1583575639": {
@@ -595,6 +594,9 @@
             "ad.f1cd.ru": "INACTIVE",
             "ad.globe7.com": "INACTIVE",
             "ad.onad.eu": "INACTIVE"
+        },
+        "1583652195": {
+            "ads.canalblog.com": "INACTIVE"
         }
     }
 }
