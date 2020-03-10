@@ -456,9 +456,6 @@
         "1583710313": {
             "adserver.motorpresse.de": "INACTIVE"
         },
-        "1583740803": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1583760245": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -585,6 +582,9 @@
             "adserver.dotcommedia.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
+        },
+        "1583829942": {
+            "ads.canalblog.com": "INACTIVE"
         }
     }
 }
