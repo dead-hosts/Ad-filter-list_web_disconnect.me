@@ -463,9 +463,6 @@
             "adserver.freenet.de": "INACTIVE"
         },
         "1584206162": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
@@ -589,6 +586,11 @@
         },
         "1584299931": {
             "ads.massinfra.nl": "INACTIVE"
+        },
+        "1584304005": {
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserv.iafrica.com": "INACTIVE"
         }
     }
 }
