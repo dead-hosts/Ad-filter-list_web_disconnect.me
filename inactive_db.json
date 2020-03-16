@@ -462,14 +462,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1584206162": {
-            "adserv.qconline.com": "INACTIVE",
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
-        "1584245659": {
-            "ads.blog.com": "INACTIVE"
-        },
         "1584253508": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -591,6 +583,11 @@
             "adserv.evo-x.de": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE"
+        },
+        "1584334185": {
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
