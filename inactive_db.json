@@ -457,7 +457,6 @@
             "adserver.motorpresse.de": "INACTIVE"
         },
         "1583789150": {
-            "adserver.clashmusic.com": "INACTIVE",
             "adserver.dotcommedia.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
@@ -594,6 +593,9 @@
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
+        },
+        "1584567974": {
+            "adserver.clashmusic.com": "INACTIVE"
         }
     }
 }
