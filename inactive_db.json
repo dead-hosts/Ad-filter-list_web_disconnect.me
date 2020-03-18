@@ -462,17 +462,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1584400665": {
-            "adserv.iafrica.com": "INACTIVE"
-        },
-        "1584448272": {
-            "adserv.qconline.com": "INACTIVE",
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
-        "1584459425": {
-            "ads.co.com": "INACTIVE"
-        },
         "1584493020": {
             "ads.emirates.net.ae": "INACTIVE"
         },
@@ -599,6 +588,12 @@
         },
         "1584528831": {
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1584548259": {
+            "adserv.iafrica.com": "INACTIVE",
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
