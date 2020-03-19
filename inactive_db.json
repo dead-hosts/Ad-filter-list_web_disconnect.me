@@ -456,9 +456,6 @@
         "1583710313": {
             "adserver.motorpresse.de": "INACTIVE"
         },
-        "1584496550": {
-            "ad-serverparc.nl": "INACTIVE"
-        },
         "1584517826": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -593,6 +590,9 @@
             "adserver.dotcommedia.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
+        },
+        "1584583541": {
+            "ad-serverparc.nl": "INACTIVE"
         }
     }
 }
