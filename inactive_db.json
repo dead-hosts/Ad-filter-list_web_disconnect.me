@@ -464,9 +464,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1584583541": {
-            "ad-serverparc.nl": "INACTIVE"
-        },
         "1584606401": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -594,6 +591,9 @@
             "adimg.com.com": "INACTIVE",
             "adlog.com.com": "INACTIVE",
             "ads.com.com": "INACTIVE"
+        },
+        "1584673684": {
+            "ad-serverparc.nl": "INACTIVE"
         }
     }
 }
