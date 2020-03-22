@@ -468,9 +468,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1584761828": {
-            "ad-serverparc.nl": "INACTIVE"
-        },
         "1584797463": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -592,6 +589,9 @@
             "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE"
+        },
+        "1584850665": {
+            "ad-serverparc.nl": "INACTIVE"
         }
     }
 }
