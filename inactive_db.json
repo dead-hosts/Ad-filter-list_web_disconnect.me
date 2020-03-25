@@ -464,9 +464,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1585025233": {
-            "ads.edbindex.dk": "INACTIVE"
-        },
         "1585029284": {
             "ad-serverparc.nl": "INACTIVE"
         },
@@ -591,6 +588,9 @@
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
+        },
+        "1585115177": {
+            "ads.edbindex.dk": "INACTIVE"
         }
     }
 }
