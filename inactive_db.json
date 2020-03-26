@@ -456,11 +456,7 @@
         "1583710313": {
             "adserver.motorpresse.de": "INACTIVE"
         },
-        "1584567974": {
-            "adserver.clashmusic.com": "INACTIVE"
-        },
         "1584571544": {
-            "adserver.dotcommedia.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
@@ -600,6 +596,10 @@
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1585262048": {
+            "adserver.clashmusic.com": "INACTIVE",
+            "adserver.dotcommedia.de": "INACTIVE"
         }
     }
 }
