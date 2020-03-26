@@ -464,10 +464,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1585099169": {
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
         "1585143941": {
             "ad.scanmedios.com": "INACTIVE"
         },
@@ -602,6 +598,10 @@
         },
         "1585209549": {
             "ad-serverparc.nl": "INACTIVE"
+        },
+        "1585225641": {
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
