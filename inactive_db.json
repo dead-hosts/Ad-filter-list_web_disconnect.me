@@ -466,9 +466,6 @@
             "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE"
         },
-        "1585209549": {
-            "ad-serverparc.nl": "INACTIVE"
-        },
         "1585225641": {
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
@@ -600,6 +597,9 @@
         },
         "1585266309": {
             "ads.brabys.com": "INACTIVE"
+        },
+        "1585298152": {
+            "ad-serverparc.nl": "INACTIVE"
         }
     }
 }
