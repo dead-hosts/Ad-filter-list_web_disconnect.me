@@ -502,24 +502,7 @@
             "ads.groundspeak.com": "INACTIVE",
             "ads.hardwaresecrets.com": "INACTIVE",
             "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.linuxjournal.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.moceanads.com": "INACTIVE",
-            "ads.movieflix.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "ads.netclusive.de": "INACTIVE",
-            "ads.netmechanic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.newtention.net": "INACTIVE",
-            "ads.nwsource.com": "INACTIVE",
-            "ads.olivebrandresponse.com": "INACTIVE",
-            "ads.ookla.com": "INACTIVE",
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.pheedo.com": "INACTIVE",
-            "ads.pickmeup-ltd.com": "INACTIVE",
-            "ads.pkr.com": "INACTIVE"
+            "ads.iafrica.com": "INACTIVE"
         },
         "1585512891": {
             "a.0day.kiev.ua": "INACTIVE",
@@ -597,6 +580,27 @@
         },
         "1585560729": {
             "ad-serverparc.nl": "INACTIVE"
+        },
+        "1585591127": {
+            "ads.linuxjournal.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "ads.moceanads.com": "INACTIVE",
+            "ads.movieflix.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.netclusive.de": "INACTIVE",
+            "ads.netmechanic.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE"
+        },
+        "1585591128": {
+            "ads.newtention.net": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE",
+            "ads.olivebrandresponse.com": "INACTIVE",
+            "ads.ookla.com": "INACTIVE",
+            "ads.penny-arcade.com": "INACTIVE",
+            "ads.pheedo.com": "INACTIVE",
+            "ads.pickmeup-ltd.com": "INACTIVE",
+            "ads.pkr.com": "INACTIVE"
         }
     }
 }
