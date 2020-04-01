@@ -462,9 +462,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1585650009": {
-            "ad-serverparc.nl": "INACTIVE"
-        },
         "1585680631": {
             "ads.linuxjournal.com": "INACTIVE",
             "ads.linuxsecurity.com": "INACTIVE",
@@ -598,6 +595,9 @@
         },
         "1585726923": {
             "adrotator.se": "INACTIVE"
+        },
+        "1585740058": {
+            "ad-serverparc.nl": "INACTIVE"
         }
     }
 }
