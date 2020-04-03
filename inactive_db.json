@@ -463,8 +463,6 @@
             "adserver.freenet.de": "INACTIVE"
         },
         "1585844938": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE"
         },
@@ -598,6 +596,10 @@
         },
         "1585924644": {
             "ad-serverparc.nl": "INACTIVE"
+        },
+        "1585944794": {
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE"
         }
     }
 }
