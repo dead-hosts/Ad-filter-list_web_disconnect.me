@@ -462,14 +462,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1585844938": {
-            "adserv.iafrica.com": "INACTIVE",
-            "adserv.qconline.com": "INACTIVE"
-        },
-        "1585856542": {
-            "adserv.quality-channel.de": "INACTIVE",
-            "adserver-live.yoc.mobi": "INACTIVE"
-        },
         "1585882615": {
             "ads.bluelithium.com": "INACTIVE"
         },
@@ -600,6 +592,12 @@
             "ads.tjwi.info": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE",
             "ads.v3.com": "INACTIVE"
+        },
+        "1585965181": {
+            "adserv.iafrica.com": "INACTIVE",
+            "adserv.qconline.com": "INACTIVE",
+            "adserv.quality-channel.de": "INACTIVE",
+            "adserver-live.yoc.mobi": "INACTIVE"
         }
     }
 }
