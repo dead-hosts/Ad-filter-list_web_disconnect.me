@@ -462,10 +462,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1586032276": {
-            "adserv.evo-x.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE"
-        },
         "1586040251": {
             "admob.comadwhirl.com": "INACTIVE",
             "adq.nextag.com": "INACTIVE",
@@ -601,6 +597,10 @@
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
+        },
+        "1586119758": {
+            "adserv.evo-x.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE"
         }
     }
 }
