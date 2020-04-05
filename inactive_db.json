@@ -463,7 +463,6 @@
             "adserver.freenet.de": "INACTIVE"
         },
         "1585965181": {
-            "adserv.iafrica.com": "INACTIVE",
             "adserv.qconline.com": "INACTIVE",
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
@@ -602,6 +601,9 @@
         },
         "1586072355": {
             "ads.edbindex.dk": "INACTIVE"
+        },
+        "1586076549": {
+            "adserv.iafrica.com": "INACTIVE"
         }
     }
 }
