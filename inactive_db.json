@@ -467,9 +467,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586012977": {
-            "ad-serverparc.nl": "INACTIVE"
-        },
         "1586020341": {
             "adserver.43plc.com": "INACTIVE"
         },
@@ -604,6 +601,9 @@
         },
         "1586076549": {
             "adserv.iafrica.com": "INACTIVE"
+        },
+        "1586100214": {
+            "ad-serverparc.nl": "INACTIVE"
         }
     }
 }
