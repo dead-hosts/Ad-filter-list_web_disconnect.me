@@ -462,14 +462,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1586059804": {
-            "ads.bluelithium.com": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "ads.wunderground.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE"
-        },
         "1586063933": {
             "ad.thewheelof.com": "INACTIVE"
         },
@@ -607,6 +599,16 @@
         },
         "1586142915": {
             "ad.mediastorm.hu": "INACTIVE"
+        },
+        "1586146694": {
+            "ads.bluelithium.com": "INACTIVE"
+        },
+        "1586146695": {
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads.wunderground.com": "INACTIVE",
+            "ads03.redtube.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE"
         }
     }
 }
