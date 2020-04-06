@@ -462,25 +462,6 @@
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
         },
-        "1586044129": {
-            "ads.redtube.com": "INACTIVE",
-            "ads.resoom.de": "INACTIVE",
-            "ads.returnpath.net": "INACTIVE",
-            "ads.rottentomatoes.com": "INACTIVE",
-            "ads.s3.sitepoint.com": "INACTIVE",
-            "ads.savannahnow.com": "INACTIVE",
-            "ads.slim.com": "INACTIVE",
-            "ads.spoonfeduk.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.stationplay.com": "INACTIVE",
-            "ads.struq.com": "INACTIVE",
-            "ads.t-online.de": "INACTIVE",
-            "ads.techweb.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.theglobeandmail.com": "INACTIVE",
-            "ads.thewebfreaks.com": "INACTIVE",
-            "ads.timeout.com": "INACTIVE"
-        },
         "1586048204": {
             "a.0day.kiev.ua": "INACTIVE",
             "a.collective-media.net": "INACTIVE",
@@ -600,6 +581,25 @@
             "ads.pheedo.com": "INACTIVE",
             "ads.pickmeup-ltd.com": "INACTIVE",
             "ads.pkr.com": "INACTIVE"
+        },
+        "1586131687": {
+            "ads.redtube.com": "INACTIVE",
+            "ads.resoom.de": "INACTIVE",
+            "ads.returnpath.net": "INACTIVE",
+            "ads.rottentomatoes.com": "INACTIVE",
+            "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.savannahnow.com": "INACTIVE",
+            "ads.slim.com": "INACTIVE",
+            "ads.spoonfeduk.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.stationplay.com": "INACTIVE",
+            "ads.struq.com": "INACTIVE",
+            "ads.t-online.de": "INACTIVE",
+            "ads.techweb.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.theglobeandmail.com": "INACTIVE",
+            "ads.thewebfreaks.com": "INACTIVE",
+            "ads.timeout.com": "INACTIVE"
         }
     }
 }
