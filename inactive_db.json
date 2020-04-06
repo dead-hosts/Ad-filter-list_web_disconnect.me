@@ -457,13 +457,8 @@
             "adserver.motorpresse.de": "INACTIVE"
         },
         "1585524705": {
-            "adserver.clashmusic.com": "INACTIVE",
-            "adserver.dotcommedia.de": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
             "adserver.freenet.de": "INACTIVE"
-        },
-        "1586076549": {
-            "adserv.iafrica.com": "INACTIVE"
         },
         "1586100214": {
             "ad-serverparc.nl": "INACTIVE"
@@ -612,6 +607,11 @@
         },
         "1586165650": {
             "ads.edbindex.dk": "INACTIVE"
+        },
+        "1586169361": {
+            "adserv.iafrica.com": "INACTIVE",
+            "adserver.clashmusic.com": "INACTIVE",
+            "adserver.dotcommedia.de": "INACTIVE"
         }
     }
 }
