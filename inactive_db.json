@@ -471,39 +471,9 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586221541": {
-            "ads.redtube.com": "INACTIVE",
-            "ads.resoom.de": "INACTIVE",
-            "ads.returnpath.net": "INACTIVE",
-            "ads.rottentomatoes.com": "INACTIVE",
-            "ads.s3.sitepoint.com": "INACTIVE",
-            "ads.savannahnow.com": "INACTIVE",
-            "ads.slim.com": "INACTIVE",
-            "ads.spoonfeduk.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.stationplay.com": "INACTIVE",
-            "ads.struq.com": "INACTIVE",
-            "ads.t-online.de": "INACTIVE",
-            "ads.techweb.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.theglobeandmail.com": "INACTIVE",
-            "ads.thewebfreaks.com": "INACTIVE",
-            "ads.timeout.com": "INACTIVE"
-        },
-        "1586225711": {
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE",
-            "ads.v3.com": "INACTIVE"
-        },
         "1586233582": {
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1586249212": {
-            "ads.recoletos.es": "INACTIVE"
         },
         "1586268799": {
             "adserv.iafrica.com": "INACTIVE"
@@ -593,6 +563,32 @@
             "ads.pheedo.com": "INACTIVE",
             "ads.pickmeup-ltd.com": "INACTIVE",
             "ads.pkr.com": "INACTIVE"
+        },
+        "1586388984": {
+            "ads.recoletos.es": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "ads.resoom.de": "INACTIVE",
+            "ads.returnpath.net": "INACTIVE",
+            "ads.rottentomatoes.com": "INACTIVE",
+            "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.savannahnow.com": "INACTIVE",
+            "ads.slim.com": "INACTIVE",
+            "ads.spoonfeduk.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.stationplay.com": "INACTIVE",
+            "ads.struq.com": "INACTIVE",
+            "ads.t-online.de": "INACTIVE",
+            "ads.techweb.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.theglobeandmail.com": "INACTIVE",
+            "ads.thewebfreaks.com": "INACTIVE",
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE",
+            "ads.v3.com": "INACTIVE",
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads.wunderground.com": "INACTIVE"
         }
     }
 }
