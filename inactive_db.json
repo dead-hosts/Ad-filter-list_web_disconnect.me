@@ -471,62 +471,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586217939": {
-            "admob.comadwhirl.com": "INACTIVE",
-            "adq.nextag.com": "INACTIVE",
-            "ads.adultswim.com": "INACTIVE",
-            "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
-            "ads.allvatar.com": "INACTIVE",
-            "ads.alwayson-network.com": "INACTIVE",
-            "ads.aol.com": "INACTIVE",
-            "ads.asia1.com.sg": "INACTIVE",
-            "ads.batpmturner.com": "INACTIVE",
-            "ads.beenetworks.net": "INACTIVE",
-            "ads.berlinonline.de": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
-            "ads.betfair.com.au": "INACTIVE",
-            "ads.billiton.de": "INACTIVE",
-            "ads.canalblog.com": "INACTIVE",
-            "ads.cgnetworks.com": "INACTIVE",
-            "ads.cimedia.com": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.cricbuzz.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "ads.discovery.com": "INACTIVE",
-            "ads.eatinparis.com": "INACTIVE",
-            "ads.esmas.com": "INACTIVE",
-            "ads.expedia.com": "INACTIVE",
-            "ads.ezboard.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "ads.foxkidseurope.net": "INACTIVE",
-            "ads.futurenet.com": "INACTIVE",
-            "ads.gameforgeads.de": "INACTIVE",
-            "ads.globeandmail.com": "INACTIVE",
-            "ads.godlikeproductions.com": "INACTIVE",
-            "ads.groundspeak.com": "INACTIVE",
-            "ads.hardwaresecrets.com": "INACTIVE"
-        },
-        "1586217940": {
-            "ads.hideyourarms.com": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.linuxjournal.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.moceanads.com": "INACTIVE",
-            "ads.movieflix.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "ads.netclusive.de": "INACTIVE",
-            "ads.netmechanic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.newtention.net": "INACTIVE",
-            "ads.nwsource.com": "INACTIVE",
-            "ads.ookla.com": "INACTIVE",
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.pheedo.com": "INACTIVE",
-            "ads.pickmeup-ltd.com": "INACTIVE",
-            "ads.pkr.com": "INACTIVE"
-        },
         "1586221541": {
             "ads.redtube.com": "INACTIVE",
             "ads.resoom.de": "INACTIVE",
@@ -546,7 +490,31 @@
             "ads.thewebfreaks.com": "INACTIVE",
             "ads.timeout.com": "INACTIVE"
         },
-        "1586225709": {
+        "1586225711": {
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE",
+            "ads.v3.com": "INACTIVE"
+        },
+        "1586233582": {
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads.wunderground.com": "INACTIVE",
+            "ads03.redtube.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1586249212": {
+            "ads.recoletos.es": "INACTIVE"
+        },
+        "1586268799": {
+            "adserv.iafrica.com": "INACTIVE"
+        },
+        "1586386021": {
+            "a.0day.kiev.ua": "INACTIVE",
+            "a.collective-media.net": "INACTIVE",
+            "a32.g.a.yimg.com": "INACTIVE",
+            "accounts.pkr.com.invalid": "INVALID",
+            "ad-images.suntimes.com": "INACTIVE",
+            "ad-serverparc.nl": "INACTIVE",
             "ad.aboutit.de": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ad.directrev.com": "INACTIVE",
@@ -555,7 +523,10 @@
             "ad.globe7.com": "INACTIVE",
             "ad.onad.eu": "INACTIVE",
             "ad.slutload.com": "INACTIVE",
-            "ad.top50.to": "INACTIVE",
+            "ad.top50.to": "INACTIVE"
+        },
+        "1586386022": {
+            "ad.thewheelof.com": "INACTIVE",
             "ad.twitchguru.com": "INACTIVE",
             "ad.watch.impress.co.jp": "INACTIVE",
             "ad2.ip.ro": "INACTIVE",
@@ -564,49 +535,64 @@
             "adi.mainichi.co.jp": "INACTIVE",
             "adimage.asiaone.com.sg": "INACTIVE"
         },
-        "1586225710": {
+        "1586386023": {
             "adman.in.gr": "INACTIVE",
-            "ads.dazoot.ro": "INACTIVE"
-        },
-        "1586225711": {
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE",
-            "ads.v3.com": "INACTIVE"
-        },
-        "1586229490": {
-            "a.0day.kiev.ua": "INACTIVE",
-            "a.collective-media.net": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE"
-        },
-        "1586229491": {
-            "accounts.pkr.com.invalid": "INVALID",
-            "ad-images.suntimes.com": "INACTIVE"
-        },
-        "1586233582": {
+            "admob.comadwhirl.com": "INACTIVE",
+            "adq.nextag.com": "INACTIVE",
+            "ads.adultswim.com": "INACTIVE",
+            "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
+            "ads.allvatar.com": "INACTIVE",
+            "ads.alwayson-network.com": "INACTIVE",
+            "ads.aol.com": "INACTIVE",
+            "ads.asia1.com.sg": "INACTIVE",
+            "ads.batpmturner.com": "INACTIVE",
+            "ads.beenetworks.net": "INACTIVE",
+            "ads.berlinonline.de": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.betfair.com.au": "INACTIVE",
+            "ads.billiton.de": "INACTIVE",
             "ads.bluelithium.com": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "ads.wunderground.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE"
+            "ads.canalblog.com": "INACTIVE",
+            "ads.cgnetworks.com": "INACTIVE",
+            "ads.cimedia.com": "INACTIVE",
+            "ads.creativematch.com": "INACTIVE",
+            "ads.cricbuzz.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "ads.dazoot.ro": "INACTIVE",
+            "ads.discovery.com": "INACTIVE",
+            "ads.eatinparis.com": "INACTIVE",
+            "ads.esmas.com": "INACTIVE",
+            "ads.expedia.com": "INACTIVE",
+            "ads.ezboard.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "ads.foxkidseurope.net": "INACTIVE",
+            "ads.futurenet.com": "INACTIVE",
+            "ads.gameforgeads.de": "INACTIVE",
+            "ads.globeandmail.com": "INACTIVE",
+            "ads.godlikeproductions.com": "INACTIVE",
+            "ads.groundspeak.com": "INACTIVE",
+            "ads.hardwaresecrets.com": "INACTIVE",
+            "ads.hideyourarms.com": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE"
         },
-        "1586242344": {
-            "ad.thewheelof.com": "INACTIVE"
-        },
-        "1586249212": {
-            "ads.recoletos.es": "INACTIVE"
-        },
-        "1586261936": {
-            "ads.edbindex.dk": "INACTIVE"
-        },
-        "1586265447": {
-            "adrotator.se": "INACTIVE"
-        },
-        "1586268799": {
-            "adserv.iafrica.com": "INACTIVE"
-        },
-        "1586278137": {
-            "ad-serverparc.nl": "INACTIVE"
+        "1586386024": {
+            "ads.linuxjournal.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "ads.moceanads.com": "INACTIVE",
+            "ads.movieflix.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.netclusive.de": "INACTIVE",
+            "ads.netmechanic.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE",
+            "ads.newtention.net": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE",
+            "ads.ookla.com": "INACTIVE",
+            "ads.penny-arcade.com": "INACTIVE",
+            "ads.pheedo.com": "INACTIVE",
+            "ads.pickmeup-ltd.com": "INACTIVE",
+            "ads.pkr.com": "INACTIVE"
         }
     }
 }
