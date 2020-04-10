@@ -464,9 +464,6 @@
             "adserver.clashmusic.com": "INACTIVE",
             "adserver.dotcommedia.de": "INACTIVE"
         },
-        "1586411972": {
-            "ads.bluesq.com": "INACTIVE"
-        },
         "1586429244": {
             "adserv.evo-x.de": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
@@ -591,6 +588,9 @@
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1586501872": {
+            "ads.bluesq.com": "INACTIVE"
         }
     }
 }
