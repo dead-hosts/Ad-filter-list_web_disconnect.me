@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586538251": {
-            "ads.mgnetwork.com": "INACTIVE"
-        },
         "1586542296": {
             "ads.heias.com": "INACTIVE"
         },
@@ -620,6 +617,11 @@
         "1586622112": {
             "ad.eurosport.com": "INACTIVE",
             "adimages.omroepzeeland.nl": "INACTIVE"
+        },
+        "1586626434": {
+            "ads.bloomberg.com": "INACTIVE",
+            "ads.edbindex.dk": "INACTIVE",
+            "ads.mariuana.it": "INACTIVE"
         }
     }
 }
