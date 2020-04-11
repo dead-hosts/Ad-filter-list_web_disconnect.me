@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586509668": {
-            "adimages.omroepzeeland.nl": "INACTIVE"
-        },
         "1586517743": {
             "ads.crakmedia.com": "INACTIVE"
         },
@@ -617,6 +614,10 @@
         },
         "1586589717": {
             "ads.motor-forum.nl": "INACTIVE"
+        },
+        "1586598053": {
+            "ads.space.com": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE"
         }
     }
 }
