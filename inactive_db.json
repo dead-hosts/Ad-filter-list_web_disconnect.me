@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586533989": {
-            "ads.edbindex.dk": "INACTIVE"
-        },
         "1586538251": {
             "ads.mgnetwork.com": "INACTIVE"
         },
@@ -619,6 +616,10 @@
         "1586608804": {
             "ads.scifi.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE"
+        },
+        "1586622112": {
+            "ad.eurosport.com": "INACTIVE",
+            "adimages.omroepzeeland.nl": "INACTIVE"
         }
     }
 }
