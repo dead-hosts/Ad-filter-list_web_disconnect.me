@@ -472,11 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586626434": {
-            "ads.bloomberg.com": "INACTIVE",
-            "ads.edbindex.dk": "INACTIVE",
-            "ads.mariuana.it": "INACTIVE"
-        },
         "1586630714": {
             "ads.mgnetwork.com": "INACTIVE"
         },
@@ -630,6 +625,10 @@
         },
         "1586710420": {
             "ads.sift.co.uk": "INACTIVE"
+        },
+        "1586715136": {
+            "ads.bloomberg.com": "INACTIVE",
+            "ads.mariuana.it": "INACTIVE"
         }
     }
 }
