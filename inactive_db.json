@@ -473,20 +473,6 @@
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1586657573": {
-            "ads.slim.com": "INACTIVE",
-            "ads.spoonfeduk.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.stationplay.com": "INACTIVE",
-            "ads.struq.com": "INACTIVE",
-            "ads.t-online.de": "INACTIVE",
-            "ads.techweb.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.theglobeandmail.com": "INACTIVE",
-            "ads.thewebfreaks.com": "INACTIVE",
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
-            "ads.tripod.spray.se": "INACTIVE",
-            "ads.v3.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
             "ads.wunderground.com": "INACTIVE"
@@ -494,9 +480,6 @@
         "1586661842": {
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1586666168": {
-            "ads.ft.com": "INACTIVE"
         },
         "1586679311": {
             "ads.bluesq.com": "INACTIVE"
@@ -631,6 +614,22 @@
             "ads.s3.sitepoint.com": "INACTIVE",
             "ads.savannahnow.com": "INACTIVE",
             "ads.scifi.com": "INACTIVE"
+        },
+        "1586752852": {
+            "ads.slim.com": "INACTIVE",
+            "ads.spoonfeduk.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.stationplay.com": "INACTIVE",
+            "ads.struq.com": "INACTIVE",
+            "ads.t-online.de": "INACTIVE",
+            "ads.techweb.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.theglobeandmail.com": "INACTIVE",
+            "ads.thewebfreaks.com": "INACTIVE",
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE",
+            "ads.v3.com": "INACTIVE"
         }
     }
 }
