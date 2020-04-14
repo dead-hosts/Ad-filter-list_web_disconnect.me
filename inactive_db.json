@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586806133": {
-            "ads.bloomberg.com": "INACTIVE"
-        },
         "1586823890": {
             "ads.mgnetwork.com": "INACTIVE"
         },
@@ -622,6 +619,12 @@
         },
         "1586891749": {
             "ads.sift.co.uk": "INACTIVE"
+        },
+        "1586896251": {
+            "ad.eurosport.com": "INACTIVE"
+        },
+        "1586896252": {
+            "ads.bloomberg.com": "INACTIVE"
         }
     }
 }
