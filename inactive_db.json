@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586761485": {
-            "ads.ft.com": "INACTIVE"
-        },
         "1586770589": {
             "ads.bluesq.com": "INACTIVE",
             "ads.motor-forum.nl": "INACTIVE"
@@ -626,6 +623,9 @@
             "ads.tjwi.info": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE",
             "ads.v3.com": "INACTIVE"
+        },
+        "1586850426": {
+            "ads.ft.com": "INACTIVE"
         }
     }
 }
