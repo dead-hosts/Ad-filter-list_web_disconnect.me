@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586734725": {
-            "ads.mgnetwork.com": "INACTIVE"
-        },
         "1586739481": {
             "ads.heias.com": "INACTIVE"
         },
@@ -627,6 +624,9 @@
         },
         "1586806133": {
             "ads.bloomberg.com": "INACTIVE"
+        },
+        "1586823890": {
+            "ads.mgnetwork.com": "INACTIVE"
         }
     }
 }
