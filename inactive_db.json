@@ -472,12 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586858990": {
-            "ads.bluesq.com": "INACTIVE"
-        },
-        "1586858991": {
-            "ads.motor-forum.nl": "INACTIVE"
-        },
         "1586864519": {
             "ads.newsquest.co.uk": "INACTIVE",
             "ads.space.com": "INACTIVE",
@@ -631,6 +625,10 @@
         "1586940242": {
             "ads.tripod.spray.se": "INACTIVE",
             "ads.v3.com": "INACTIVE"
+        },
+        "1586949070": {
+            "ads.bluesq.com": "INACTIVE",
+            "ads.motor-forum.nl": "INACTIVE"
         }
     }
 }
