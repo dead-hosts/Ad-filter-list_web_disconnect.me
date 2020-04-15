@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586878256": {
-            "ads.crakmedia.com": "INACTIVE"
-        },
         "1586887270": {
             "ad.choiceradio.com": "INACTIVE"
         },
@@ -629,6 +626,9 @@
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1586966753": {
+            "ads.crakmedia.com": "INACTIVE"
         }
     }
 }
