@@ -472,13 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586841571": {
-            "ads.tripod.spray.se": "INACTIVE",
-            "ads.v3.com": "INACTIVE"
-        },
-        "1586850426": {
-            "ads.ft.com": "INACTIVE"
-        },
         "1586858990": {
             "ads.bluesq.com": "INACTIVE"
         },
@@ -631,6 +624,13 @@
         },
         "1586935864": {
             "ads.canalblog.com": "INACTIVE"
+        },
+        "1586940241": {
+            "ads.ft.com": "INACTIVE"
+        },
+        "1586940242": {
+            "ads.tripod.spray.se": "INACTIVE",
+            "ads.v3.com": "INACTIVE"
         }
     }
 }
