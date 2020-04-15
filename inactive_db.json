@@ -473,12 +473,6 @@
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1586837142": {
-            "ads.nwsource.com": "INACTIVE",
-            "ads.ookla.com": "INACTIVE",
-            "ads.penny-arcade.com": "INACTIVE",
-            "ads.pheedo.com": "INACTIVE",
-            "ads.pickmeup-ltd.com": "INACTIVE",
-            "ads.pkr.com": "INACTIVE",
             "ads.redtube.com": "INACTIVE",
             "ads.resoom.de": "INACTIVE",
             "ads.returnpath.net": "INACTIVE",
@@ -626,6 +620,14 @@
             "ads.netmechanic.com": "INACTIVE",
             "ads.newdream.net": "INACTIVE",
             "ads.newtention.net": "INACTIVE"
+        },
+        "1586926928": {
+            "ads.nwsource.com": "INACTIVE",
+            "ads.ookla.com": "INACTIVE",
+            "ads.penny-arcade.com": "INACTIVE",
+            "ads.pheedo.com": "INACTIVE",
+            "ads.pickmeup-ltd.com": "INACTIVE",
+            "ads.pkr.com": "INACTIVE"
         }
     }
 }
