@@ -472,15 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586953616": {
-            "ads.web.cs.com": "INACTIVE",
-            "ads.wunderground.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE",
-            "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1586975891": {
-            "ad.choiceradio.com": "INACTIVE"
-        },
         "1586980353": {
             "adimages.omroepzeeland.nl": "INACTIVE"
         },
@@ -640,6 +631,15 @@
         },
         "1587062290": {
             "adnet.worldreviewer.com": "INACTIVE"
+        },
+        "1587066702": {
+            "ad.choiceradio.com": "INACTIVE"
+        },
+        "1587066704": {
+            "ads.web.cs.com": "INACTIVE",
+            "ads.wunderground.com": "INACTIVE",
+            "ads03.redtube.com": "INACTIVE",
+            "ads1.theglobeandmail.com": "INACTIVE"
         }
     }
 }
