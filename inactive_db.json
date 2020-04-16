@@ -472,10 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586914008": {
-            "ads.brabys.com": "INACTIVE",
-            "ads.mgnetwork.com": "INACTIVE"
-        },
         "1586918414": {
             "ads.heias.com": "INACTIVE"
         },
@@ -633,6 +629,9 @@
         },
         "1586990133": {
             "ads.scifi.com": "INACTIVE"
+        },
+        "1587004074": {
+            "ads.mgnetwork.com": "INACTIVE"
         }
     }
 }
