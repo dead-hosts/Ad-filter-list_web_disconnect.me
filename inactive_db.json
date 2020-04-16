@@ -472,11 +472,7 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586940242": {
-            "ads.v3.com": "INACTIVE"
-        },
         "1586953616": {
-            "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
@@ -640,6 +636,10 @@
         "1587053488": {
             "ads.crakmedia.com": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE"
+        },
+        "1587057761": {
+            "ads.v3.com": "INACTIVE",
+            "ads.web.aol.com": "INACTIVE"
         }
     }
 }
