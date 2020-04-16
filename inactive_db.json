@@ -473,7 +473,6 @@
             "adserver-live.yoc.mobi": "INACTIVE"
         },
         "1586940242": {
-            "ads.tripod.spray.se": "INACTIVE",
             "ads.v3.com": "INACTIVE"
         },
         "1586953616": {
@@ -482,9 +481,6 @@
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
-        },
-        "1586966753": {
-            "ads.crakmedia.com": "INACTIVE"
         },
         "1586971203": {
             "adition.de": "INACTIVE"
@@ -640,6 +636,10 @@
         "1587048882": {
             "ad.nachtagenten.de": "INACTIVE",
             "ad.virtual-nights.com": "INACTIVE"
+        },
+        "1587053488": {
+            "ads.crakmedia.com": "INACTIVE",
+            "ads.tripod.spray.se": "INACTIVE"
         }
     }
 }
