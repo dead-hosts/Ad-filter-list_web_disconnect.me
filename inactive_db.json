@@ -472,11 +472,7 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1586980353": {
-            "adimages.omroepzeeland.nl": "INACTIVE"
-        },
         "1586980354": {
-            "adrotator.se": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE"
         },
         "1586985117": {
@@ -640,6 +636,9 @@
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1587071398": {
+            "adimages.omroepzeeland.nl": "INACTIVE"
         }
     }
 }
