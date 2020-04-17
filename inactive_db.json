@@ -472,12 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1587044451": {
-            "ads.newsquest.co.uk": "INACTIVE",
-            "ads.timeout.com": "INACTIVE",
-            "ads.tjwi.info": "INACTIVE",
-            "ads.trinitymirror.co.uk": "INACTIVE"
-        },
         "1587048882": {
             "ad.nachtagenten.de": "INACTIVE",
             "ad.virtual-nights.com": "INACTIVE"
@@ -631,6 +625,10 @@
         },
         "1587129761": {
             "ads.bluesq.com": "INACTIVE"
+        },
+        "1587134201": {
+            "ads.timeout.com": "INACTIVE",
+            "ads.tjwi.info": "INACTIVE"
         }
     }
 }
