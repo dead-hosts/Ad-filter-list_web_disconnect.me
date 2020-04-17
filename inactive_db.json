@@ -472,10 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1587040087": {
-            "ads.bluesq.com": "INACTIVE",
-            "ads.space.com": "INACTIVE"
-        },
         "1587044451": {
             "ads.newsquest.co.uk": "INACTIVE",
             "ads.timeout.com": "INACTIVE",
@@ -632,6 +628,9 @@
             "ads.telegraph.co.uk": "INACTIVE",
             "ads.theglobeandmail.com": "INACTIVE",
             "ads.thewebfreaks.com": "INACTIVE"
+        },
+        "1587129761": {
+            "ads.bluesq.com": "INACTIVE"
         }
     }
 }
