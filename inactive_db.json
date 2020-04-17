@@ -472,9 +472,6 @@
             "adserv.quality-channel.de": "INACTIVE",
             "adserver-live.yoc.mobi": "INACTIVE"
         },
-        "1587071398": {
-            "adimages.omroepzeeland.nl": "INACTIVE"
-        },
         "1587076333": {
             "ad.eurosport.com": "INACTIVE"
         },
@@ -621,6 +618,9 @@
             "ads.wunderground.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "ads1.theglobeandmail.com": "INACTIVE"
+        },
+        "1587161260": {
+            "adrotator.se": "INACTIVE"
         }
     }
 }
