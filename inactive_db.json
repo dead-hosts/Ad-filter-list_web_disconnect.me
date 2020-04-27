@@ -2395,6 +2395,13 @@
             "last_retested_at_epoch": 1587980238.313542,
             "last_retested_at_iso": "2020-04-27T09:37:18.313542",
             "status": "INACTIVE"
+        },
+        "adserver.portalofevil.com": {
+            "included_at_epoch": 1588009292.971545,
+            "included_at_iso": "2020-04-27T17:41:32.971545",
+            "last_retested_at_epoch": 1588009292.971545,
+            "last_retested_at_iso": "2020-04-27T17:41:32.971545",
+            "status": "INACTIVE"
         }
     }
 }
