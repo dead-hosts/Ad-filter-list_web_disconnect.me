@@ -2357,15 +2357,29 @@
         "adserver.clashmusic.com": {
             "included_at_epoch": 1586169361.0,
             "included_at_iso": "2020-04-06T10:36:01",
-            "last_retested_at_epoch": 1586169361.0,
-            "last_retested_at_iso": "2020-04-06T10:36:01",
+            "last_retested_at_epoch": 1587972416.494642,
+            "last_retested_at_iso": "2020-04-27T07:26:56.494642",
             "status": "INACTIVE"
         },
         "adserver.dotcommedia.de": {
             "included_at_epoch": 1586169361.0,
             "included_at_iso": "2020-04-06T10:36:01",
-            "last_retested_at_epoch": 1586169361.0,
-            "last_retested_at_iso": "2020-04-06T10:36:01",
+            "last_retested_at_epoch": 1587972416.502914,
+            "last_retested_at_iso": "2020-04-27T07:26:56.502914",
+            "status": "INACTIVE"
+        },
+        "adserver.flossiemediagroup.com": {
+            "included_at_epoch": 1587972416.510304,
+            "included_at_iso": "2020-04-27T07:26:56.510304",
+            "last_retested_at_epoch": 1587972416.510304,
+            "last_retested_at_iso": "2020-04-27T07:26:56.510304",
+            "status": "INACTIVE"
+        },
+        "adserver.freenet.de": {
+            "included_at_epoch": 1587972416.517377,
+            "included_at_iso": "2020-04-27T07:26:56.517377",
+            "last_retested_at_epoch": 1587972416.517377,
+            "last_retested_at_iso": "2020-04-27T07:26:56.517377",
             "status": "INACTIVE"
         }
     }
