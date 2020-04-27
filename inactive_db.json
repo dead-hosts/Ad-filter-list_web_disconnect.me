@@ -2388,6 +2388,13 @@
             "last_retested_at_epoch": 1587972416.517377,
             "last_retested_at_iso": "2020-04-27T07:26:56.517377",
             "status": "INACTIVE"
+        },
+        "adserver.motorpresse.de": {
+            "included_at_epoch": 1587980238.313542,
+            "included_at_iso": "2020-04-27T09:37:18.313542",
+            "last_retested_at_epoch": 1587980238.313542,
+            "last_retested_at_iso": "2020-04-27T09:37:18.313542",
+            "status": "INACTIVE"
         }
     }
 }
