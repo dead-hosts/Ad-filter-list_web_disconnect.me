@@ -2060,6 +2060,13 @@
             "last_retested_at_iso": "2020-04-27T23:19:18.527347",
             "status": "INACTIVE"
         },
+        "ads.mmania.com": {
+            "included_at_epoch": 1588099773.741067,
+            "included_at_iso": "2020-04-28T18:49:33.741067",
+            "last_retested_at_epoch": 1588099773.741067,
+            "last_retested_at_iso": "2020-04-28T18:49:33.741067",
+            "status": "INACTIVE"
+        },
         "ads.moceanads.com": {
             "included_at_epoch": 1587192285.0,
             "included_at_iso": "2020-04-18T06:44:45",
