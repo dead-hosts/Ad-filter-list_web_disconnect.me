@@ -1654,13 +1654,6 @@
             "last_retested_at_iso": "2020-04-27T23:19:16.408261",
             "status": "INACTIVE"
         },
-        "ad.freecity.de": {
-            "included_at_epoch": 1587976154.895027,
-            "included_at_iso": "2020-04-27T08:29:14.895027",
-            "last_retested_at_epoch": 1587976154.895027,
-            "last_retested_at_iso": "2020-04-27T08:29:14.895027",
-            "status": "INACTIVE"
-        },
         "ad.globe7.com": {
             "included_at_epoch": 1587192283.0,
             "included_at_iso": "2020-04-18T06:44:43",
@@ -1939,6 +1932,13 @@
             "included_at_iso": "2020-04-18T06:44:45",
             "last_retested_at_epoch": 1588029558.310075,
             "last_retested_at_iso": "2020-04-27T23:19:18.310075",
+            "status": "INACTIVE"
+        },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1588065462.773985,
+            "included_at_iso": "2020-04-28T09:17:42.773985",
+            "last_retested_at_epoch": 1588065462.773985,
+            "last_retested_at_iso": "2020-04-28T09:17:42.773985",
             "status": "INACTIVE"
         },
         "ads.esmas.com": {
