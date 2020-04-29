@@ -2102,18 +2102,18 @@
             "last_retested_at_iso": "2020-04-28T23:29:01.150269",
             "status": "INACTIVE"
         },
-        "ads.ninemsn.com.au": {
-            "included_at_epoch": 1588087299.369771,
-            "included_at_iso": "2020-04-28T15:21:39.369771",
-            "last_retested_at_epoch": 1588087299.369771,
-            "last_retested_at_iso": "2020-04-28T15:21:39.369771",
-            "status": "INACTIVE"
-        },
         "ads.nwsource.com": {
             "included_at_epoch": 1587196742.0,
             "included_at_iso": "2020-04-18T07:59:02",
             "last_retested_at_epoch": 1588116541.160891,
             "last_retested_at_iso": "2020-04-28T23:29:01.160891",
+            "status": "INACTIVE"
+        },
+        "ads.nyi.net": {
+            "included_at_epoch": 1588177588.499678,
+            "included_at_iso": "2020-04-29T16:26:28.499678",
+            "last_retested_at_epoch": 1588177588.499678,
+            "last_retested_at_iso": "2020-04-29T16:26:28.499678",
             "status": "INACTIVE"
         },
         "ads.ookla.com": {
@@ -2191,6 +2191,13 @@
             "included_at_iso": "2020-04-18T09:13:17",
             "last_retested_at_epoch": 1588120437.826866,
             "last_retested_at_iso": "2020-04-29T00:33:57.826866",
+            "status": "INACTIVE"
+        },
+        "ads.scifi.com": {
+            "included_at_epoch": 1588177588.546913,
+            "included_at_iso": "2020-04-29T16:26:28.546913",
+            "last_retested_at_epoch": 1588177588.546913,
+            "last_retested_at_iso": "2020-04-29T16:26:28.546913",
             "status": "INACTIVE"
         },
         "ads.slim.com": {
