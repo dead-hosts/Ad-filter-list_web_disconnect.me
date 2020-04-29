@@ -1857,13 +1857,6 @@
             "last_retested_at_iso": "2020-04-28T23:29:00.762879",
             "status": "INACTIVE"
         },
-        "ads.brain.pk": {
-            "included_at_epoch": 1588049600.600704,
-            "included_at_iso": "2020-04-28T04:53:20.600704",
-            "last_retested_at_epoch": 1588049600.600704,
-            "last_retested_at_iso": "2020-04-28T04:53:20.600704",
-            "status": "INACTIVE"
-        },
         "ads.canalblog.com": {
             "included_at_epoch": 1588120437.537304,
             "included_at_iso": "2020-04-29T00:33:57.537304",
