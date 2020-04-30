@@ -2322,36 +2322,36 @@
         "ads03.redtube.com": {
             "included_at_epoch": 1587156634.0,
             "included_at_iso": "2020-04-17T20:50:34",
-            "last_retested_at_epoch": 1588120438.021389,
-            "last_retested_at_iso": "2020-04-29T00:33:58.021389",
+            "last_retested_at_epoch": 1588254362.905413,
+            "last_retested_at_iso": "2020-04-30T13:46:02.905413",
             "status": "INACTIVE"
         },
         "ads1.theglobeandmail.com": {
             "included_at_epoch": 1587156634.0,
             "included_at_iso": "2020-04-17T20:50:34",
-            "last_retested_at_epoch": 1588124021.318721,
-            "last_retested_at_iso": "2020-04-29T01:33:41.318721",
+            "last_retested_at_epoch": 1588254362.918597,
+            "last_retested_at_iso": "2020-04-30T13:46:02.918597",
             "status": "INACTIVE"
         },
         "adserv.evo-x.de": {
             "included_at_epoch": 1586429244.0,
             "included_at_iso": "2020-04-09T10:47:24",
-            "last_retested_at_epoch": 1588124021.459694,
-            "last_retested_at_iso": "2020-04-29T01:33:41.459694",
+            "last_retested_at_epoch": 1588254363.06565,
+            "last_retested_at_iso": "2020-04-30T13:46:03.065650",
             "status": "INACTIVE"
         },
         "adserv.gamezone.de": {
             "included_at_epoch": 1586429244.0,
             "included_at_iso": "2020-04-09T10:47:24",
-            "last_retested_at_epoch": 1588124021.465648,
-            "last_retested_at_iso": "2020-04-29T01:33:41.465648",
+            "last_retested_at_epoch": 1588254363.075223,
+            "last_retested_at_iso": "2020-04-30T13:46:03.075223",
             "status": "INACTIVE"
         },
         "adserv.iafrica.com": {
             "included_at_epoch": 1586429244.0,
             "included_at_iso": "2020-04-09T10:47:24",
-            "last_retested_at_epoch": 1588124021.477461,
-            "last_retested_at_iso": "2020-04-29T01:33:41.477461",
+            "last_retested_at_epoch": 1588254363.083094,
+            "last_retested_at_iso": "2020-04-30T13:46:03.083094",
             "status": "INACTIVE"
         },
         "adserv.qconline.com": {
