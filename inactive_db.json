@@ -2357,50 +2357,50 @@
         "adserv.qconline.com": {
             "included_at_epoch": 1586429244.0,
             "included_at_iso": "2020-04-09T10:47:24",
-            "last_retested_at_epoch": 1588124021.471564,
-            "last_retested_at_iso": "2020-04-29T01:33:41.471564",
+            "last_retested_at_epoch": 1588257591.673777,
+            "last_retested_at_iso": "2020-04-30T14:39:51.673777",
             "status": "INACTIVE"
         },
         "adserv.quality-channel.de": {
             "included_at_epoch": 1586429244.0,
             "included_at_iso": "2020-04-09T10:47:24",
-            "last_retested_at_epoch": 1588124021.484606,
-            "last_retested_at_iso": "2020-04-29T01:33:41.484606",
+            "last_retested_at_epoch": 1588257591.679901,
+            "last_retested_at_iso": "2020-04-30T14:39:51.679901",
             "status": "INACTIVE"
         },
         "adserver-live.yoc.mobi": {
             "included_at_epoch": 1586429244.0,
             "included_at_iso": "2020-04-09T10:47:24",
-            "last_retested_at_epoch": 1588124021.490388,
-            "last_retested_at_iso": "2020-04-29T01:33:41.490388",
+            "last_retested_at_epoch": 1588257591.686803,
+            "last_retested_at_iso": "2020-04-30T14:39:51.686803",
             "status": "INACTIVE"
         },
         "adserver.clashmusic.com": {
             "included_at_epoch": 1586169361.0,
             "included_at_iso": "2020-04-06T10:36:01",
-            "last_retested_at_epoch": 1588155978.944881,
-            "last_retested_at_iso": "2020-04-29T10:26:18.944881",
+            "last_retested_at_epoch": 1588257591.721238,
+            "last_retested_at_iso": "2020-04-30T14:39:51.721238",
             "status": "INACTIVE"
         },
         "adserver.dotcommedia.de": {
             "included_at_epoch": 1586169361.0,
             "included_at_iso": "2020-04-06T10:36:01",
-            "last_retested_at_epoch": 1588155978.952157,
-            "last_retested_at_iso": "2020-04-29T10:26:18.952157",
+            "last_retested_at_epoch": 1588257591.728304,
+            "last_retested_at_iso": "2020-04-30T14:39:51.728304",
             "status": "INACTIVE"
         },
         "adserver.flossiemediagroup.com": {
             "included_at_epoch": 1587972416.510304,
             "included_at_iso": "2020-04-27T07:26:56.510304",
-            "last_retested_at_epoch": 1588155978.959431,
-            "last_retested_at_iso": "2020-04-29T10:26:18.959431",
+            "last_retested_at_epoch": 1588257591.735418,
+            "last_retested_at_iso": "2020-04-30T14:39:51.735418",
             "status": "INACTIVE"
         },
         "adserver.freenet.de": {
             "included_at_epoch": 1587972416.517377,
             "included_at_iso": "2020-04-27T07:26:56.517377",
-            "last_retested_at_epoch": 1588155978.966488,
-            "last_retested_at_iso": "2020-04-29T10:26:18.966488",
+            "last_retested_at_epoch": 1588257591.742203,
+            "last_retested_at_iso": "2020-04-30T14:39:51.742203",
             "status": "INACTIVE"
         },
         "adserver.motorpresse.de": {
