@@ -1717,6 +1717,13 @@
             "last_retested_at_iso": "2020-04-30T11:41:38.142677",
             "status": "INACTIVE"
         },
+        "adfarm.mediaplex.com": {
+            "included_at_epoch": 1588283388.503936,
+            "included_at_iso": "2020-04-30T21:49:48.503936",
+            "last_retested_at_epoch": 1588283388.503936,
+            "last_retested_at_iso": "2020-04-30T21:49:48.503936",
+            "status": "INACTIVE"
+        },
         "adi.mainichi.co.jp": {
             "included_at_epoch": 1587192284.0,
             "included_at_iso": "2020-04-18T06:44:44",
