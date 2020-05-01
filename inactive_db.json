@@ -2427,8 +2427,8 @@
         "adserver.startnow.com": {
             "included_at_epoch": 1588021348.964688,
             "included_at_iso": "2020-04-27T21:02:28.964688",
-            "last_retested_at_epoch": 1588021348.964688,
-            "last_retested_at_iso": "2020-04-27T21:02:28.964688",
+            "last_retested_at_epoch": 1588330177.166562,
+            "last_retested_at_iso": "2020-05-01T10:49:37.166562",
             "status": "INACTIVE"
         }
     }
