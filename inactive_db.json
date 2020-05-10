@@ -2053,6 +2053,13 @@
             "last_retested_at_iso": "2020-05-10T04:02:38.317113",
             "status": "INACTIVE"
         },
+        "ads.mmania.com": {
+            "included_at_epoch": 1589106688.284901,
+            "included_at_iso": "2020-05-10T10:31:28.284901",
+            "last_retested_at_epoch": 1589106688.284901,
+            "last_retested_at_iso": "2020-05-10T10:31:28.284901",
+            "status": "INACTIVE"
+        },
         "ads.moceanads.com": {
             "included_at_epoch": 1587192285.0,
             "included_at_iso": "2020-04-18T06:44:45",
