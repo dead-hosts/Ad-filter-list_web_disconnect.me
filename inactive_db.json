@@ -2896,8 +2896,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1588652576.205007,
             "included_at_iso": "2020-05-05T04:22:56.205007",
-            "last_retested_at_epoch": 1589199613.895553,
-            "last_retested_at_iso": "2020-05-11T12:20:13.895553",
+            "last_retested_at_epoch": 1589200540.228239,
+            "last_retested_at_iso": "2020-05-11T12:35:40.228239",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3330,15 +3330,15 @@
         "www.banner-link.com.br": {
             "included_at_epoch": 1588353324.039925,
             "included_at_iso": "2020-05-01T17:15:24.039925",
-            "last_retested_at_epoch": 1589086104.421987,
-            "last_retested_at_iso": "2020-05-10T04:48:24.421987",
+            "last_retested_at_epoch": 1589200533.379157,
+            "last_retested_at_iso": "2020-05-11T12:35:33.379157",
             "status": "INACTIVE"
         },
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1588353324.60172,
             "included_at_iso": "2020-05-01T17:15:24.601720",
-            "last_retested_at_epoch": 1589086104.980103,
-            "last_retested_at_iso": "2020-05-10T04:48:24.980103",
+            "last_retested_at_epoch": 1589200533.943678,
+            "last_retested_at_iso": "2020-05-11T12:35:33.943678",
             "status": "INACTIVE"
         }
     }
