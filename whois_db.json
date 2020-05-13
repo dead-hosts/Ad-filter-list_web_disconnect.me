@@ -1745,8 +1745,8 @@
         "state": "future"
     },
     "bidvertiser.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "bigbangmedia.com": {
@@ -1865,8 +1865,8 @@
         "state": "future"
     },
     "braincash.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "brandreachsys.com": {
@@ -2457,7 +2457,7 @@
     "creafi-online-media.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "creafi.com": {
         "epoch": 1609891200.0,
@@ -3725,8 +3725,8 @@
         "state": "future"
     },
     "intelliads.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "intellitxt.com": {
