@@ -1626,6 +1626,13 @@
             "last_retested_at_iso": "2020-05-19T04:06:35.896801",
             "status": "INACTIVE"
         },
+        "ad.cooks.com": {
+            "included_at_epoch": 1589884448.311684,
+            "included_at_iso": "2020-05-19T10:34:08.311684",
+            "last_retested_at_epoch": 1589884448.311684,
+            "last_retested_at_iso": "2020-05-19T10:34:08.311684",
+            "status": "INACTIVE"
+        },
         "ad.directrev.com": {
             "included_at_epoch": 1589624396.277702,
             "included_at_iso": "2020-05-16T10:19:56.277702",
