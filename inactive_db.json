@@ -2739,6 +2739,13 @@
             "last_retested_at_iso": "2020-05-19T04:35:19.614883",
             "status": "INACTIVE"
         },
+        "content.acc-hd.de": {
+            "included_at_epoch": 1589886127.618906,
+            "included_at_iso": "2020-05-19T11:02:07.618906",
+            "last_retested_at_epoch": 1589886127.618906,
+            "last_retested_at_iso": "2020-05-19T11:02:07.618906",
+            "status": "INACTIVE"
+        },
         "count.rbc.ru": {
             "included_at_epoch": 1588346063.717981,
             "included_at_iso": "2020-05-01T15:14:23.717981",
