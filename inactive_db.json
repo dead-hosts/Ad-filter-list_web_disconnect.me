@@ -1732,10 +1732,10 @@
             "status": "INACTIVE"
         },
         "adk2ads.tictacti.com": {
-            "included_at_epoch": 1587940896.423826,
-            "included_at_iso": "2020-04-26T22:41:36.423826",
-            "last_retested_at_epoch": 1590293294.034972,
-            "last_retested_at_iso": "2020-05-24T04:08:14.034972",
+            "included_at_epoch": 1590361388.161143,
+            "included_at_iso": "2020-05-24T23:03:08.161143",
+            "last_retested_at_epoch": 1590361388.161143,
+            "last_retested_at_iso": "2020-05-24T23:03:08.161143",
             "status": "INACTIVE"
         },
         "adman.in.gr": {
@@ -2730,6 +2730,13 @@
             "included_at_iso": "2020-05-01T15:14:22.761488",
             "last_retested_at_epoch": 1590295062.758887,
             "last_retested_at_iso": "2020-05-24T04:37:42.758887",
+            "status": "INACTIVE"
+        },
+        "click.absoluteagency.com": {
+            "included_at_epoch": 1590361391.774051,
+            "included_at_iso": "2020-05-24T23:03:11.774051",
+            "last_retested_at_epoch": 1590361391.774051,
+            "last_retested_at_iso": "2020-05-24T23:03:11.774051",
             "status": "INACTIVE"
         },
         "clickthrucash.com": {
