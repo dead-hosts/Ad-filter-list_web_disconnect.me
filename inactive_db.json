@@ -2396,25 +2396,11 @@
             "last_retested_at_iso": "2020-05-25T11:01:37.881638",
             "status": "INACTIVE"
         },
-        "adserver.portalofevil.com": {
-            "included_at_epoch": 1588009292.971545,
-            "included_at_iso": "2020-04-27T17:41:32.971545",
-            "last_retested_at_epoch": 1590404497.910265,
-            "last_retested_at_iso": "2020-05-25T11:01:37.910265",
-            "status": "INACTIVE"
-        },
         "adserver.portugalmail.pt": {
             "included_at_epoch": 1588651864.803105,
             "included_at_iso": "2020-05-05T04:11:04.803105",
             "last_retested_at_epoch": 1590404497.917485,
             "last_retested_at_iso": "2020-05-25T11:01:37.917485",
-            "status": "INACTIVE"
-        },
-        "adserver.startnow.com": {
-            "included_at_epoch": 1588021348.964688,
-            "included_at_iso": "2020-04-27T21:02:28.964688",
-            "last_retested_at_epoch": 1590404497.933891,
-            "last_retested_at_iso": "2020-05-25T11:01:37.933891",
             "status": "INACTIVE"
         },
         "adserver1.mokono.com": {
