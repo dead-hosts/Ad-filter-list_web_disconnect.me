@@ -2882,8 +2882,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1588652576.205007,
             "included_at_iso": "2020-05-05T04:22:56.205007",
-            "last_retested_at_epoch": 1590727943.798929,
-            "last_retested_at_iso": "2020-05-29T04:52:23.798929",
+            "last_retested_at_epoch": 1590728747.775038,
+            "last_retested_at_iso": "2020-05-29T05:05:47.775038",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3260,64 +3260,64 @@
         "traffic.liveuniversenetwork.com": {
             "included_at_epoch": 1588353322.401802,
             "included_at_iso": "2020-05-01T17:15:22.401802",
-            "last_retested_at_epoch": 1590554793.475719,
-            "last_retested_at_iso": "2020-05-27T04:46:33.475719",
+            "last_retested_at_epoch": 1590728743.20054,
+            "last_retested_at_iso": "2020-05-29T05:05:43.200540",
             "status": "INACTIVE"
         },
         "trafficcdn.liveuniversenetwork.com": {
             "included_at_epoch": 1588353322.42563,
             "included_at_iso": "2020-05-01T17:15:22.425630",
-            "last_retested_at_epoch": 1590554793.49806,
-            "last_retested_at_iso": "2020-05-27T04:46:33.498060",
+            "last_retested_at_epoch": 1590728743.208909,
+            "last_retested_at_iso": "2020-05-29T05:05:43.208909",
             "status": "INACTIVE"
         },
         "tsms-ad.tsms.com": {
             "included_at_epoch": 1588353322.756824,
             "included_at_iso": "2020-05-01T17:15:22.756824",
-            "last_retested_at_epoch": 1590555228.157664,
-            "last_retested_at_iso": "2020-05-27T04:53:48.157664",
+            "last_retested_at_epoch": 1590728743.540838,
+            "last_retested_at_iso": "2020-05-29T05:05:43.540838",
             "status": "INACTIVE"
         },
         "tvas-a.pw": {
             "included_at_epoch": 1589716759.756203,
             "included_at_iso": "2020-05-17T11:59:19.756203",
-            "last_retested_at_epoch": 1590555228.212236,
-            "last_retested_at_iso": "2020-05-27T04:53:48.212236",
+            "last_retested_at_epoch": 1590728743.59133,
+            "last_retested_at_iso": "2020-05-29T05:05:43.591330",
             "status": "INACTIVE"
         },
         "tvas-c.pw": {
             "included_at_epoch": 1588353322.835256,
             "included_at_iso": "2020-05-01T17:15:22.835256",
-            "last_retested_at_epoch": 1590555228.235815,
-            "last_retested_at_iso": "2020-05-27T04:53:48.235815",
+            "last_retested_at_epoch": 1590728743.613819,
+            "last_retested_at_iso": "2020-05-29T05:05:43.613819",
             "status": "INACTIVE"
         },
         "usmsad.tom.com": {
             "included_at_epoch": 1588353323.070751,
             "included_at_iso": "2020-05-01T17:15:23.070751",
-            "last_retested_at_epoch": 1590555228.481792,
-            "last_retested_at_iso": "2020-05-27T04:53:48.481792",
+            "last_retested_at_epoch": 1590728743.847801,
+            "last_retested_at_iso": "2020-05-29T05:05:43.847801",
             "status": "INACTIVE"
         },
         "wads.webteh.com": {
             "included_at_epoch": 1588353323.494089,
             "included_at_iso": "2020-05-01T17:15:23.494089",
-            "last_retested_at_epoch": 1590555228.933684,
-            "last_retested_at_iso": "2020-05-27T04:53:48.933684",
+            "last_retested_at_epoch": 1590728744.261976,
+            "last_retested_at_iso": "2020-05-29T05:05:44.261976",
             "status": "INACTIVE"
         },
         "www.banner-link.com.br": {
             "included_at_epoch": 1588353324.039925,
             "included_at_iso": "2020-05-01T17:15:24.039925",
-            "last_retested_at_epoch": 1590555229.523797,
-            "last_retested_at_iso": "2020-05-27T04:53:49.523797",
+            "last_retested_at_epoch": 1590728744.811234,
+            "last_retested_at_iso": "2020-05-29T05:05:44.811234",
             "status": "INACTIVE"
         },
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1588353324.60172,
             "included_at_iso": "2020-05-01T17:15:24.601720",
-            "last_retested_at_epoch": 1590555230.120108,
-            "last_retested_at_iso": "2020-05-27T04:53:50.120108",
+            "last_retested_at_epoch": 1590728745.366598,
+            "last_retested_at_iso": "2020-05-29T05:05:45.366598",
             "status": "INACTIVE"
         }
     }
