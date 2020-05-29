@@ -4940,8 +4940,8 @@
         "state": "future"
     },
     "optmd.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1685232000.0,
+        "expiration_date": "28-may-2023",
         "state": "future"
     },
     "ordingly.com": {
@@ -5147,7 +5147,7 @@
     "placeplay.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "planetactive.com": {
         "epoch": 1610496000.0,
@@ -5205,8 +5205,8 @@
         "state": "future"
     },
     "popub.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "popunder.ru": {
@@ -5217,7 +5217,7 @@
     "popupmoney.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "popupnation.com": {
         "epoch": 1598400000.0,
@@ -5712,7 +5712,7 @@
     "scanscout.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "scientiamobile.com": {
         "epoch": 1605484800.0,
@@ -6460,8 +6460,8 @@
         "state": "future"
     },
     "touchads.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "touchclarity.com": {
