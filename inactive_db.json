@@ -2889,8 +2889,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1588652576.205007,
             "included_at_iso": "2020-05-05T04:22:56.205007",
-            "last_retested_at_epoch": 1590927733.557289,
-            "last_retested_at_iso": "2020-05-31T12:22:13.557289",
+            "last_retested_at_epoch": 1590929218.829967,
+            "last_retested_at_iso": "2020-05-31T12:46:58.829967",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3288,8 +3288,8 @@
         "tvas-a.pw": {
             "included_at_epoch": 1589716759.756203,
             "included_at_iso": "2020-05-17T11:59:19.756203",
-            "last_retested_at_epoch": 1590840768.840502,
-            "last_retested_at_iso": "2020-05-30T12:12:48.840502",
+            "last_retested_at_epoch": 1590929218.820787,
+            "last_retested_at_iso": "2020-05-31T12:46:58.820787",
             "status": "INACTIVE"
         },
         "tvas-c.pw": {
@@ -3302,29 +3302,29 @@
         "usmsad.tom.com": {
             "included_at_epoch": 1590799070.080716,
             "included_at_iso": "2020-05-30T00:37:50.080716",
-            "last_retested_at_epoch": 1590799070.080716,
-            "last_retested_at_iso": "2020-05-30T00:37:50.080716",
+            "last_retested_at_epoch": 1590929218.953263,
+            "last_retested_at_iso": "2020-05-31T12:46:58.953263",
             "status": "INACTIVE"
         },
         "wads.webteh.com": {
             "included_at_epoch": 1590799070.458669,
             "included_at_iso": "2020-05-30T00:37:50.458669",
-            "last_retested_at_epoch": 1590799070.458669,
-            "last_retested_at_iso": "2020-05-30T00:37:50.458669",
+            "last_retested_at_epoch": 1590929219.370683,
+            "last_retested_at_iso": "2020-05-31T12:46:59.370683",
             "status": "INACTIVE"
         },
         "www.banner-link.com.br": {
             "included_at_epoch": 1590799071.042372,
             "included_at_iso": "2020-05-30T00:37:51.042372",
-            "last_retested_at_epoch": 1590799071.042372,
-            "last_retested_at_iso": "2020-05-30T00:37:51.042372",
+            "last_retested_at_epoch": 1590929219.912035,
+            "last_retested_at_iso": "2020-05-31T12:46:59.912035",
             "status": "INACTIVE"
         },
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1590799071.596025,
             "included_at_iso": "2020-05-30T00:37:51.596025",
-            "last_retested_at_epoch": 1590799071.596025,
-            "last_retested_at_iso": "2020-05-30T00:37:51.596025",
+            "last_retested_at_epoch": 1590929220.478268,
+            "last_retested_at_iso": "2020-05-31T12:47:00.478268",
             "status": "INACTIVE"
         }
     }
