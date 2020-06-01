@@ -1907,7 +1907,7 @@
     "budsinc.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "burstmedia.com": {
         "epoch": 1611446400.0,
@@ -2130,8 +2130,8 @@
         "state": "future"
     },
     "claria.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "clashmobile.com": {
@@ -2475,9 +2475,9 @@
         "state": "future"
     },
     "crispmedia.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "crispwireless.com": {
         "epoch": 1592784000.0,
