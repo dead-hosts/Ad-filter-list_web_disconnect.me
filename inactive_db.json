@@ -2889,8 +2889,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1591159135.480523,
             "included_at_iso": "2020-06-03T04:38:55.480523",
-            "last_retested_at_epoch": 1591159844.883504,
-            "last_retested_at_iso": "2020-06-03T04:50:44.883504",
+            "last_retested_at_epoch": 1591160282.862808,
+            "last_retested_at_iso": "2020-06-03T04:58:02.862808",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3316,22 +3316,22 @@
         "wads.webteh.com": {
             "included_at_epoch": 1590799070.458669,
             "included_at_iso": "2020-05-30T00:37:50.458669",
-            "last_retested_at_epoch": 1591055407.800756,
-            "last_retested_at_iso": "2020-06-01T23:50:07.800756",
+            "last_retested_at_epoch": 1591160283.073262,
+            "last_retested_at_iso": "2020-06-03T04:58:03.073262",
             "status": "INACTIVE"
         },
         "www.banner-link.com.br": {
             "included_at_epoch": 1590799071.042372,
             "included_at_iso": "2020-05-30T00:37:51.042372",
-            "last_retested_at_epoch": 1591055408.313431,
-            "last_retested_at_iso": "2020-06-01T23:50:08.313431",
+            "last_retested_at_epoch": 1591160283.608235,
+            "last_retested_at_iso": "2020-06-03T04:58:03.608235",
             "status": "INACTIVE"
         },
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1590799071.596025,
             "included_at_iso": "2020-05-30T00:37:51.596025",
-            "last_retested_at_epoch": 1591055408.83903,
-            "last_retested_at_iso": "2020-06-01T23:50:08.839030",
+            "last_retested_at_epoch": 1591160284.151581,
+            "last_retested_at_iso": "2020-06-03T04:58:04.151581",
             "status": "INACTIVE"
         }
     }
