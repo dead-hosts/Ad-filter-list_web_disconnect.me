@@ -5407,7 +5407,7 @@
     "questaffiliates.net": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "quigo.com": {
         "epoch": 1645574400.0,
@@ -6385,9 +6385,9 @@
         "state": "future"
     },
     "topblogarea.se": {
-        "epoch": 1585699200.0,
-        "expiration_date": "01-apr-2020",
-        "state": "past"
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
     },
     "topbucks.com": {
         "epoch": 1603756800.0,
@@ -6535,8 +6535,8 @@
         "state": "future"
     },
     "trafficjunky.net": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "trafficleader.com": {
