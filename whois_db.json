@@ -5375,8 +5375,8 @@
         "state": "future"
     },
     "pulse360.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1750204800.0,
+        "expiration_date": "18-jun-2025",
         "state": "future"
     },
     "qctop.com": {
@@ -5395,8 +5395,8 @@
         "state": "future"
     },
     "quantcast.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
         "state": "future"
     },
     "quantserve.com": {
@@ -5405,9 +5405,9 @@
         "state": "future"
     },
     "questaffiliates.net": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "quigo.com": {
         "epoch": 1645574400.0,
@@ -6370,8 +6370,8 @@
         "state": "future"
     },
     "top20free.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "top66.ro": {
@@ -6507,7 +6507,7 @@
     "trademob.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "traffic-exchange.com": {
         "epoch": 1619654400.0,
