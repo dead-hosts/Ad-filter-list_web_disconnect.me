@@ -1598,6 +1598,13 @@
             "last_retested_at_iso": "2020-06-21T04:30:56.462686",
             "status": "INACTIVE"
         },
+        "ac.rnm.ca": {
+            "included_at_epoch": 1592735302.971432,
+            "included_at_iso": "2020-06-21T10:28:22.971432",
+            "last_retested_at_epoch": 1592735302.971432,
+            "last_retested_at_iso": "2020-06-21T10:28:22.971432",
+            "status": "INACTIVE"
+        },
         "accounts.pkr.com.invalid": {
             "included_at_epoch": 1592044546.670015,
             "included_at_iso": "2020-06-13T10:35:46.670015",
@@ -1862,6 +1869,13 @@
             "included_at_iso": "2020-06-13T10:35:48.755640",
             "last_retested_at_epoch": 1592713858.681865,
             "last_retested_at_iso": "2020-06-21T04:30:58.681865",
+            "status": "INACTIVE"
+        },
+        "ads.brabys.com": {
+            "included_at_epoch": 1592735304.746653,
+            "included_at_iso": "2020-06-21T10:28:24.746653",
+            "last_retested_at_epoch": 1592735304.746653,
+            "last_retested_at_iso": "2020-06-21T10:28:24.746653",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -2317,6 +2331,13 @@
             "included_at_iso": "2020-06-13T11:04:31.235611",
             "last_retested_at_epoch": 1592713859.504497,
             "last_retested_at_iso": "2020-06-21T04:30:59.504497",
+            "status": "INACTIVE"
+        },
+        "ads1.canoe.ca": {
+            "included_at_epoch": 1592735305.050651,
+            "included_at_iso": "2020-06-21T10:28:25.050651",
+            "last_retested_at_epoch": 1592735305.050651,
+            "last_retested_at_iso": "2020-06-21T10:28:25.050651",
             "status": "INACTIVE"
         },
         "ads1.theglobeandmail.com": {
