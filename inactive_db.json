@@ -2669,6 +2669,13 @@
             "last_retested_at_iso": "2020-06-21T04:48:01.941503",
             "status": "INACTIVE"
         },
+        "bannerexchange.cjb.net": {
+            "included_at_epoch": 1592737114.060207,
+            "included_at_iso": "2020-06-21T10:58:34.060207",
+            "last_retested_at_epoch": 1592737114.060207,
+            "last_retested_at_iso": "2020-06-21T10:58:34.060207",
+            "status": "INACTIVE"
+        },
         "banners.apnuk.com": {
             "included_at_epoch": 1590794572.285768,
             "included_at_iso": "2020-05-29T23:22:52.285768",
@@ -2917,8 +2924,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1591159135.480523,
             "included_at_iso": "2020-06-03T04:38:55.480523",
-            "last_retested_at_epoch": 1592715728.676097,
-            "last_retested_at_iso": "2020-06-21T05:02:08.676097",
+            "last_retested_at_epoch": 1592737119.969438,
+            "last_retested_at_iso": "2020-06-21T10:58:39.969438",
             "status": "INACTIVE"
         },
         "images.v3.com": {
