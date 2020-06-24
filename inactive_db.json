@@ -1927,6 +1927,13 @@
             "last_retested_at_iso": "2020-06-24T04:34:06.900660",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1593038423.603326,
+            "included_at_iso": "2020-06-24T22:40:23.603326",
+            "last_retested_at_epoch": 1593038423.603326,
+            "last_retested_at_iso": "2020-06-24T22:40:23.603326",
+            "status": "INACTIVE"
+        },
         "ads.esmas.com": {
             "included_at_epoch": 1592044548.892418,
             "included_at_iso": "2020-06-13T10:35:48.892418",
