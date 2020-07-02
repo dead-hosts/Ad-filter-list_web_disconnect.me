@@ -3977,7 +3977,7 @@
     "linkbuddies.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "linkexchange.com": {
         "epoch": 1609977600.0,
@@ -5020,8 +5020,8 @@
         "state": "future"
     },
     "pay-ads.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "paycounter.com": {
@@ -5685,8 +5685,8 @@
         "state": "future"
     },
     "ru-traffic.com": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "ru4.com": {
@@ -5822,7 +5822,7 @@
     "sexlist.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "sextracker.com": {
         "epoch": 1614988800.0,
