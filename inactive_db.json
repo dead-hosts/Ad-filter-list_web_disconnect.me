@@ -2347,6 +2347,48 @@
             "last_retested_at_iso": "2020-07-05T04:38:07.347623",
             "status": "INACTIVE"
         },
+        "adserv.evo-x.de": {
+            "included_at_epoch": 1593944594.829658,
+            "included_at_iso": "2020-07-05T10:23:14.829658",
+            "last_retested_at_epoch": 1593944594.829658,
+            "last_retested_at_iso": "2020-07-05T10:23:14.829658",
+            "status": "INACTIVE"
+        },
+        "adserv.gamezone.de": {
+            "included_at_epoch": 1593944594.83878,
+            "included_at_iso": "2020-07-05T10:23:14.838780",
+            "last_retested_at_epoch": 1593944594.83878,
+            "last_retested_at_iso": "2020-07-05T10:23:14.838780",
+            "status": "INACTIVE"
+        },
+        "adserv.iafrica.com": {
+            "included_at_epoch": 1593944594.846301,
+            "included_at_iso": "2020-07-05T10:23:14.846301",
+            "last_retested_at_epoch": 1593944594.846301,
+            "last_retested_at_iso": "2020-07-05T10:23:14.846301",
+            "status": "INACTIVE"
+        },
+        "adserv.qconline.com": {
+            "included_at_epoch": 1593944594.853721,
+            "included_at_iso": "2020-07-05T10:23:14.853721",
+            "last_retested_at_epoch": 1593944594.853721,
+            "last_retested_at_iso": "2020-07-05T10:23:14.853721",
+            "status": "INACTIVE"
+        },
+        "adserv.quality-channel.de": {
+            "included_at_epoch": 1593944594.861221,
+            "included_at_iso": "2020-07-05T10:23:14.861221",
+            "last_retested_at_epoch": 1593944594.861221,
+            "last_retested_at_iso": "2020-07-05T10:23:14.861221",
+            "status": "INACTIVE"
+        },
+        "adserver-live.yoc.mobi": {
+            "included_at_epoch": 1593944594.870443,
+            "included_at_iso": "2020-07-05T10:23:14.870443",
+            "last_retested_at_epoch": 1593944594.870443,
+            "last_retested_at_iso": "2020-07-05T10:23:14.870443",
+            "status": "INACTIVE"
+        },
         "adserver.clashmusic.com": {
             "included_at_epoch": 1593664540.249012,
             "included_at_iso": "2020-07-02T04:35:40.249012",
