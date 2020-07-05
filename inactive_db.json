@@ -2655,6 +2655,13 @@
             "last_retested_at_iso": "2020-07-05T05:06:44.220494",
             "status": "INACTIVE"
         },
+        "banner.webmersion.com": {
+            "included_at_epoch": 1593946287.067274,
+            "included_at_iso": "2020-07-05T10:51:27.067274",
+            "last_retested_at_epoch": 1593946287.067274,
+            "last_retested_at_iso": "2020-07-05T10:51:27.067274",
+            "status": "INACTIVE"
+        },
         "banner.wirenode.com": {
             "included_at_epoch": 1593300739.59431,
             "included_at_iso": "2020-06-27T23:32:19.594310",
@@ -2931,8 +2938,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1593666407.861632,
             "included_at_iso": "2020-07-02T05:06:47.861632",
-            "last_retested_at_epoch": 1593926818.260506,
-            "last_retested_at_iso": "2020-07-05T05:26:58.260506",
+            "last_retested_at_epoch": 1593946292.545874,
+            "last_retested_at_iso": "2020-07-05T10:51:32.545874",
             "status": "INACTIVE"
         },
         "images.v3.com": {
