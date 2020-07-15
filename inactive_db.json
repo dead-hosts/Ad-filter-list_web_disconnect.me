@@ -2844,6 +2844,13 @@
             "last_retested_at_iso": "2020-07-15T04:55:35.793016",
             "status": "INACTIVE"
         },
+        "domainsteam.de": {
+            "included_at_epoch": 1594810659.270688,
+            "included_at_iso": "2020-07-15T10:57:39.270688",
+            "last_retested_at_epoch": 1594810659.270688,
+            "last_retested_at_iso": "2020-07-15T10:57:39.270688",
+            "status": "INACTIVE"
+        },
         "emonitor.takeit.cz": {
             "included_at_epoch": 1593300743.149872,
             "included_at_iso": "2020-06-27T23:32:23.149872",
@@ -2924,8 +2931,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1593666407.861632,
             "included_at_iso": "2020-07-02T05:06:47.861632",
-            "last_retested_at_epoch": 1594788935.696939,
-            "last_retested_at_iso": "2020-07-15T04:55:35.696939",
+            "last_retested_at_epoch": 1594810661.70906,
+            "last_retested_at_iso": "2020-07-15T10:57:41.709060",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -2968,6 +2975,13 @@
             "included_at_iso": "2020-06-27T23:32:26.935116",
             "last_retested_at_epoch": 1594788935.682253,
             "last_retested_at_iso": "2020-07-15T04:55:35.682253",
+            "status": "INACTIVE"
+        },
+        "maplefarmmedia.com": {
+            "included_at_epoch": 1594810663.186856,
+            "included_at_iso": "2020-07-15T10:57:43.186856",
+            "last_retested_at_epoch": 1594810663.186856,
+            "last_retested_at_iso": "2020-07-15T10:57:43.186856",
             "status": "INACTIVE"
         },
         "memorix.sdv.fr": {
@@ -3031,6 +3045,13 @@
             "included_at_iso": "2020-07-03T12:30:45.651324",
             "last_retested_at_epoch": 1594788935.309901,
             "last_retested_at_iso": "2020-07-15T04:55:35.309901",
+            "status": "INACTIVE"
+        },
+        "pagerank-ranking.de": {
+            "included_at_epoch": 1594810665.555633,
+            "included_at_iso": "2020-07-15T10:57:45.555633",
+            "last_retested_at_epoch": 1594810665.555633,
+            "last_retested_at_iso": "2020-07-15T10:57:45.555633",
             "status": "INACTIVE"
         },
         "pagerank-submitter.com": {
