@@ -1871,6 +1871,13 @@
             "last_retested_at_iso": "2020-07-17T04:43:21.579201",
             "status": "INACTIVE"
         },
+        "ads.canalblog.com": {
+            "included_at_epoch": 1594981159.270072,
+            "included_at_iso": "2020-07-17T10:19:19.270072",
+            "last_retested_at_epoch": 1594981159.270072,
+            "last_retested_at_iso": "2020-07-17T10:19:19.270072",
+            "status": "INACTIVE"
+        },
         "ads.cgnetworks.com": {
             "included_at_epoch": 1594616834.917822,
             "included_at_iso": "2020-07-13T05:07:14.917822",
@@ -1925,6 +1932,13 @@
             "included_at_iso": "2020-07-13T05:07:14.986802",
             "last_retested_at_epoch": 1594961001.70787,
             "last_retested_at_iso": "2020-07-17T04:43:21.707870",
+            "status": "INACTIVE"
+        },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1594981159.330713,
+            "included_at_iso": "2020-07-17T10:19:19.330713",
+            "last_retested_at_epoch": 1594981159.330713,
+            "last_retested_at_iso": "2020-07-17T10:19:19.330713",
             "status": "INACTIVE"
         },
         "ads.esmas.com": {
