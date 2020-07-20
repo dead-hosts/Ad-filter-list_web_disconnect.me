@@ -1622,7 +1622,7 @@
     "bannerimage.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bannerlandia.com.ar": {
         "epoch": 1619481600.0,
@@ -3740,8 +3740,8 @@
         "state": "future"
     },
     "internetfuel.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "inuvi.com": {
