@@ -5972,7 +5972,7 @@
     "softclick.com.br": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "spacash.com": {
         "epoch": 1626220800.0,
@@ -6747,7 +6747,7 @@
     "validclick.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "valuead.com": {
         "epoch": 1616198400.0,
@@ -6975,9 +6975,9 @@
         "state": "future"
     },
     "wegcash.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "wetrack.it": {
         "epoch": 1613692800.0,
@@ -6990,8 +6990,8 @@
         "state": "future"
     },
     "whenu.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "whereapps.com": {
