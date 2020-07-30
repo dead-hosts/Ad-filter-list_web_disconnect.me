@@ -5550,8 +5550,8 @@
         "state": "future"
     },
     "reinvigorate.net": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "reklamer.com.ua": {
@@ -6077,7 +6077,7 @@
     "stats4all.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "statsie.com": {
         "epoch": 1600560000.0,
