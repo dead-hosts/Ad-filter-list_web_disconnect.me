@@ -2942,7 +2942,7 @@
     "experteerads.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "exponential.com": {
         "epoch": 1854748800.0,
@@ -5270,8 +5270,8 @@
         "state": "future"
     },
     "premium-offers.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "primaryads.com": {
