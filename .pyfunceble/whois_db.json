@@ -1590,8 +1590,8 @@
         "state": "future"
     },
     "banner.kiev.ua": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "bannerboxes.com": {
@@ -2645,8 +2645,8 @@
         "state": "past"
     },
     "domainsponsor.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "domdex.com": {
@@ -2940,9 +2940,9 @@
         "state": "future"
     },
     "experteerads.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
-        "state": "past"
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "state": "future"
     },
     "exponential.com": {
         "epoch": 1854748800.0,
@@ -3572,7 +3572,7 @@
     "ientrymail.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "iesnare.com": {
         "epoch": 1618531200.0,
@@ -4407,7 +4407,7 @@
     "mobcdn.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobclix.com": {
         "epoch": 1616457600.0,
@@ -5465,8 +5465,8 @@
         "state": "future"
     },
     "rate.ru": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "re-directme.com": {
