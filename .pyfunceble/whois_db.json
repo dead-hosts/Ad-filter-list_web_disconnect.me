@@ -450,8 +450,8 @@
         "state": "future"
     },
     "adforce.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1659398400.0,
+        "expiration_date": "02-aug-2022",
         "state": "future"
     },
     "adform.com": {
@@ -505,9 +505,9 @@
         "state": "future"
     },
     "adisfy.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "adition.com": {
         "epoch": 1622332800.0,
@@ -1107,7 +1107,7 @@
     "advariant.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adventory.com": {
         "epoch": 1603324800.0,
