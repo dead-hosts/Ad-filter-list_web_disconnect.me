@@ -2802,6 +2802,13 @@
             "last_retested_at_iso": "2020-08-05T05:29:25.976276",
             "status": "INACTIVE"
         },
+        "content.acc-hd.de": {
+            "included_at_epoch": 1596625525.858992,
+            "included_at_iso": "2020-08-05T11:05:25.858992",
+            "last_retested_at_epoch": 1596625525.858992,
+            "last_retested_at_iso": "2020-08-05T11:05:25.858992",
+            "status": "INACTIVE"
+        },
         "count.rbc.ru": {
             "included_at_epoch": 1595739888.366743,
             "included_at_iso": "2020-07-26T05:04:48.366743",
@@ -2952,8 +2959,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1596086223.278938,
             "included_at_iso": "2020-07-30T05:17:03.278938",
-            "last_retested_at_epoch": 1596605900.933118,
-            "last_retested_at_iso": "2020-08-05T05:38:20.933118",
+            "last_retested_at_epoch": 1596625529.574945,
+            "last_retested_at_iso": "2020-08-05T11:05:29.574945",
             "status": "INACTIVE"
         },
         "images.v3.com": {
