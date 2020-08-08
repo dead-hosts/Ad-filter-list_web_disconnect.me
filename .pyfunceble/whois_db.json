@@ -1602,7 +1602,7 @@
     "bannerconnect.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bannerconnect.net": {
         "epoch": 1615507200.0,
@@ -2742,7 +2742,7 @@
     "ecircle-ag.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "eclickz.com": {
         "epoch": 1705017600.0,
@@ -2765,8 +2765,8 @@
         "state": "future"
     },
     "effectivemeasure.net": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1691366400.0,
+        "expiration_date": "07-aug-2023",
         "state": "future"
     },
     "ehealthcaresolutions.com": {
@@ -3005,8 +3005,8 @@
         "state": "future"
     },
     "fastclick.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "fastclick.net": {
@@ -3717,7 +3717,7 @@
     "inspectorclick.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "instantmadness.com": {
         "epoch": 1624406400.0,
@@ -4005,8 +4005,8 @@
         "state": "future"
     },
     "linkshighway.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "linkshighway.net": {
