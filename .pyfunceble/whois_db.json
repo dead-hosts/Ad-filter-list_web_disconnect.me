@@ -1600,9 +1600,9 @@
         "state": "future"
     },
     "bannerconnect.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "bannerconnect.net": {
         "epoch": 1615507200.0,
@@ -2740,9 +2740,9 @@
         "state": "future"
     },
     "ecircle-ag.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "eclickz.com": {
         "epoch": 1705017600.0,
@@ -3715,9 +3715,9 @@
         "state": "future"
     },
     "inspectorclick.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "instantmadness.com": {
         "epoch": 1624406400.0,
@@ -4107,7 +4107,7 @@
     "malware-scan.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "manage.com": {
         "epoch": 1609545600.0,
@@ -5165,8 +5165,8 @@
         "state": "future"
     },
     "plethoramobile.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "plista.com": {
