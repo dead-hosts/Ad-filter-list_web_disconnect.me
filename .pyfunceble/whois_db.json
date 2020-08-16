@@ -1822,7 +1822,7 @@
     "blueadvertise.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bluecava.com": {
         "epoch": 1612137600.0,
@@ -1895,8 +1895,8 @@
         "state": "future"
     },
     "british-banners.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1692144000.0,
+        "expiration_date": "16-aug-2023",
         "state": "future"
     },
     "btrll.com": {
@@ -1982,7 +1982,7 @@
     "cashengines.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cashfiesta.com": {
         "epoch": 1612656000.0,
@@ -4052,7 +4052,7 @@
     "localmediabuying.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "logua.com": {
         "epoch": 1604102400.0,
