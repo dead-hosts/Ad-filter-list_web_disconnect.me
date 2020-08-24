@@ -2640,9 +2640,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
-        "state": "past"
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
     },
     "domainsponsor.com": {
         "epoch": 1627689600.0,
@@ -2977,7 +2977,7 @@
     "eyeviewads.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "eyewonder.com": {
         "epoch": 1608681600.0,
@@ -3435,8 +3435,8 @@
         "state": "future"
     },
     "hits4me.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1661212800.0,
+        "expiration_date": "23-aug-2022",
         "state": "future"
     },
     "hits4pay.com": {
@@ -3615,8 +3615,8 @@
         "state": "future"
     },
     "impactmobile.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "imprese.cz": {
@@ -4917,7 +4917,7 @@
     "openclick.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "openmarket.com": {
         "epoch": 1653350400.0,
@@ -5445,8 +5445,8 @@
         "state": "future"
     },
     "rank-master.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "rankingscout.com": {
