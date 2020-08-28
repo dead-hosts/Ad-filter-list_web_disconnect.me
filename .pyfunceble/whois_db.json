@@ -1432,7 +1432,7 @@
     "apprebates.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "appredeem.com": {
         "epoch": 1629331200.0,
@@ -1462,7 +1462,7 @@
     "appsnack.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "apptera.com": {
         "epoch": 1644710400.0,
@@ -2500,8 +2500,8 @@
         "state": "future"
     },
     "cubics.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "cyberbounty.com": {
@@ -3622,7 +3622,7 @@
     "imprese.cz": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "impressionmedia.cz": {
         "epoch": 1690070400.0,
@@ -4550,8 +4550,8 @@
         "state": "future"
     },
     "motricity.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "motrixi.com": {
@@ -4815,9 +4815,9 @@
         "state": "future"
     },
     "nuseek.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "offerforge.com": {
         "epoch": 1613952000.0,
@@ -5107,7 +5107,7 @@
     "phizzle.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "phluant.com": {
         "epoch": 1626048000.0,
@@ -5220,9 +5220,9 @@
         "state": "future"
     },
     "popupnation.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "popuptraffic.com": {
         "epoch": 1607817600.0,
@@ -5305,9 +5305,9 @@
         "state": "future"
     },
     "projectwonderful.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "promobenef.com": {
         "epoch": 1622851200.0,
@@ -5470,9 +5470,9 @@
         "state": "future"
     },
     "re-directme.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
-        "state": "past"
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "state": "future"
     },
     "reachjunction.com": {
         "epoch": 1623456000.0,
