@@ -2753,6 +2753,13 @@
             "last_retested_at_iso": "2020-08-28T05:26:40.894095",
             "status": "INACTIVE"
         },
+        "boersego-ads.de": {
+            "included_at_epoch": 1598765012.694316,
+            "included_at_iso": "2020-08-30T05:23:32.694316",
+            "last_retested_at_epoch": 1598765012.694316,
+            "last_retested_at_iso": "2020-08-30T05:23:32.694316",
+            "status": "INACTIVE"
+        },
         "bravenet.com.invalid": {
             "included_at_epoch": 1598246773.870884,
             "included_at_iso": "2020-08-24T05:26:13.870884",
@@ -2865,6 +2872,13 @@
             "last_retested_at_iso": "2020-08-28T05:26:43.553165",
             "status": "INACTIVE"
         },
+        "dynamic.fmpub.net": {
+            "included_at_epoch": 1598765013.110552,
+            "included_at_iso": "2020-08-30T05:23:33.110552",
+            "last_retested_at_epoch": 1598765013.110552,
+            "last_retested_at_iso": "2020-08-30T05:23:33.110552",
+            "status": "INACTIVE"
+        },
         "emonitor.takeit.cz": {
             "included_at_epoch": 1598246776.575625,
             "included_at_iso": "2020-08-24T05:26:16.575625",
@@ -2921,6 +2935,13 @@
             "last_retested_at_iso": "2020-08-28T05:26:45.263741",
             "status": "INACTIVE"
         },
+        "german-linkindex.de": {
+            "included_at_epoch": 1598765013.36644,
+            "included_at_iso": "2020-08-30T05:23:33.366440",
+            "last_retested_at_epoch": 1598765013.36644,
+            "last_retested_at_iso": "2020-08-30T05:23:33.366440",
+            "status": "INACTIVE"
+        },
         "gold.weborama.fr": {
             "included_at_epoch": 1598246777.959243,
             "included_at_iso": "2020-08-24T05:26:17.959243",
@@ -2952,8 +2973,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1598592900.90511,
-            "last_retested_at_iso": "2020-08-28T05:35:00.905110",
+            "last_retested_at_epoch": 1598765013.562666,
+            "last_retested_at_iso": "2020-08-30T05:23:33.562666",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -2989,6 +3010,13 @@
             "included_at_iso": "2020-08-12T05:24:03.050682",
             "last_retested_at_epoch": 1598592407.08395,
             "last_retested_at_iso": "2020-08-28T05:26:47.083950",
+            "status": "INACTIVE"
+        },
+        "kt-g.de": {
+            "included_at_epoch": 1598765013.742641,
+            "included_at_iso": "2020-08-30T05:23:33.742641",
+            "last_retested_at_epoch": 1598765013.742641,
+            "last_retested_at_iso": "2020-08-30T05:23:33.742641",
             "status": "INACTIVE"
         },
         "lct.salesforce.com": {
@@ -3094,6 +3122,13 @@
             "included_at_iso": "2020-08-24T05:26:22.915763",
             "last_retested_at_epoch": 1598592410.406348,
             "last_retested_at_iso": "2020-08-28T05:26:50.406348",
+            "status": "INACTIVE"
+        },
+        "ordingly.com": {
+            "included_at_epoch": 1598765014.366184,
+            "included_at_iso": "2020-08-30T05:23:34.366184",
+            "last_retested_at_epoch": 1598765014.366184,
+            "last_retested_at_iso": "2020-08-30T05:23:34.366184",
             "status": "INACTIVE"
         },
         "pagerank-submitter.com": {

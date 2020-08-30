@@ -1935,8 +1935,9 @@
         "state": "future"
     },
     "bvalphaserver.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "callfire.com": {
@@ -3562,6 +3563,7 @@
     "idot.cz": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "server": "whois.nic.cz",
         "state": "past"
     },
     "idregie.com": {
@@ -3627,6 +3629,7 @@
     "imprese.cz": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
+        "server": "whois.nic.cz",
         "state": "past"
     },
     "impressionmedia.cz": {
@@ -3655,8 +3658,9 @@
         "state": "future"
     },
     "indexstats.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "indieclick.com": {
@@ -4240,8 +4244,9 @@
         "state": "future"
     },
     "mediamind.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mediaplazza.com": {
@@ -4727,7 +4732,8 @@
     "net-filter.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "netaffiliation.com": {
         "epoch": 1622246400.0,
@@ -5110,9 +5116,10 @@
         "state": "future"
     },
     "phizzle.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
-        "state": "past"
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "phluant.com": {
         "epoch": 1626048000.0,
@@ -5670,8 +5677,9 @@
         "state": "future"
     },
     "roxr.net": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rtbidder.net": {
@@ -6022,7 +6030,8 @@
     "spywarenuker.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "spywords.com": {
         "epoch": 1627257600.0,
@@ -6185,8 +6194,9 @@
         "state": "future"
     },
     "tailsweep.se": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "takru.com": {
@@ -6557,7 +6567,8 @@
     "trafficspaces.net": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "trafficstrategies.com": {
         "epoch": 1615248000.0,
