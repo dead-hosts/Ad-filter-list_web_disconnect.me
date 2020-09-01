@@ -2980,8 +2980,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1598765013.562666,
-            "last_retested_at_iso": "2020-08-30T05:23:33.562666",
+            "last_retested_at_epoch": 1598937910.917409,
+            "last_retested_at_iso": "2020-09-01T05:25:10.917409",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3262,6 +3262,13 @@
             "included_at_iso": "2020-08-24T05:34:52.726321",
             "last_retested_at_epoch": 1598592901.133872,
             "last_retested_at_iso": "2020-08-28T05:35:01.133872",
+            "status": "INACTIVE"
+        },
+        "sidebar.angelfire.com": {
+            "included_at_epoch": 1598937912.286186,
+            "included_at_iso": "2020-09-01T05:25:12.286186",
+            "last_retested_at_epoch": 1598937912.286186,
+            "last_retested_at_iso": "2020-09-01T05:25:12.286186",
             "status": "INACTIVE"
         },
         "sitebrand.geeks.com": {

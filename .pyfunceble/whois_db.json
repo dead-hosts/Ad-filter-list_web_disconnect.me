@@ -3554,7 +3554,8 @@
     "iddiction.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "identads.com": {
         "epoch": 1620086400.0,
@@ -3995,8 +3996,9 @@
         "state": "future"
     },
     "linkexchange.ru": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "linkprice.com": {
@@ -4731,10 +4733,10 @@
         "state": "future"
     },
     "net-filter.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "netaffiliation.com": {
         "epoch": 1622246400.0,
@@ -4877,8 +4879,9 @@
         "state": "future"
     },
     "onenetworkdirect.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onestat.com": {
@@ -6029,10 +6032,10 @@
         "state": "future"
     },
     "spywarenuker.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "spywords.com": {
         "epoch": 1627257600.0,
@@ -6566,10 +6569,10 @@
         "state": "future"
     },
     "trafficspaces.net": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trafficstrategies.com": {
         "epoch": 1615248000.0,
