@@ -1822,6 +1822,13 @@
             "last_retested_at_iso": "2020-08-28T05:07:49.880442",
             "status": "INACTIVE"
         },
+        "ads.ask.com": {
+            "included_at_epoch": 1598936878.739239,
+            "included_at_iso": "2020-09-01T05:07:58.739239",
+            "last_retested_at_epoch": 1598936878.739239,
+            "last_retested_at_iso": "2020-09-01T05:07:58.739239",
+            "status": "INACTIVE"
+        },
         "ads.batpmturner.com": {
             "included_at_epoch": 1597208814.157657,
             "included_at_iso": "2020-08-12T05:06:54.157657",
@@ -2362,45 +2369,45 @@
             "status": "INACTIVE"
         },
         "adserv.evo-x.de": {
-            "included_at_epoch": 1596431476.88324,
-            "included_at_iso": "2020-08-03T05:11:16.883240",
-            "last_retested_at_epoch": 1598591271.025119,
-            "last_retested_at_iso": "2020-08-28T05:07:51.025119",
+            "included_at_epoch": 1598936879.179672,
+            "included_at_iso": "2020-09-01T05:07:59.179672",
+            "last_retested_at_epoch": 1598936879.179672,
+            "last_retested_at_iso": "2020-09-01T05:07:59.179672",
             "status": "INACTIVE"
         },
         "adserv.gamezone.de": {
-            "included_at_epoch": 1596431476.890974,
-            "included_at_iso": "2020-08-03T05:11:16.890974",
-            "last_retested_at_epoch": 1598591271.033397,
-            "last_retested_at_iso": "2020-08-28T05:07:51.033397",
+            "included_at_epoch": 1598936879.189273,
+            "included_at_iso": "2020-09-01T05:07:59.189273",
+            "last_retested_at_epoch": 1598936879.189273,
+            "last_retested_at_iso": "2020-09-01T05:07:59.189273",
             "status": "INACTIVE"
         },
         "adserv.iafrica.com": {
-            "included_at_epoch": 1596431476.89872,
-            "included_at_iso": "2020-08-03T05:11:16.898720",
-            "last_retested_at_epoch": 1598591271.041458,
-            "last_retested_at_iso": "2020-08-28T05:07:51.041458",
+            "included_at_epoch": 1598936879.197054,
+            "included_at_iso": "2020-09-01T05:07:59.197054",
+            "last_retested_at_epoch": 1598936879.197054,
+            "last_retested_at_iso": "2020-09-01T05:07:59.197054",
             "status": "INACTIVE"
         },
         "adserv.qconline.com": {
-            "included_at_epoch": 1596431476.906341,
-            "included_at_iso": "2020-08-03T05:11:16.906341",
-            "last_retested_at_epoch": 1598591271.058004,
-            "last_retested_at_iso": "2020-08-28T05:07:51.058004",
+            "included_at_epoch": 1598936879.204895,
+            "included_at_iso": "2020-09-01T05:07:59.204895",
+            "last_retested_at_epoch": 1598936879.204895,
+            "last_retested_at_iso": "2020-09-01T05:07:59.204895",
             "status": "INACTIVE"
         },
         "adserv.quality-channel.de": {
-            "included_at_epoch": 1596431476.914104,
-            "included_at_iso": "2020-08-03T05:11:16.914104",
-            "last_retested_at_epoch": 1598591271.049817,
-            "last_retested_at_iso": "2020-08-28T05:07:51.049817",
+            "included_at_epoch": 1598936879.212769,
+            "included_at_iso": "2020-09-01T05:07:59.212769",
+            "last_retested_at_epoch": 1598936879.212769,
+            "last_retested_at_iso": "2020-09-01T05:07:59.212769",
             "status": "INACTIVE"
         },
         "adserver-live.yoc.mobi": {
-            "included_at_epoch": 1596431476.921754,
-            "included_at_iso": "2020-08-03T05:11:16.921754",
-            "last_retested_at_epoch": 1598591271.067913,
-            "last_retested_at_iso": "2020-08-28T05:07:51.067913",
+            "included_at_epoch": 1598936879.222489,
+            "included_at_iso": "2020-09-01T05:07:59.222489",
+            "last_retested_at_epoch": 1598936879.222489,
+            "last_retested_at_iso": "2020-09-01T05:07:59.222489",
             "status": "INACTIVE"
         },
         "adserver.clashmusic.com": {
