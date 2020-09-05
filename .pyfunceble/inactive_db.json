@@ -1753,10 +1753,10 @@
             "status": "INACTIVE"
         },
         "admerize.be": {
-            "included_at_epoch": 1596709502.915301,
-            "included_at_iso": "2020-08-06T10:25:02.915301",
-            "last_retested_at_epoch": 1598591269.254572,
-            "last_retested_at_iso": "2020-08-28T05:07:49.254572",
+            "included_at_epoch": 1599282615.943862,
+            "included_at_iso": "2020-09-05T05:10:15.943862",
+            "last_retested_at_epoch": 1599282615.943862,
+            "last_retested_at_iso": "2020-09-05T05:10:15.943862",
             "status": "INACTIVE"
         },
         "admob.comadwhirl.com": {
@@ -1967,6 +1967,13 @@
             "included_at_iso": "2020-08-12T05:06:54.386488",
             "last_retested_at_epoch": 1598591270.135564,
             "last_retested_at_iso": "2020-08-28T05:07:50.135564",
+            "status": "INACTIVE"
+        },
+        "ads.factorymedia.com": {
+            "included_at_epoch": 1599282616.120472,
+            "included_at_iso": "2020-09-05T05:10:16.120472",
+            "last_retested_at_epoch": 1599282616.120472,
+            "last_retested_at_iso": "2020-09-05T05:10:16.120472",
             "status": "INACTIVE"
         },
         "ads.forbes.com": {
