@@ -7193,12 +7193,14 @@
     "yesads.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "yesadvertising.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "yieldads.com": {
         "epoch": 1612224000.0,
