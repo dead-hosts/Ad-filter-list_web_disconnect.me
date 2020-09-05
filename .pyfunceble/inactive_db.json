@@ -2987,8 +2987,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1599110750.142595,
-            "last_retested_at_iso": "2020-09-03T05:25:50.142595",
+            "last_retested_at_epoch": 1599283642.939946,
+            "last_retested_at_iso": "2020-09-05T05:27:22.939946",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3083,10 +3083,10 @@
             "status": "INACTIVE"
         },
         "metrics.windowsitpro.com": {
-            "included_at_epoch": 1596863516.864999,
-            "included_at_iso": "2020-08-08T05:11:56.864999",
-            "last_retested_at_epoch": 1598592408.617426,
-            "last_retested_at_iso": "2020-08-28T05:26:48.617426",
+            "included_at_epoch": 1599283643.421473,
+            "included_at_iso": "2020-09-05T05:27:23.421473",
+            "last_retested_at_epoch": 1599283643.421473,
+            "last_retested_at_iso": "2020-09-05T05:27:23.421473",
             "status": "INACTIVE"
         },
         "moadnet.com": {

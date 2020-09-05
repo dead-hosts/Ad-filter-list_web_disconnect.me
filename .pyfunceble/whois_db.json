@@ -2915,8 +2915,9 @@
         "state": "future"
     },
     "exchangead.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchangeclicksonline.com": {
@@ -3135,8 +3136,9 @@
         "state": "future"
     },
     "freestats.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freestats.tv": {
@@ -3692,7 +3694,8 @@
     "infinityads.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "infolinks.com": {
         "epoch": 1602979200.0,
@@ -4408,8 +4411,9 @@
         "state": "future"
     },
     "mmtro.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moadnet.com": {
@@ -5702,8 +5706,9 @@
         "state": "future"
     },
     "rtbpopd.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ru-traffic.com": {
