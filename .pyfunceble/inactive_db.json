@@ -2305,34 +2305,6 @@
             "last_retested_at_iso": "2020-08-28T05:26:46.436238",
             "status": "INACTIVE"
         },
-        "jbeet.cjt1.net": {
-            "included_at_epoch": 1597209842.98377,
-            "included_at_iso": "2020-08-12T05:24:02.983770",
-            "last_retested_at_epoch": 1598592407.02787,
-            "last_retested_at_iso": "2020-08-28T05:26:47.027870",
-            "status": "INACTIVE"
-        },
-        "jedonkey.cjt1.net": {
-            "included_at_epoch": 1597209843.005452,
-            "included_at_iso": "2020-08-12T05:24:03.005452",
-            "last_retested_at_epoch": 1598592407.03644,
-            "last_retested_at_iso": "2020-08-28T05:26:47.036440",
-            "status": "INACTIVE"
-        },
-        "jkazaa.cjt1.net": {
-            "included_at_epoch": 1597209843.029007,
-            "included_at_iso": "2020-08-12T05:24:03.029007",
-            "last_retested_at_epoch": 1598592407.060989,
-            "last_retested_at_iso": "2020-08-28T05:26:47.060989",
-            "status": "INACTIVE"
-        },
-        "jnova.cjt1.net": {
-            "included_at_epoch": 1597209843.050682,
-            "included_at_iso": "2020-08-12T05:24:03.050682",
-            "last_retested_at_epoch": 1598592407.08395,
-            "last_retested_at_iso": "2020-08-28T05:26:47.083950",
-            "status": "INACTIVE"
-        },
         "kt-g.de": {
             "included_at_epoch": 1598765013.742641,
             "included_at_iso": "2020-08-30T05:23:33.742641",
