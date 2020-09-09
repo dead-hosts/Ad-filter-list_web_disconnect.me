@@ -2323,7 +2323,8 @@
     "code-server.biz": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "colonize.com": {
         "epoch": 1719792000.0,
@@ -2699,7 +2700,8 @@
     "e-bannerx.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "e-debtconsolidation.com": {
         "epoch": 1602720000.0,
@@ -5399,8 +5401,9 @@
         "state": "future"
     },
     "pubmatic.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1757289600.0,
+        "expiration_date": "08-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pulse360.com": {
