@@ -6289,8 +6289,9 @@
         "state": "future"
     },
     "tcads.net": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "techclicks.net": {

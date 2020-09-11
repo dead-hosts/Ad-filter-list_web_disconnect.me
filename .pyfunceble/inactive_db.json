@@ -3068,13 +3068,6 @@
             "last_retested_at_iso": "2020-08-28T05:26:47.923060",
             "status": "INACTIVE"
         },
-        "maplefarmmedia.com": {
-            "included_at_epoch": 1597382529.672461,
-            "included_at_iso": "2020-08-14T05:22:09.672461",
-            "last_retested_at_epoch": 1598592408.005322,
-            "last_retested_at_iso": "2020-08-28T05:26:48.005322",
-            "status": "INACTIVE"
-        },
         "mbuyu.nl": {
             "included_at_epoch": 1598420019.098657,
             "included_at_iso": "2020-08-26T05:33:39.098657",
@@ -3423,6 +3416,13 @@
             "included_at_iso": "2020-08-24T05:34:55.334163",
             "last_retested_at_epoch": 1598592903.808461,
             "last_retested_at_iso": "2020-08-28T05:35:03.808461",
+            "status": "INACTIVE"
+        },
+        "tvas-a.pw": {
+            "included_at_epoch": 1599802554.497306,
+            "included_at_iso": "2020-09-11T05:35:54.497306",
+            "last_retested_at_epoch": 1599802554.497306,
+            "last_retested_at_iso": "2020-09-11T05:35:54.497306",
             "status": "INACTIVE"
         },
         "tvas-c.pw": {
