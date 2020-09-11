@@ -2697,6 +2697,13 @@
             "last_retested_at_iso": "2020-08-28T05:26:40.326351",
             "status": "INACTIVE"
         },
+        "bannercommunity.de": {
+            "included_at_epoch": 1599802200.328549,
+            "included_at_iso": "2020-09-11T05:30:00.328549",
+            "last_retested_at_epoch": 1599802200.328549,
+            "last_retested_at_iso": "2020-09-11T05:30:00.328549",
+            "status": "INACTIVE"
+        },
         "bannerexchange.cjb.net": {
             "included_at_epoch": 1597727812.319965,
             "included_at_iso": "2020-08-18T05:16:52.319965",
@@ -2987,8 +2994,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1599629326.693928,
-            "last_retested_at_iso": "2020-09-09T05:28:46.693928",
+            "last_retested_at_epoch": 1599802201.463754,
+            "last_retested_at_iso": "2020-09-11T05:30:01.463754",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -2996,6 +3003,34 @@
             "included_at_iso": "2020-08-24T05:26:18.947322",
             "last_retested_at_epoch": 1598592406.436238,
             "last_retested_at_iso": "2020-08-28T05:26:46.436238",
+            "status": "INACTIVE"
+        },
+        "jbeet.cjt1.net": {
+            "included_at_epoch": 1599802201.637059,
+            "included_at_iso": "2020-09-11T05:30:01.637059",
+            "last_retested_at_epoch": 1599802201.637059,
+            "last_retested_at_iso": "2020-09-11T05:30:01.637059",
+            "status": "INACTIVE"
+        },
+        "jedonkey.cjt1.net": {
+            "included_at_epoch": 1599802201.650514,
+            "included_at_iso": "2020-09-11T05:30:01.650514",
+            "last_retested_at_epoch": 1599802201.650514,
+            "last_retested_at_iso": "2020-09-11T05:30:01.650514",
+            "status": "INACTIVE"
+        },
+        "jkazaa.cjt1.net": {
+            "included_at_epoch": 1599802201.672498,
+            "included_at_iso": "2020-09-11T05:30:01.672498",
+            "last_retested_at_epoch": 1599802201.672498,
+            "last_retested_at_iso": "2020-09-11T05:30:01.672498",
+            "status": "INACTIVE"
+        },
+        "jnova.cjt1.net": {
+            "included_at_epoch": 1599802201.663806,
+            "included_at_iso": "2020-09-11T05:30:01.663806",
+            "last_retested_at_epoch": 1599802201.663806,
+            "last_retested_at_iso": "2020-09-11T05:30:01.663806",
             "status": "INACTIVE"
         },
         "kt-g.de": {
