@@ -1626,6 +1626,13 @@
             "last_retested_at_iso": "2020-09-11T05:12:48.261866",
             "status": "INACTIVE"
         },
+        "ad.digitallook.com": {
+            "included_at_epoch": 1599974034.153697,
+            "included_at_iso": "2020-09-13T05:13:54.153697",
+            "last_retested_at_epoch": 1599974034.153697,
+            "last_retested_at_iso": "2020-09-13T05:13:54.153697",
+            "status": "INACTIVE"
+        },
         "ad.directrev.com": {
             "included_at_epoch": 1599801168.283546,
             "included_at_iso": "2020-09-11T05:12:48.283546",
