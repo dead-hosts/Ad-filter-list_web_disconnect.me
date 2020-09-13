@@ -2530,10 +2530,10 @@
             "status": "INACTIVE"
         },
         "advertpro.sitepoint.com": {
-            "included_at_epoch": 1597553966.981001,
-            "included_at_iso": "2020-08-16T04:59:26.981001",
-            "last_retested_at_epoch": 1598591272.140463,
-            "last_retested_at_iso": "2020-08-28T05:07:52.140463",
+            "included_at_epoch": 1599975254.269642,
+            "included_at_iso": "2020-09-13T05:34:14.269642",
+            "last_retested_at_epoch": 1599975254.269642,
+            "last_retested_at_iso": "2020-09-13T05:34:14.269642",
             "status": "INACTIVE"
         },
         "adverts.carltononline.com": {
@@ -3001,8 +3001,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1599802201.463754,
-            "last_retested_at_iso": "2020-09-11T05:30:01.463754",
+            "last_retested_at_epoch": 1599975255.279072,
+            "last_retested_at_iso": "2020-09-13T05:34:15.279072",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3073,6 +3073,13 @@
             "included_at_iso": "2020-08-24T05:26:20.411249",
             "last_retested_at_epoch": 1598592407.92306,
             "last_retested_at_iso": "2020-08-28T05:26:47.923060",
+            "status": "INACTIVE"
+        },
+        "maplefarmmedia.com": {
+            "included_at_epoch": 1599975255.572251,
+            "included_at_iso": "2020-09-13T05:34:15.572251",
+            "last_retested_at_epoch": 1599975255.572251,
+            "last_retested_at_iso": "2020-09-13T05:34:15.572251",
             "status": "INACTIVE"
         },
         "mbuyu.nl": {
