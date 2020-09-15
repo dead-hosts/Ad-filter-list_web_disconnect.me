@@ -2712,10 +2712,10 @@
             "status": "INACTIVE"
         },
         "bannerexchange.cjb.net": {
-            "included_at_epoch": 1597727812.319965,
-            "included_at_iso": "2020-08-18T05:16:52.319965",
-            "last_retested_at_epoch": 1598592400.394007,
-            "last_retested_at_iso": "2020-08-28T05:26:40.394007",
+            "included_at_epoch": 1600147921.946479,
+            "included_at_iso": "2020-09-15T05:32:01.946479",
+            "last_retested_at_epoch": 1600147921.946479,
+            "last_retested_at_iso": "2020-09-15T05:32:01.946479",
             "status": "INACTIVE"
         },
         "banners.apnuk.com": {
@@ -2998,11 +2998,18 @@
             "last_retested_at_iso": "2020-08-28T05:26:46.153468",
             "status": "INACTIVE"
         },
+        "idot.cz": {
+            "included_at_epoch": 1600147922.933713,
+            "included_at_iso": "2020-09-15T05:32:02.933713",
+            "last_retested_at_epoch": 1600147922.933713,
+            "last_retested_at_iso": "2020-09-15T05:32:02.933713",
+            "status": "INACTIVE"
+        },
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1599975255.279072,
-            "last_retested_at_iso": "2020-09-13T05:34:15.279072",
+            "last_retested_at_epoch": 1600147922.958149,
+            "last_retested_at_iso": "2020-09-15T05:32:02.958149",
             "status": "INACTIVE"
         },
         "images.v3.com": {
