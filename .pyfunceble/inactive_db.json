@@ -2816,13 +2816,6 @@
             "last_retested_at_iso": "2020-08-28T05:26:43.030843",
             "status": "INACTIVE"
         },
-        "creative.whi.co.nz": {
-            "included_at_epoch": 1597901484.612884,
-            "included_at_iso": "2020-08-20T05:31:24.612884",
-            "last_retested_at_epoch": 1598592403.039183,
-            "last_retested_at_iso": "2020-08-28T05:26:43.039183",
-            "status": "INACTIVE"
-        },
         "creatives.as4x.tmcs.net": {
             "included_at_epoch": 1598246775.628569,
             "included_at_iso": "2020-08-24T05:26:15.628569",
@@ -2928,25 +2921,11 @@
             "last_retested_at_iso": "2020-08-28T05:26:45.439353",
             "status": "INACTIVE"
         },
-        "hidden.gogoceleb.com": {
-            "included_at_epoch": 1597901487.176021,
-            "included_at_iso": "2020-08-20T05:31:27.176021",
-            "last_retested_at_epoch": 1598592405.730662,
-            "last_retested_at_iso": "2020-08-28T05:26:45.730662",
-            "status": "INACTIVE"
-        },
         "hit-ranking.de": {
             "included_at_epoch": 1598246778.283793,
             "included_at_iso": "2020-08-24T05:26:18.283793",
             "last_retested_at_epoch": 1598592405.768039,
             "last_retested_at_iso": "2020-08-28T05:26:45.768039",
-            "status": "INACTIVE"
-        },
-        "i.xx.openx.com": {
-            "included_at_epoch": 1597901487.594466,
-            "included_at_iso": "2020-08-20T05:31:27.594466",
-            "last_retested_at_epoch": 1598592406.153468,
-            "last_retested_at_iso": "2020-08-28T05:26:46.153468",
             "status": "INACTIVE"
         },
         "idot.cz": {
