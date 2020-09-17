@@ -1752,13 +1752,6 @@
             "last_retested_at_iso": "2020-09-11T05:12:48.555612",
             "status": "INACTIVE"
         },
-        "adk2ads.tictacti.com": {
-            "included_at_epoch": 1597900333.579884,
-            "included_at_iso": "2020-08-20T05:12:13.579884",
-            "last_retested_at_epoch": 1598591268.998956,
-            "last_retested_at_iso": "2020-08-28T05:07:48.998956",
-            "status": "INACTIVE"
-        },
         "adman.in.gr": {
             "included_at_epoch": 1599801168.588728,
             "included_at_iso": "2020-09-11T05:12:48.588728",
@@ -2109,13 +2102,6 @@
             "last_retested_at_iso": "2020-09-11T05:12:49.187307",
             "status": "INACTIVE"
         },
-        "ads.motormedia.nl": {
-            "included_at_epoch": 1597900334.893764,
-            "included_at_iso": "2020-08-20T05:12:14.893764",
-            "last_retested_at_epoch": 1598591270.388101,
-            "last_retested_at_iso": "2020-08-28T05:07:50.388101",
-            "status": "INACTIVE"
-        },
         "ads.movieflix.com": {
             "included_at_epoch": 1599801169.198744,
             "included_at_iso": "2020-09-11T05:12:49.198744",
@@ -2361,13 +2347,6 @@
             "last_retested_at_iso": "2020-09-11T05:12:49.619844",
             "status": "INACTIVE"
         },
-        "ads.whi.co.nz": {
-            "included_at_epoch": 1597900335.304994,
-            "included_at_iso": "2020-08-20T05:12:15.304994",
-            "last_retested_at_epoch": 1598591270.821157,
-            "last_retested_at_iso": "2020-08-28T05:07:50.821157",
-            "status": "INACTIVE"
-        },
         "ads.wunderground.com": {
             "included_at_epoch": 1599801169.637444,
             "included_at_iso": "2020-09-11T05:12:49.637444",
@@ -2445,46 +2424,11 @@
             "last_retested_at_iso": "2020-08-30T05:06:24.983149",
             "status": "INACTIVE"
         },
-        "adserver.flossiemediagroup.com": {
-            "included_at_epoch": 1597900335.597718,
-            "included_at_iso": "2020-08-20T05:12:15.597718",
-            "last_retested_at_epoch": 1598591271.128339,
-            "last_retested_at_iso": "2020-08-28T05:07:51.128339",
-            "status": "INACTIVE"
-        },
-        "adserver.freenet.de": {
-            "included_at_epoch": 1597900335.607267,
-            "included_at_iso": "2020-08-20T05:12:15.607267",
-            "last_retested_at_epoch": 1598591271.139721,
-            "last_retested_at_iso": "2020-08-28T05:07:51.139721",
-            "status": "INACTIVE"
-        },
-        "adserver.motorpresse.de": {
-            "included_at_epoch": 1597900335.627086,
-            "included_at_iso": "2020-08-20T05:12:15.627086",
-            "last_retested_at_epoch": 1598591271.161903,
-            "last_retested_at_iso": "2020-08-28T05:07:51.161903",
-            "status": "INACTIVE"
-        },
-        "adserver.portalofevil.com": {
-            "included_at_epoch": 1597900335.656775,
-            "included_at_iso": "2020-08-20T05:12:15.656775",
-            "last_retested_at_epoch": 1598591271.1956,
-            "last_retested_at_iso": "2020-08-28T05:07:51.195600",
-            "status": "INACTIVE"
-        },
         "adserver.portugalmail.pt": {
             "included_at_epoch": 1598763985.048013,
             "included_at_iso": "2020-08-30T05:06:25.048013",
             "last_retested_at_epoch": 1598763985.048013,
             "last_retested_at_iso": "2020-08-30T05:06:25.048013",
-            "status": "INACTIVE"
-        },
-        "adserver.startnow.com": {
-            "included_at_epoch": 1597900335.684043,
-            "included_at_iso": "2020-08-20T05:12:15.684043",
-            "last_retested_at_epoch": 1598591271.225348,
-            "last_retested_at_iso": "2020-08-28T05:07:51.225348",
             "status": "INACTIVE"
         },
         "adserver1.mokono.com": {
@@ -3015,8 +2959,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1600147922.958149,
-            "last_retested_at_iso": "2020-09-15T05:32:02.958149",
+            "last_retested_at_epoch": 1600320827.849293,
+            "last_retested_at_iso": "2020-09-17T05:33:47.849293",
             "status": "INACTIVE"
         },
         "images.v3.com": {
