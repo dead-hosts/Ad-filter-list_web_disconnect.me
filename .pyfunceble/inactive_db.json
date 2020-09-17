@@ -1962,6 +1962,13 @@
             "last_retested_at_iso": "2020-09-11T05:12:48.946860",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1600319805.677429,
+            "included_at_iso": "2020-09-17T05:16:45.677429",
+            "last_retested_at_epoch": 1600319805.677429,
+            "last_retested_at_iso": "2020-09-17T05:16:45.677429",
+            "status": "INACTIVE"
+        },
         "ads.esmas.com": {
             "included_at_epoch": 1599801168.966573,
             "included_at_iso": "2020-09-11T05:12:48.966573",
