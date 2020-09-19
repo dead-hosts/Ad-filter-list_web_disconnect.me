@@ -1752,6 +1752,13 @@
             "last_retested_at_iso": "2020-09-11T05:12:48.555612",
             "status": "INACTIVE"
         },
+        "adk2ads.tictacti.com": {
+            "included_at_epoch": 1600492655.199001,
+            "included_at_iso": "2020-09-19T05:17:35.199001",
+            "last_retested_at_epoch": 1600492655.199001,
+            "last_retested_at_iso": "2020-09-19T05:17:35.199001",
+            "status": "INACTIVE"
+        },
         "adman.in.gr": {
             "included_at_epoch": 1599801168.588728,
             "included_at_iso": "2020-09-11T05:12:48.588728",
@@ -2102,6 +2109,13 @@
             "last_retested_at_iso": "2020-09-11T05:12:49.187307",
             "status": "INACTIVE"
         },
+        "ads.motormedia.nl": {
+            "included_at_epoch": 1600492655.51327,
+            "included_at_iso": "2020-09-19T05:17:35.513270",
+            "last_retested_at_epoch": 1600492655.51327,
+            "last_retested_at_iso": "2020-09-19T05:17:35.513270",
+            "status": "INACTIVE"
+        },
         "ads.movieflix.com": {
             "included_at_epoch": 1599801169.198744,
             "included_at_iso": "2020-09-11T05:12:49.198744",
@@ -2347,6 +2361,13 @@
             "last_retested_at_iso": "2020-09-11T05:12:49.619844",
             "status": "INACTIVE"
         },
+        "ads.whi.co.nz": {
+            "included_at_epoch": 1600492655.64748,
+            "included_at_iso": "2020-09-19T05:17:35.647480",
+            "last_retested_at_epoch": 1600492655.64748,
+            "last_retested_at_iso": "2020-09-19T05:17:35.647480",
+            "status": "INACTIVE"
+        },
         "ads.wunderground.com": {
             "included_at_epoch": 1599801169.637444,
             "included_at_iso": "2020-09-11T05:12:49.637444",
@@ -2424,11 +2445,46 @@
             "last_retested_at_iso": "2020-08-30T05:06:24.983149",
             "status": "INACTIVE"
         },
+        "adserver.flossiemediagroup.com": {
+            "included_at_epoch": 1600492655.765421,
+            "included_at_iso": "2020-09-19T05:17:35.765421",
+            "last_retested_at_epoch": 1600492655.765421,
+            "last_retested_at_iso": "2020-09-19T05:17:35.765421",
+            "status": "INACTIVE"
+        },
+        "adserver.freenet.de": {
+            "included_at_epoch": 1600492655.773397,
+            "included_at_iso": "2020-09-19T05:17:35.773397",
+            "last_retested_at_epoch": 1600492655.773397,
+            "last_retested_at_iso": "2020-09-19T05:17:35.773397",
+            "status": "INACTIVE"
+        },
+        "adserver.motorpresse.de": {
+            "included_at_epoch": 1600492655.797704,
+            "included_at_iso": "2020-09-19T05:17:35.797704",
+            "last_retested_at_epoch": 1600492655.797704,
+            "last_retested_at_iso": "2020-09-19T05:17:35.797704",
+            "status": "INACTIVE"
+        },
+        "adserver.portalofevil.com": {
+            "included_at_epoch": 1600492655.814784,
+            "included_at_iso": "2020-09-19T05:17:35.814784",
+            "last_retested_at_epoch": 1600492655.814784,
+            "last_retested_at_iso": "2020-09-19T05:17:35.814784",
+            "status": "INACTIVE"
+        },
         "adserver.portugalmail.pt": {
             "included_at_epoch": 1598763985.048013,
             "included_at_iso": "2020-08-30T05:06:25.048013",
             "last_retested_at_epoch": 1598763985.048013,
             "last_retested_at_iso": "2020-08-30T05:06:25.048013",
+            "status": "INACTIVE"
+        },
+        "adserver.startnow.com": {
+            "included_at_epoch": 1600492655.832017,
+            "included_at_iso": "2020-09-19T05:17:35.832017",
+            "last_retested_at_epoch": 1600492655.832017,
+            "last_retested_at_iso": "2020-09-19T05:17:35.832017",
             "status": "INACTIVE"
         },
         "adserver1.mokono.com": {
@@ -3395,13 +3451,6 @@
             "included_at_iso": "2020-08-24T05:34:56.061548",
             "last_retested_at_epoch": 1598592904.544196,
             "last_retested_at_iso": "2020-08-28T05:35:04.544196",
-            "status": "INACTIVE"
-        },
-        "webmaster-partnerprogramme24.de": {
-            "included_at_epoch": 1597902029.060737,
-            "included_at_iso": "2020-08-20T05:40:29.060737",
-            "last_retested_at_epoch": 1598592904.690227,
-            "last_retested_at_iso": "2020-08-28T05:35:04.690227",
             "status": "INACTIVE"
         },
         "www.banner-link.com.br": {
