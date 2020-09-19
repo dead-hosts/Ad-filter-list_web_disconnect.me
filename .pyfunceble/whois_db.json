@@ -4227,7 +4227,8 @@
     "media-servers.net": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "media.net": {
         "epoch": 1615852800.0,
@@ -5075,7 +5076,8 @@
     "pay-ads.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "paycounter.com": {
         "epoch": 1622419200.0,
@@ -5332,7 +5334,8 @@
     "primaryads.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "primetime.net": {
         "epoch": 1610496000.0,
@@ -5587,8 +5590,9 @@
         "state": "future"
     },
     "reedbusiness.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "reefaquarium.biz": {
@@ -5811,7 +5815,8 @@
     "sedoparking.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "sedotracker.com": {
         "epoch": 1629417600.0,
@@ -6477,8 +6482,9 @@
         "state": "future"
     },
     "toplistcity.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "topmmorpgsites.com": {

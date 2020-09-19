@@ -2872,6 +2872,13 @@
             "last_retested_at_iso": "2020-08-28T05:26:43.030843",
             "status": "INACTIVE"
         },
+        "creative.whi.co.nz": {
+            "included_at_epoch": 1600493684.057111,
+            "included_at_iso": "2020-09-19T05:34:44.057111",
+            "last_retested_at_epoch": 1600493684.057111,
+            "last_retested_at_iso": "2020-09-19T05:34:44.057111",
+            "status": "INACTIVE"
+        },
         "creatives.as4x.tmcs.net": {
             "included_at_epoch": 1598246775.628569,
             "included_at_iso": "2020-08-24T05:26:15.628569",
@@ -2977,11 +2984,25 @@
             "last_retested_at_iso": "2020-08-28T05:26:45.439353",
             "status": "INACTIVE"
         },
+        "hidden.gogoceleb.com": {
+            "included_at_epoch": 1600493684.487182,
+            "included_at_iso": "2020-09-19T05:34:44.487182",
+            "last_retested_at_epoch": 1600493684.487182,
+            "last_retested_at_iso": "2020-09-19T05:34:44.487182",
+            "status": "INACTIVE"
+        },
         "hit-ranking.de": {
             "included_at_epoch": 1598246778.283793,
             "included_at_iso": "2020-08-24T05:26:18.283793",
             "last_retested_at_epoch": 1598592405.768039,
             "last_retested_at_iso": "2020-08-28T05:26:45.768039",
+            "status": "INACTIVE"
+        },
+        "i.xx.openx.com": {
+            "included_at_epoch": 1600493684.575886,
+            "included_at_iso": "2020-09-19T05:34:44.575886",
+            "last_retested_at_epoch": 1600493684.575886,
+            "last_retested_at_iso": "2020-09-19T05:34:44.575886",
             "status": "INACTIVE"
         },
         "idot.cz": {
@@ -2994,8 +3015,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1598592406.382151,
             "included_at_iso": "2020-08-28T05:26:46.382151",
-            "last_retested_at_epoch": 1600320827.849293,
-            "last_retested_at_iso": "2020-09-17T05:33:47.849293",
+            "last_retested_at_epoch": 1600493684.626796,
+            "last_retested_at_iso": "2020-09-19T05:34:44.626796",
             "status": "INACTIVE"
         },
         "images.v3.com": {
@@ -3213,6 +3234,13 @@
             "included_at_iso": "2020-08-24T05:26:24.115531",
             "last_retested_at_epoch": 1598592411.619007,
             "last_retested_at_iso": "2020-08-28T05:26:51.619007",
+            "status": "INACTIVE"
+        },
+        "promotion-campaigns.com": {
+            "included_at_epoch": 1600493685.694267,
+            "included_at_iso": "2020-09-19T05:34:45.694267",
+            "last_retested_at_epoch": 1600493685.694267,
+            "last_retested_at_iso": "2020-09-19T05:34:45.694267",
             "status": "INACTIVE"
         },
         "pubs.lemonde.fr": {
