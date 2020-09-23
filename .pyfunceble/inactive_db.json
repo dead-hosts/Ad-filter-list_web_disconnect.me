@@ -3082,13 +3082,6 @@
             "last_retested_at_iso": "2020-09-13T05:34:15.572251",
             "status": "INACTIVE"
         },
-        "mbuyu.nl": {
-            "included_at_epoch": 1598420019.098657,
-            "included_at_iso": "2020-08-26T05:33:39.098657",
-            "last_retested_at_epoch": 1598592408.158211,
-            "last_retested_at_iso": "2020-08-28T05:26:48.158211",
-            "status": "INACTIVE"
-        },
         "memorix.sdv.fr": {
             "included_at_epoch": 1600839386.751761,
             "included_at_iso": "2020-09-23T05:36:26.751761",
