@@ -6655,8 +6655,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601011231.417664,
             "included_at_iso": "2020-09-25T05:20:31.417664",
-            "last_retested_at_epoch": 1602047456.096018,
-            "last_retested_at_iso": "2020-10-07T05:10:56.096018",
+            "last_retested_at_epoch": 1602220309.756915,
+            "last_retested_at_iso": "2020-10-09T05:11:49.756915",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -6676,8 +6676,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601011231.426846,
             "included_at_iso": "2020-09-25T05:20:31.426846",
-            "last_retested_at_epoch": 1602047456.03907,
-            "last_retested_at_iso": "2020-10-07T05:10:56.039070",
+            "last_retested_at_epoch": 1602220309.703357,
+            "last_retested_at_iso": "2020-10-09T05:11:49.703357",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -13186,8 +13186,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1601183252.033824,
             "included_at_iso": "2020-09-27T05:07:32.033824",
-            "last_retested_at_epoch": 1602047456.136961,
-            "last_retested_at_iso": "2020-10-07T05:10:56.136961",
+            "last_retested_at_epoch": 1602220309.800975,
+            "last_retested_at_iso": "2020-10-09T05:11:49.800975",
             "status": "INACTIVE"
         },
         "iloopmobile.com": {
@@ -15389,11 +15389,11 @@
             "status": "ACTIVE"
         },
         "newt1.adultworld.com": {
-            "included_at_epoch": 1599629327.378386,
-            "included_at_iso": "2020-09-09T05:28:47.378386",
-            "last_retested_at_epoch": 1599629327.378386,
-            "last_retested_at_iso": "2020-09-09T05:28:47.378386",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602220309.84549,
+            "included_at_iso": "2020-10-09T05:11:49.845490",
+            "last_retested_at_epoch": 1602220309.84549,
+            "last_retested_at_iso": "2020-10-09T05:11:49.845490",
+            "status": "ACTIVE"
         },
         "newtopsites.com": {
             "included_at_epoch": 1601012293.113454,
