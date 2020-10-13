@@ -2264,11 +2264,11 @@
             "status": "ACTIVE"
         },
         "ad.digitallook.com": {
-            "included_at_epoch": 1599974034.153697,
-            "included_at_iso": "2020-09-13T05:13:54.153697",
-            "last_retested_at_epoch": 1599974034.153697,
-            "last_retested_at_iso": "2020-09-13T05:13:54.153697",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602566030.336728,
+            "included_at_iso": "2020-10-13T05:13:50.336728",
+            "last_retested_at_epoch": 1602566030.336728,
+            "last_retested_at_iso": "2020-10-13T05:13:50.336728",
+            "status": "ACTIVE"
         },
         "ad.directrev.com": {
             "included_at_epoch": 1602393219.019308,
@@ -6655,8 +6655,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601011231.417664,
             "included_at_iso": "2020-09-25T05:20:31.417664",
-            "last_retested_at_epoch": 1602393218.697276,
-            "last_retested_at_iso": "2020-10-11T05:13:38.697276",
+            "last_retested_at_epoch": 1602566030.233851,
+            "last_retested_at_iso": "2020-10-13T05:13:50.233851",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -6676,8 +6676,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601011231.426846,
             "included_at_iso": "2020-09-25T05:20:31.426846",
-            "last_retested_at_epoch": 1602393218.654169,
-            "last_retested_at_iso": "2020-10-11T05:13:38.654169",
+            "last_retested_at_epoch": 1602566030.29086,
+            "last_retested_at_iso": "2020-10-13T05:13:50.290860",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -7829,10 +7829,10 @@
             "status": "ACTIVE"
         },
         "advertpro.sitepoint.com": {
-            "included_at_epoch": 1599975254.269642,
-            "included_at_iso": "2020-09-13T05:34:14.269642",
-            "last_retested_at_epoch": 1599975254.269642,
-            "last_retested_at_iso": "2020-09-13T05:34:14.269642",
+            "included_at_epoch": 1602566030.381154,
+            "included_at_iso": "2020-10-13T05:13:50.381154",
+            "last_retested_at_epoch": 1602566030.381154,
+            "last_retested_at_iso": "2020-10-13T05:13:50.381154",
             "status": "INACTIVE"
         },
         "advertpro.ya.com": {
@@ -13186,8 +13186,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1601183252.033824,
             "included_at_iso": "2020-09-27T05:07:32.033824",
-            "last_retested_at_epoch": 1602393222.836239,
-            "last_retested_at_iso": "2020-10-11T05:13:42.836239",
+            "last_retested_at_epoch": 1602566030.425802,
+            "last_retested_at_iso": "2020-10-13T05:13:50.425802",
             "status": "INACTIVE"
         },
         "iloopmobile.com": {
@@ -14220,10 +14220,10 @@
             "status": "ACTIVE"
         },
         "maplefarmmedia.com": {
-            "included_at_epoch": 1599975255.572251,
-            "included_at_iso": "2020-09-13T05:34:15.572251",
-            "last_retested_at_epoch": 1599975255.572251,
-            "last_retested_at_iso": "2020-09-13T05:34:15.572251",
+            "included_at_epoch": 1602566030.471976,
+            "included_at_iso": "2020-10-13T05:13:50.471976",
+            "last_retested_at_epoch": 1602566030.471976,
+            "last_retested_at_iso": "2020-10-13T05:13:50.471976",
             "status": "INACTIVE"
         },
         "marchex.com": {
