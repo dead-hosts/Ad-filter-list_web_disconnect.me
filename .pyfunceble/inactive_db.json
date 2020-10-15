@@ -6655,8 +6655,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1601011231.417664,
             "included_at_iso": "2020-09-25T05:20:31.417664",
-            "last_retested_at_epoch": 1602566030.233851,
-            "last_retested_at_iso": "2020-10-13T05:13:50.233851",
+            "last_retested_at_epoch": 1602738854.8312,
+            "last_retested_at_iso": "2020-10-15T05:14:14.831200",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -6676,8 +6676,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1601011231.426846,
             "included_at_iso": "2020-09-25T05:20:31.426846",
-            "last_retested_at_epoch": 1602566030.29086,
-            "last_retested_at_iso": "2020-10-13T05:13:50.290860",
+            "last_retested_at_epoch": 1602738854.887553,
+            "last_retested_at_iso": "2020-10-15T05:14:14.887553",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -9166,10 +9166,10 @@
             "status": "ACTIVE"
         },
         "bannerexchange.cjb.net": {
-            "included_at_epoch": 1600147921.946479,
-            "included_at_iso": "2020-09-15T05:32:01.946479",
-            "last_retested_at_epoch": 1600147921.946479,
-            "last_retested_at_iso": "2020-09-15T05:32:01.946479",
+            "included_at_epoch": 1602738854.930718,
+            "included_at_iso": "2020-10-15T05:14:14.930718",
+            "last_retested_at_epoch": 1602738854.930718,
+            "last_retested_at_iso": "2020-10-15T05:14:14.930718",
             "status": "INACTIVE"
         },
         "bannerflow.com": {
@@ -13128,11 +13128,11 @@
             "status": "ACTIVE"
         },
         "idot.cz": {
-            "included_at_epoch": 1600147922.933713,
-            "included_at_iso": "2020-09-15T05:32:02.933713",
-            "last_retested_at_epoch": 1600147922.933713,
-            "last_retested_at_iso": "2020-09-15T05:32:02.933713",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602738854.972133,
+            "included_at_iso": "2020-10-15T05:14:14.972133",
+            "last_retested_at_epoch": 1602738854.972133,
+            "last_retested_at_iso": "2020-10-15T05:14:14.972133",
+            "status": "ACTIVE"
         },
         "idregie.com": {
             "included_at_epoch": 1601012283.526828,
@@ -13186,8 +13186,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1601183252.033824,
             "included_at_iso": "2020-09-27T05:07:32.033824",
-            "last_retested_at_epoch": 1602566030.425802,
-            "last_retested_at_iso": "2020-10-13T05:13:50.425802",
+            "last_retested_at_epoch": 1602738855.026628,
+            "last_retested_at_iso": "2020-10-15T05:14:15.026628",
             "status": "INACTIVE"
         },
         "iloopmobile.com": {
