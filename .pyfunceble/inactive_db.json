@@ -4686,10 +4686,10 @@
             "status": "ACTIVE"
         },
         "ads.edbindex.dk": {
-            "included_at_epoch": 1602911717.592971,
-            "included_at_iso": "2020-10-17T05:15:17.592971",
-            "last_retested_at_epoch": 1602911717.592971,
-            "last_retested_at_iso": "2020-10-17T05:15:17.592971",
+            "included_at_epoch": 1605331878.792288,
+            "included_at_iso": "2020-11-14T05:31:18.792288",
+            "last_retested_at_epoch": 1605331878.792288,
+            "last_retested_at_iso": "2020-11-14T05:31:18.792288",
             "status": "ACTIVE"
         },
         "ads.egrana.com.br": {
@@ -6655,8 +6655,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1603431970.847001,
             "included_at_iso": "2020-10-23T05:46:10.847001",
-            "last_retested_at_epoch": 1605159673.344185,
-            "last_retested_at_iso": "2020-11-12T05:41:13.344185",
+            "last_retested_at_epoch": 1605331878.695312,
+            "last_retested_at_iso": "2020-11-14T05:31:18.695312",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -6676,8 +6676,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1603431970.875912,
             "included_at_iso": "2020-10-23T05:46:10.875912",
-            "last_retested_at_epoch": 1605159673.402488,
-            "last_retested_at_iso": "2020-11-12T05:41:13.402488",
+            "last_retested_at_epoch": 1605331878.750351,
+            "last_retested_at_iso": "2020-11-14T05:31:18.750351",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -13186,8 +13186,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1603603162.610356,
             "included_at_iso": "2020-10-25T05:19:22.610356",
-            "last_retested_at_epoch": 1605159673.533901,
-            "last_retested_at_iso": "2020-11-12T05:41:13.533901",
+            "last_retested_at_epoch": 1605331878.833231,
+            "last_retested_at_iso": "2020-11-14T05:31:18.833231",
             "status": "INACTIVE"
         },
         "iloopmobile.com": {
