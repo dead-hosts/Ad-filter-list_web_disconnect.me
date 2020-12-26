@@ -4217,10 +4217,10 @@
             "status": "ACTIVE"
         },
         "ads.ask.com": {
-            "included_at_epoch": 1606371161.838045,
-            "included_at_iso": "2020-11-26T06:12:41.838045",
-            "last_retested_at_epoch": 1606371161.838045,
-            "last_retested_at_iso": "2020-11-26T06:12:41.838045",
+            "included_at_epoch": 1608961963.50088,
+            "included_at_iso": "2020-12-26T05:52:43.500880",
+            "last_retested_at_epoch": 1608961963.50088,
+            "last_retested_at_iso": "2020-12-26T05:52:43.500880",
             "status": "INACTIVE"
         },
         "ads.aspalliance.com": {
@@ -6655,8 +6655,8 @@
         "adsatt.abcnews.starwave.com": {
             "included_at_epoch": 1608444180.148021,
             "included_at_iso": "2020-12-20T06:03:00.148021",
-            "last_retested_at_epoch": 1608789043.609102,
-            "last_retested_at_iso": "2020-12-24T05:50:43.609102",
+            "last_retested_at_epoch": 1608961963.413794,
+            "last_retested_at_iso": "2020-12-26T05:52:43.413794",
             "status": "ACTIVE"
         },
         "adsatt.espn.go.com": {
@@ -6676,8 +6676,8 @@
         "adsatt.go.starwave.com": {
             "included_at_epoch": 1608444180.1414,
             "included_at_iso": "2020-12-20T06:03:00.141400",
-            "last_retested_at_epoch": 1608789043.553487,
-            "last_retested_at_iso": "2020-12-24T05:50:43.553487",
+            "last_retested_at_epoch": 1608961963.461093,
+            "last_retested_at_iso": "2020-12-26T05:52:43.461093",
             "status": "ACTIVE"
         },
         "adsby.bidtheatre.com": {
@@ -6737,38 +6737,38 @@
             "status": "ACTIVE"
         },
         "adserv.evo-x.de": {
-            "included_at_epoch": 1606371161.879217,
-            "included_at_iso": "2020-11-26T06:12:41.879217",
-            "last_retested_at_epoch": 1606371161.879217,
-            "last_retested_at_iso": "2020-11-26T06:12:41.879217",
+            "included_at_epoch": 1608961963.54329,
+            "included_at_iso": "2020-12-26T05:52:43.543290",
+            "last_retested_at_epoch": 1608961963.54329,
+            "last_retested_at_iso": "2020-12-26T05:52:43.543290",
             "status": "INACTIVE"
         },
         "adserv.gamezone.de": {
-            "included_at_epoch": 1606371161.921343,
-            "included_at_iso": "2020-11-26T06:12:41.921343",
-            "last_retested_at_epoch": 1606371161.921343,
-            "last_retested_at_iso": "2020-11-26T06:12:41.921343",
+            "included_at_epoch": 1608961963.585274,
+            "included_at_iso": "2020-12-26T05:52:43.585274",
+            "last_retested_at_epoch": 1608961963.585274,
+            "last_retested_at_iso": "2020-12-26T05:52:43.585274",
             "status": "INACTIVE"
         },
         "adserv.iafrica.com": {
-            "included_at_epoch": 1606371162.0054,
-            "included_at_iso": "2020-11-26T06:12:42.005400",
-            "last_retested_at_epoch": 1606371162.0054,
-            "last_retested_at_iso": "2020-11-26T06:12:42.005400",
+            "included_at_epoch": 1608961963.669101,
+            "included_at_iso": "2020-12-26T05:52:43.669101",
+            "last_retested_at_epoch": 1608961963.669101,
+            "last_retested_at_iso": "2020-12-26T05:52:43.669101",
             "status": "INACTIVE"
         },
         "adserv.qconline.com": {
-            "included_at_epoch": 1606371161.963513,
-            "included_at_iso": "2020-11-26T06:12:41.963513",
-            "last_retested_at_epoch": 1606371161.963513,
-            "last_retested_at_iso": "2020-11-26T06:12:41.963513",
+            "included_at_epoch": 1608961963.627364,
+            "included_at_iso": "2020-12-26T05:52:43.627364",
+            "last_retested_at_epoch": 1608961963.627364,
+            "last_retested_at_iso": "2020-12-26T05:52:43.627364",
             "status": "INACTIVE"
         },
         "adserv.quality-channel.de": {
-            "included_at_epoch": 1606371162.048103,
-            "included_at_iso": "2020-11-26T06:12:42.048103",
-            "last_retested_at_epoch": 1606371162.048103,
-            "last_retested_at_iso": "2020-11-26T06:12:42.048103",
+            "included_at_epoch": 1608961963.710618,
+            "included_at_iso": "2020-12-26T05:52:43.710618",
+            "last_retested_at_epoch": 1608961963.710618,
+            "last_retested_at_iso": "2020-12-26T05:52:43.710618",
             "status": "INACTIVE"
         },
         "adserve.ams.rhythmxchange.com": {
@@ -6779,10 +6779,10 @@
             "status": "ACTIVE"
         },
         "adserver-live.yoc.mobi": {
-            "included_at_epoch": 1606371162.089845,
-            "included_at_iso": "2020-11-26T06:12:42.089845",
-            "last_retested_at_epoch": 1606371162.089845,
-            "last_retested_at_iso": "2020-11-26T06:12:42.089845",
+            "included_at_epoch": 1608961963.752161,
+            "included_at_iso": "2020-12-26T05:52:43.752161",
+            "last_retested_at_epoch": 1608961963.752161,
+            "last_retested_at_iso": "2020-12-26T05:52:43.752161",
             "status": "INACTIVE"
         },
         "adserver.43plc.com": {
@@ -13186,8 +13186,8 @@
         "iliilllio00oo0.321.cn": {
             "included_at_epoch": 1608445220.06707,
             "included_at_iso": "2020-12-20T06:20:20.067070",
-            "last_retested_at_epoch": 1608789043.769563,
-            "last_retested_at_iso": "2020-12-24T05:50:43.769563",
+            "last_retested_at_epoch": 1608961963.794401,
+            "last_retested_at_iso": "2020-12-26T05:52:43.794401",
             "status": "INACTIVE"
         },
         "iloopmobile.com": {
@@ -17664,10 +17664,10 @@
             "status": "ACTIVE"
         },
         "sidebar.angelfire.com": {
-            "included_at_epoch": 1606371162.173376,
-            "included_at_iso": "2020-11-26T06:12:42.173376",
-            "last_retested_at_epoch": 1606371162.173376,
-            "last_retested_at_iso": "2020-11-26T06:12:42.173376",
+            "included_at_epoch": 1608961963.835674,
+            "included_at_iso": "2020-12-26T05:52:43.835674",
+            "last_retested_at_epoch": 1608961963.835674,
+            "last_retested_at_iso": "2020-12-26T05:52:43.835674",
             "status": "ACTIVE"
         },
         "signalhq.com": {
