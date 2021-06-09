@@ -3672,6 +3672,7 @@
         "nanporo.hokkaido.jp",
         "nantan.kyoto.jp",
         "nanto.toyama.jp",
+        "nanyo.yamagata.jp",
         "naoshima.kagawa.jp",
         "nara.jp",
         "nara.nara.jp",
@@ -5291,7 +5292,6 @@
         "museumcenter.museum",
         "museumvereniging.museum",
         "music.museum",
-        "nanyo.yamagata.jp",
         "national.museum",
         "nationalfirearms.museum",
         "nationalheritage.museum",
@@ -8351,7 +8351,6 @@
         "pointto.us",
         "pr.us",
         "pvt.k12.ma.us",
-        "ri.us",
         "sc.us",
         "sd.us",
         "stuff-4-sale.us",
@@ -8449,7 +8448,8 @@
         "edu.vu",
         "me.vu",
         "net.vu",
-        "org.vu"
+        "org.vu",
+        "ri.us"
     ],
     "win": [
         "that.win"
