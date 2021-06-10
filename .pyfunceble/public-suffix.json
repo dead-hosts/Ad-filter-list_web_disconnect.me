@@ -351,6 +351,7 @@
         "a.bg",
         "b.bg",
         "barsy.bg",
+        "blogspot.bg",
         "c.bg",
         "d.bg",
         "e.bg",
@@ -409,7 +410,6 @@
     "bj": [
         "asso.bj",
         "barreau.bj",
-        "blogspot.bg",
         "blogspot.bj",
         "gouv.bj"
     ],
@@ -838,7 +838,6 @@
     ],
     "club": [
         "barsy.club",
-        "cloudns.club",
         "jele.club",
         "pony.club"
     ],
@@ -7414,6 +7413,7 @@
     "ro": [
         "arts.ro",
         "blogspot.ro",
+        "cloudns.club",
         "co.ro",
         "com.ro",
         "firm.ro",
@@ -8351,6 +8351,7 @@
         "pointto.us",
         "pr.us",
         "pvt.k12.ma.us",
+        "ri.us",
         "sc.us",
         "sd.us",
         "stuff-4-sale.us",
@@ -8448,8 +8449,7 @@
         "edu.vu",
         "me.vu",
         "net.vu",
-        "org.vu",
-        "ri.us"
+        "org.vu"
     ],
     "win": [
         "that.win"
