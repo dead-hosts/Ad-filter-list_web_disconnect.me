@@ -1,15 +1,17 @@
-{
-    "abs_source": "/home/runner/work/Ad-filter-list_web_disconnect.me/Ad-filter-list_web_disconnect.me/origin.list",
-    "checker_type": "AVAILABILITY",
-    "destination": "origin.list",
-    "hash": "a11f918867541d83cbefcc2ff32f821bf8dec51f6affba43a0b6a64c",
-    "line_number": 2706,
-    "output_dir": "/home/runner/work/Ad-filter-list_web_disconnect.me/Ad-filter-list_web_disconnect.me/output/origin.list",
-    "previous_hash": "a11f918867541d83cbefcc2ff32f821bf8dec51f6affba43a0b6a64c",
-    "rel_source": "origin.list",
-    "session_id": "3cda5cb3118a9ad704638f79",
-    "source": "origin.list",
-    "subject": "origin.list",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/Ad-filter-list_web_disconnect.me/Ad-filter-list_web_disconnect.me/origin.list",
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "a11f918867541d83cbefcc2ff32f821bf8dec51f6affba43a0b6a64c",
+        "line_number": 2706,
+        "output_dir": "/home/runner/work/Ad-filter-list_web_disconnect.me/Ad-filter-list_web_disconnect.me/output/origin.list",
+        "previous_hash": "a11f918867541d83cbefcc2ff32f821bf8dec51f6affba43a0b6a64c",
+        "rel_source": "origin.list",
+        "session_id": "3cda5cb3118a9ad704638f79",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
