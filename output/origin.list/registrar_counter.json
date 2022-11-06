@@ -1,10 +1,16 @@
 {
     "counter": {
-        "Hetzner Online GmbH ( https://nic.at/registrar/225 )": 1,
-        "total": 1
+        "CommuniGal Communication Ltd.": 1,
+        "DYNADOT, LLC": 1,
+        "GMO Internet, Inc. d/b/a Onamae.com": 1,
+        "ICI - Registrar": 1,
+        "total": 4
     },
     "percentage": {
-        "Hetzner Online GmbH ( https://nic.at/registrar/225 )": 100.0,
+        "CommuniGal Communication Ltd.": 25.0,
+        "DYNADOT, LLC": 25.0,
+        "GMO Internet, Inc. d/b/a Onamae.com": 25.0,
+        "ICI - Registrar": 25.0,
         "total": 100.0
     }
 }
