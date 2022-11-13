@@ -6,8 +6,8 @@
     "finish_timestamp": 1668232195.868837,
     "last_download_datetime": "2020-12-28T05:52:50.749927",
     "last_download_timestamp": 1609134770.749927,
-    "latest_part_finish_datetime": "2022-11-12T05:49:55.868837",
-    "latest_part_finish_timestamp": 1668232195.868837,
+    "latest_part_finish_datetime": "2022-11-13T05:37:05.813708",
+    "latest_part_finish_timestamp": 1668317825.813708,
     "latest_part_start_datetime": "2020-12-28T05:52:50.765527",
     "latest_part_start_timestamp": 1609134770.765527,
     "live_update": true,
@@ -15,6 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+    "repo": "Ad-filter-list_web_disconnect.me/Ad-filter-list_web_disconnect.me",
     "start_datetime": "2020-12-28T05:52:50.762724",
     "start_timestamp": 1609134770.762724
 }
