@@ -2,11 +2,13 @@
     "counter": {
         "APA-IT Informations Technologie GmbH ( https://nic.at/registrar/658 )": 1,
         "Hetzner Online GmbH ( https://nic.at/registrar/225 )": 1,
-        "total": 2
+        "InterNetX GmbH ( https://nic.at/registrar/80 )": 1,
+        "total": 3
     },
     "percentage": {
-        "APA-IT Informations Technologie GmbH ( https://nic.at/registrar/658 )": 50.0,
-        "Hetzner Online GmbH ( https://nic.at/registrar/225 )": 50.0,
+        "APA-IT Informations Technologie GmbH ( https://nic.at/registrar/658 )": 33.333333333333336,
+        "Hetzner Online GmbH ( https://nic.at/registrar/225 )": 33.333333333333336,
+        "InterNetX GmbH ( https://nic.at/registrar/80 )": 33.333333333333336,
         "total": 100.0
     }
 }
